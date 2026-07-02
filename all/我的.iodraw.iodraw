@@ -81,6 +81,9 @@
         <mxCell id="yG1nch2jQ-K2OqUGOGDD-15" value="已完成" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="1370" y="20" width="120" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="yG1nch2jQ-K2OqUGOGDD-17" value="flowchart LR&#xa;    A[&quot;待评估&quot;]&#xa;    B[&quot;继续测试&quot;]&#xa;    C[&quot;已提交&quot;]&#xa;    D[&quot;审批通过&quot;]&#xa;    E[&quot;Prepare&quot;]&#xa;    F[&quot;Underway&quot;]&#xa;    G[&quot;Completed&quot;]&#xa;    H[&quot;已驳回&quot;]&#xa;    I[&quot;免测已提交 / 已结束&quot;]&#xa;&#xa;    A --&gt;|&quot;继续测试&quot;| B&#xa;    B --&gt;|&quot;确认提交&quot;| C&#xa;    C --&gt;|&quot;需求平台审批通过&quot;| D&#xa;    D --&gt;|&quot;进入测试执行&quot;| E&#xa;    E --&gt;|&quot;开始测试&quot;| F&#xa;    F --&gt;|&quot;测试完成&quot;| G&#xa;&#xa;    A --&gt;|&quot;提交免测：填写免测说明并回传需求平台&quot;| I&#xa;    C --&gt;|&quot;需求平台驳回&quot;| H&#xa;    H --&gt;|&quot;修改后再次提交&quot;| C&#xa;&#xa;    classDef pending fill:#EAF2F8,stroke:#6B8EAD,color:#1F2933&#xa;    classDef active fill:#E8F5E9,stroke:#6BA56B,color:#1F2933&#xa;    classDef submit fill:#FFF4CE,stroke:#D6A600,color:#1F2933&#xa;    classDef reject fill:#FDECEC,stroke:#C95F5F,color:#1F2933&#xa;    classDef normal fill:#F2F4F7,stroke:#9AA6B2,color:#1F2933&#xa;&#xa;    class A pending&#xa;    class B,D active&#xa;    class C submit&#xa;    class H,I reject&#xa;    class E,F,G normal" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry width="370" height="500" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
