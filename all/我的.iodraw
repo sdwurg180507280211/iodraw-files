@@ -38,7 +38,7 @@
         <mxCell id="yG1nch2jQ-K2OqUGOGDD-0" value="已提交" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="570" y="20" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="yG1nch2jQ-K2OqUGOGDD-3" value="已提交" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="yG1nch2jQ-K2OqUGOGDD-3" value="驳回" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="570" y="-100" width="120" height="40" as="geometry" />
         </mxCell>
       </root>
