@@ -105,8 +105,8 @@
         </mxCell>
         <mxCell id="D9LbuRxHuZwlqRYzUCEN-3" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="490" y="790" as="sourcePoint" />
-            <mxPoint x="490" y="420" as="targetPoint" />
+            <mxPoint x="490" y="820" as="sourcePoint" />
+            <mxPoint x="490" y="450" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="D9LbuRxHuZwlqRYzUCEN-5" value="创建模块" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="D9LbuRxHuZwlqRYzUCEN-3">
