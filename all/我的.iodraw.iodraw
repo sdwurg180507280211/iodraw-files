@@ -134,6 +134,9 @@
         <mxCell id="D9LbuRxHuZwlqRYzUCEN-13" value="（1）自动创建数据&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;（2）测试计划新增字段：总需求编号，需求编号，需求规格说明书链接，开发计划完成时间&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="540" y="530" width="510" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="D9LbuRxHuZwlqRYzUCEN-15" value="Text" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="575" y="288" width="50" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
