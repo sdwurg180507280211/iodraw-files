@@ -161,8 +161,8 @@
         <mxCell id="D9LbuRxHuZwlqRYzUCEN-21" value="（1）评审测试计划内的周期，人力安排等数据&lt;div&gt;（2）在测试平台点击状态字段，弹出审批窗口，展开审批工作。&lt;/div&gt;&lt;div&gt;（3）审批通过；审批驳回，附上修改意见；&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="550" y="730" width="370" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="D9LbuRxHuZwlqRYzUCEN-24" value="Text" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="235" y="888" width="50" height="30" as="geometry" />
+        <mxCell id="D9LbuRxHuZwlqRYzUCEN-24" value="开发实际完成时间" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="200" y="888" width="120" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
