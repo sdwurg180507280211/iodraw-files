@@ -103,6 +103,11 @@
             <mxPoint y="43" as="offset" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="D9LbuRxHuZwlqRYzUCEN-23" value="开发完成" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="D9LbuRxHuZwlqRYzUCEN-2">
+          <mxGeometry x="-0.5946" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="D9LbuRxHuZwlqRYzUCEN-3" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="490" y="1020" as="sourcePoint" />
@@ -126,7 +131,7 @@
         </mxCell>
         <mxCell id="D9LbuRxHuZwlqRYzUCEN-22" value="测试准备阶段&lt;div&gt;用例编写&lt;/div&gt;&lt;div&gt;用例评审&lt;/div&gt;&lt;div&gt;等待开发提测&lt;/div&gt;" style="edgeLabel;html=1;align=left;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="D9LbuRxHuZwlqRYzUCEN-3">
           <mxGeometry x="-0.3319" relative="1" as="geometry">
-            <mxPoint as="offset" />
+            <mxPoint x="-30" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="D9LbuRxHuZwlqRYzUCEN-7" value="(1)主流程编码 REQUEST&lt;br&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;(2)&lt;/span&gt;需求编号（前缀对应所属系统/左侧目录）&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;(3)&lt;/span&gt;需求名称&lt;/div&gt;&lt;div&gt;(4)业务原始需求ZIP包链接&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
@@ -155,6 +160,9 @@
         </mxCell>
         <mxCell id="D9LbuRxHuZwlqRYzUCEN-21" value="（1）评审测试计划内的周期，人力安排等数据&lt;div&gt;（2）在测试平台点击状态字段，弹出审批窗口，展开审批工作。&lt;/div&gt;&lt;div&gt;（3）审批通过；审批驳回，附上修改意见；&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="550" y="730" width="370" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="D9LbuRxHuZwlqRYzUCEN-24" value="Text" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="235" y="888" width="50" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
