@@ -105,7 +105,7 @@
         </mxCell>
         <mxCell id="D9LbuRxHuZwlqRYzUCEN-23" value="开发完成" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="D9LbuRxHuZwlqRYzUCEN-2">
           <mxGeometry x="-0.5946" y="1" relative="1" as="geometry">
-            <mxPoint y="4" as="offset" />
+            <mxPoint y="-6" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="D9LbuRxHuZwlqRYzUCEN-3" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
@@ -164,8 +164,8 @@
         <mxCell id="D9LbuRxHuZwlqRYzUCEN-24" value="开发实际完成时间" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="200" y="895" width="120" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="D9LbuRxHuZwlqRYzUCEN-25" value="进入测试执行阶段&lt;div&gt;流转缺陷&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="450" y="890" width="120" height="40" as="geometry" />
+        <mxCell id="D9LbuRxHuZwlqRYzUCEN-25" value="进入测试执行阶段&lt;div&gt;流转缺陷&lt;/div&gt;&lt;div&gt;生成测试报告&lt;/div&gt;&lt;div&gt;办结&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="450" y="875" width="120" height="70" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
