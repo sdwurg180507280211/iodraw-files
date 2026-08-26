@@ -140,8 +140,8 @@
         <mxCell id="D9LbuRxHuZwlqRYzUCEN-17" value="测试团队负责人&lt;div&gt;修改计划，分发任务&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="420" y="643" width="130" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="D9LbuRxHuZwlqRYzUCEN-18" value="（1）自动创建数据&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;（2）测试计划新增字段：总需求编号，需求编号，需求规格说明书链接，开发计划完成时间&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="550" y="620" width="510" height="40" as="geometry" />
+        <mxCell id="D9LbuRxHuZwlqRYzUCEN-18" value="（1）结合现有人力，现有人力排期&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;（2）撰写：计划测试准备开始时间/计划测试准备结束时间/计划测试执行开始时间/计划测试执行结束时间&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;（3）测试计划新增字段：&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;计划测试准备开始时间/计划测试准备结束时间&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="550" y="610" width="580" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
