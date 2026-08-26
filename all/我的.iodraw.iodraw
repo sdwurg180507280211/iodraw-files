@@ -1,6 +1,6 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36" version="24.7.17">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
-    <mxGraphModel dx="687" dy="1542" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1514" dy="1542" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
@@ -82,15 +82,15 @@
           <mxGeometry x="1370" y="20" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="D9LbuRxHuZwlqRYzUCEN-0" value="全研发流程平台" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="140" y="380" width="120" height="40" as="geometry" />
+          <mxGeometry x="-10" y="380" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="D9LbuRxHuZwlqRYzUCEN-1" value="自动化测试平台" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="430" y="380" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="D9LbuRxHuZwlqRYzUCEN-2" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="200" y="790" as="sourcePoint" />
-            <mxPoint x="200" y="420" as="targetPoint" />
+            <mxPoint x="50" y="790" as="sourcePoint" />
+            <mxPoint x="50" y="420" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="D9LbuRxHuZwlqRYzUCEN-4" value="创建需求" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="D9LbuRxHuZwlqRYzUCEN-2">
@@ -110,7 +110,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="D9LbuRxHuZwlqRYzUCEN-7" value="主流程编码 REQUEST&lt;div&gt;需求编号（对应所属系统）&lt;/div&gt;&lt;div style=&quot;&quot;&gt;需求名称&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="255" y="378" width="170" height="70" as="geometry" />
+          <mxGeometry x="280" y="380" width="170" height="70" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
