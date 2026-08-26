@@ -124,6 +124,11 @@
             <mxPoint y="-167" as="offset" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="D9LbuRxHuZwlqRYzUCEN-22" value="测试准备阶段&lt;div&gt;用例编写&lt;/div&gt;&lt;div&gt;用例评审&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="D9LbuRxHuZwlqRYzUCEN-3">
+          <mxGeometry x="-0.3319" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="D9LbuRxHuZwlqRYzUCEN-7" value="(1)主流程编码 REQUEST&lt;br&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;(2)&lt;/span&gt;需求编号（前缀对应所属系统/左侧目录）&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;(3)&lt;/span&gt;需求名称&lt;/div&gt;&lt;div&gt;(4)业务原始需求ZIP包链接&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="180" y="420" width="260" height="70" as="geometry" />
         </mxCell>
