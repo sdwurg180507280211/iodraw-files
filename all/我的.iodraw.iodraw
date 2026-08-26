@@ -119,6 +119,11 @@
             <mxPoint y="-11" as="offset" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="D9LbuRxHuZwlqRYzUCEN-20" value="测试总负责人评审" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="D9LbuRxHuZwlqRYzUCEN-3">
+          <mxGeometry x="-0.6748" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="D9LbuRxHuZwlqRYzUCEN-7" value="(1)主流程编码 REQUEST&lt;br&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;(2)&lt;/span&gt;需求编号（前缀对应所属系统/左侧目录）&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;(3)&lt;/span&gt;需求名称&lt;/div&gt;&lt;div&gt;(4)业务原始需求ZIP包链接&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="180" y="420" width="260" height="70" as="geometry" />
         </mxCell>
@@ -140,11 +145,11 @@
         <mxCell id="D9LbuRxHuZwlqRYzUCEN-17" value="测试团队负责人&lt;div&gt;修改计划，分发任务&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="420" y="633" width="130" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="D9LbuRxHuZwlqRYzUCEN-18" value="（1）结合现有人力，现有人力排期&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;（2）撰写：计划测试准备开始时间/计划测试准备结束时间/计划测试执行开始时间/计划测试执行结束时间&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;（3）测试计划新增字段：&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;计划测试准备开始时间/计划测试准备结束时间&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="550" y="623" width="580" height="60" as="geometry" />
+        <mxCell id="D9LbuRxHuZwlqRYzUCEN-18" value="（1）结合现有人力，现有人力排期。&lt;span style=&quot;color: rgb(255, 0, 0); text-align: center;&quot;&gt;需要系统统计团队每个人力的时间排期。&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;（2）撰写：计划测试准备开始时间/计划测试准备结束时间/计划测试执行开始时间/计划测试执行结束时间&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;（3）测试计划新增字段：&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;计划测试准备开始时间/计划测试准备结束时间&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;（4）撰写完成后，状态改为评审中，禁止修改&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;（5）评审不通过，继续修改；评审通过，进入“测试准备”阶段&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="550" y="608" width="580" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="D9LbuRxHuZwlqRYzUCEN-19" value="&lt;font color=&quot;#ff0000&quot;&gt;需求统计团队每个人力的时间排期&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="650" y="598" width="200" height="30" as="geometry" />
+        <mxCell id="D9LbuRxHuZwlqRYzUCEN-21" value="（1）评审测试计划内的手机周期，人力安排等数据&lt;div&gt;（2）在测试平台展开审批工作。&lt;/div&gt;&lt;div&gt;（3）&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="550" y="730" width="290" height="70" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
