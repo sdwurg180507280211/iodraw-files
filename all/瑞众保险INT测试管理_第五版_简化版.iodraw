@@ -28,6 +28,11 @@
             <mxPoint x="575" y="1070" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="CJliqk0zyX88n1QdsIKA-11" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="l2">
+          <mxGeometry x="-0.6717" y="-2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="state_title" value="页面四大状态" style="text;html=1;strokeColor=none;fillColor=none;whiteSpace=wrap;align=center;verticalAlign=middle;fontSize=12;fontColor=#1F2329;fontStyle=1;" parent="1" vertex="1">
           <mxGeometry x="945" y="110" width="130" height="25" as="geometry" />
         </mxCell>
@@ -175,8 +180,8 @@
             <mxPoint x="532.5" y="320" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="CJliqk0zyX88n1QdsIKA-10" value="创建子需求后，自动创建一条测试计划" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="210" y="290" width="230" height="30" as="geometry" />
+        <mxCell id="CJliqk0zyX88n1QdsIKA-10" value="全研发平台创建子需求后，自动创建一条测试计划" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="185" y="285" width="290" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
