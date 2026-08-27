@@ -1,6 +1,6 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/152.0.0.0 Safari/537.36" version="24.7.17">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
-    <mxGraphModel dx="2014" dy="645" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2133" dy="709" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
@@ -31,7 +31,7 @@
             <mxPoint y="-36" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="D9LbuRxHuZwlqRYzUCEN-3" value="" style="endArrow=none;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" edge="1" target="D9LbuRxHuZwlqRYzUCEN-1">
+        <mxCell id="D9LbuRxHuZwlqRYzUCEN-3" value="" style="endArrow=none;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" target="D9LbuRxHuZwlqRYzUCEN-1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="490" y="1020" as="sourcePoint" />
             <mxPoint x="490" y="450" as="targetPoint" />
@@ -63,8 +63,8 @@
         <mxCell id="D9LbuRxHuZwlqRYzUCEN-8" value="（1）创建左侧模块：所属系统 &amp;gt; 主流程编码-需求名称&lt;div&gt;（2）右侧新增按钮：原始需求ZIP包链接&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="540" y="450" width="310" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="D9LbuRxHuZwlqRYzUCEN-12" value="&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;(5)&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;指定测试团队负责人&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;font color=&quot;#ff0000&quot;&gt;(6)测试组？&lt;/font&gt;&lt;/div&gt;&lt;div&gt;(7)需求规格说明书链接&lt;/div&gt;&lt;div&gt;(8)开发计划完成时间&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="180" y="530" width="150" height="70" as="geometry" />
+        <mxCell id="D9LbuRxHuZwlqRYzUCEN-12" value="&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;(5)需求规格说明书链接&lt;/span&gt;&lt;/div&gt;&lt;div&gt;(6)开发计划完成时间&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="180" y="545" width="150" height="40" as="geometry" />
         </mxCell>
         <mxCell id="D9LbuRxHuZwlqRYzUCEN-13" value="（1）自动创建数据，自动填写：计划名称/所属系统/冒烟测试&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;（2）测试计划新增字段：总需求编号，需求编号，需求规格说明书链接，开发计划完成时间&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="540" y="540" width="510" height="40" as="geometry" />
@@ -87,7 +87,7 @@
         <mxCell id="D9LbuRxHuZwlqRYzUCEN-25" value="进入测试执行阶段&lt;div&gt;流转缺陷&lt;/div&gt;&lt;div&gt;生成测试报告&lt;/div&gt;&lt;div&gt;办结&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="450" y="940" width="120" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="YMm1cGP8yCt7qvQNiOCj-0" value="状态显示&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;测试计划&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;测试准备&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;测试执行&lt;/div&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="YMm1cGP8yCt7qvQNiOCj-0" value="状态显示&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;测试计划&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;测试准备&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;测试执行&lt;/div&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="760" y="295" width="70" height="110" as="geometry" />
         </mxCell>
       </root>
