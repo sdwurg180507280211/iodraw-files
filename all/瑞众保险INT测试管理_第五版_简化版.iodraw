@@ -157,8 +157,8 @@
         <mxCell id="endlabel" value="办结结果回传" style="text;html=1;strokeColor=none;fillColor=none;whiteSpace=wrap;align=center;verticalAlign=middle;fontSize=12;fontColor=#666666;" parent="1" vertex="1">
           <mxGeometry x="245" y="1028" width="170" height="25" as="geometry" />
         </mxCell>
-        <mxCell id="CJliqk0zyX88n1QdsIKA-1" value="Text" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="-195" y="68" width="50" height="30" as="geometry" />
+        <mxCell id="CJliqk0zyX88n1QdsIKA-1" value="&lt;span style=&quot;color: rgb(31, 35, 41); text-align: left; white-space: normal;&quot;&gt;总需求编号、需求名称、子需求编号&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-280" y="68" width="220" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
