@@ -100,7 +100,7 @@
         </mxCell>
         <mxCell id="D9LbuRxHuZwlqRYzUCEN-11" value="创建业务需求2" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="D9LbuRxHuZwlqRYzUCEN-2" vertex="1" connectable="0">
           <mxGeometry x="0.4226" y="2" relative="1" as="geometry">
-            <mxPoint y="-46" as="offset" />
+            <mxPoint y="-36" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="D9LbuRxHuZwlqRYzUCEN-23" value="开发完成" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="D9LbuRxHuZwlqRYzUCEN-2" vertex="1" connectable="0">
