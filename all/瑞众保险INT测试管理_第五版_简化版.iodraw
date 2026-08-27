@@ -49,7 +49,7 @@
         <mxCell id="a1" value="创建业务需求 / 系统优化需求" style="text;html=1;strokeColor=none;fillColor=none;whiteSpace=wrap;align=center;verticalAlign=middle;fontSize=12;fontColor=#1F2329;" parent="1" vertex="1">
           <mxGeometry x="-50" y="220" width="190" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="a1d" value="业务需求：总需求编号、原始需求链接&lt;br&gt;系统优化：系统需求编号&lt;br&gt;并带需求编号简写，用于匹配所属系统/测试组/负责人" style="text;html=1;strokeColor=none;fillColor=none;whiteSpace=wrap;align=left;verticalAlign=middle;fontSize=12;fontColor=#1F2329;" parent="1" vertex="1">
+        <mxCell id="a1d" value="业务需求：总需求编号、原始需求链接&lt;br&gt;系统优化：系统需求编号&lt;br&gt;需求编号简写，用于匹配所属系统/测试组/负责人" style="text;html=1;strokeColor=none;fillColor=none;whiteSpace=wrap;align=left;verticalAlign=middle;fontSize=12;fontColor=#1F2329;" parent="1" vertex="1">
           <mxGeometry x="195" y="185" width="290" height="70" as="geometry" />
         </mxCell>
         <mxCell id="a1x" value="" style="endArrow=block;endFill=1;html=1;rounded=0;strokeWidth=1.2;strokeColor=#666666;" parent="1" edge="1">
