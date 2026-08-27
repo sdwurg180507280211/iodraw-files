@@ -55,7 +55,7 @@
             <mxPoint x="535" y="255" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="b1" value="自动创建左侧根目录" style="text;html=1;strokeColor=none;fillColor=none;whiteSpace=wrap;align=center;verticalAlign=middle;fontSize=12;fontColor=#1F2329;" parent="1" vertex="1">
+        <mxCell id="b1" value="自动创建左侧根目录&lt;div&gt;/&lt;span style=&quot;background-color: initial;&quot;&gt;测试计划&lt;/span&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;whiteSpace=wrap;align=center;verticalAlign=middle;fontSize=12;fontColor=#1F2329;" parent="1" vertex="1">
           <mxGeometry x="505" y="205" width="150" height="30" as="geometry" />
         </mxCell>
         <mxCell id="b1d" value="右侧测试计划暂时为空&lt;br&gt;此时可理解为：&lt;b&gt;需求已接收&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;whiteSpace=wrap;align=left;verticalAlign=middle;fontSize=12;fontColor=#1F2329;" parent="1" vertex="1">
