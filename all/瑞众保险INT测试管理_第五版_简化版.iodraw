@@ -157,6 +157,9 @@
         <mxCell id="endlabel" value="办结结果回传" style="text;html=1;strokeColor=none;fillColor=none;whiteSpace=wrap;align=center;verticalAlign=middle;fontSize=12;fontColor=#666666;" parent="1" vertex="1">
           <mxGeometry x="245" y="1028" width="170" height="25" as="geometry" />
         </mxCell>
+        <mxCell id="CJliqk0zyX88n1QdsIKA-1" value="Text" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-195" y="68" width="50" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
