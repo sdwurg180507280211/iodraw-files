@@ -183,8 +183,8 @@
         <mxCell id="CJliqk0zyX88n1QdsIKA-10" value="全研发平台创建子需求后，传递需求编号和需求名称，自动创建一条数据" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="125" y="285" width="410" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="CJliqk0zyX88n1QdsIKA-12" value="1.“&lt;span style=&quot;color: rgb(31, 35, 41); white-space: normal;&quot;&gt;计划测试准备开始/结束时间及执行人”&lt;/span&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="950" y="448" width="240" height="30" as="geometry" />
+        <mxCell id="CJliqk0zyX88n1QdsIKA-13" value="查看团队现有人力和现有排期&lt;br&gt;填写计划测试准备开始/结束时间及执行人&lt;br&gt;填写计划测试执行开始/结束时间及执行人&lt;br&gt;多人参与时分别填写时间&lt;br&gt;确认是否需要冒烟测试" style="text;html=1;strokeColor=none;fillColor=none;whiteSpace=wrap;align=left;verticalAlign=middle;fontSize=12;fontColor=#1F2329;" vertex="1" parent="1">
+          <mxGeometry x="970" y="410" width="360" height="100" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
