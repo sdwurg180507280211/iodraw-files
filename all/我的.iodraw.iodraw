@@ -116,12 +116,12 @@
         </mxCell>
         <mxCell id="D9LbuRxHuZwlqRYzUCEN-5" value="创建模块" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="D9LbuRxHuZwlqRYzUCEN-3" vertex="1" connectable="0">
           <mxGeometry x="0.8515" y="1" relative="1" as="geometry">
-            <mxPoint x="1" y="7" as="offset" />
+            <mxPoint x="1" y="-12" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="D9LbuRxHuZwlqRYzUCEN-14" value="创建数据" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="D9LbuRxHuZwlqRYzUCEN-3" vertex="1" connectable="0">
           <mxGeometry x="0.185" relative="1" as="geometry">
-            <mxPoint y="-11" as="offset" />
+            <mxPoint x="-10" y="-132" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="D9LbuRxHuZwlqRYzUCEN-20" value="测试总负责人评审" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="D9LbuRxHuZwlqRYzUCEN-3" vertex="1" connectable="0">
