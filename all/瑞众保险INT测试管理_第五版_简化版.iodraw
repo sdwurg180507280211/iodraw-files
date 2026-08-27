@@ -91,7 +91,7 @@
           <mxGeometry x="480" y="445" width="195" height="30" as="geometry" />
         </mxCell>
         <mxCell id="b3d" value="查看团队现有人力和现有排期&lt;br&gt;填写计划测试准备开始/结束时间及执行人&lt;br&gt;填写计划测试执行开始/结束时间及执行人&lt;br&gt;多人参与时分别填写时间&lt;br&gt;确认是否需要冒烟测试" style="text;html=1;strokeColor=none;fillColor=none;whiteSpace=wrap;align=left;verticalAlign=middle;fontSize=12;fontColor=#1F2329;" parent="1" vertex="1">
-          <mxGeometry x="675" y="420" width="360" height="100" as="geometry" />
+          <mxGeometry x="670" y="420" width="360" height="100" as="geometry" />
         </mxCell>
         <mxCell id="b4" value="测试总负责人审批" style="text;html=1;strokeColor=none;fillColor=none;whiteSpace=wrap;align=center;verticalAlign=middle;fontSize=12;fontColor=#1F2329;" parent="1" vertex="1">
           <mxGeometry x="495" y="535" width="165" height="30" as="geometry" />
