@@ -98,7 +98,7 @@
           <mxGeometry x="665" y="520" width="335" height="55" as="geometry" />
         </mxCell>
         <mxCell id="b4e" value="审批通过后，全研发接收计划开始时间、计划结束时间&lt;br&gt;计划调整：原计划不覆盖，另传调整后时间及调整原因" style="text;html=1;strokeColor=none;fillColor=none;whiteSpace=wrap;align=left;verticalAlign=middle;fontSize=12;fontColor=#1F2329;" parent="1" vertex="1">
-          <mxGeometry x="180" y="535" width="300" height="70" as="geometry" />
+          <mxGeometry x="180" y="520" width="300" height="70" as="geometry" />
         </mxCell>
         <mxCell id="n3" value="3. 测试准备" style="text;html=1;strokeColor=none;fillColor=none;whiteSpace=wrap;align=left;verticalAlign=middle;fontSize=12;fontColor=#1F2329;fontStyle=1;" parent="1" vertex="1">
           <mxGeometry x="-50" y="620" width="120" height="25" as="geometry" />
