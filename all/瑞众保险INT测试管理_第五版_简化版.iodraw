@@ -160,6 +160,12 @@
         <mxCell id="CJliqk0zyX88n1QdsIKA-5" value="办结" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;fontStyle=1;strokeWidth=1;fillColor=#F5F5F5;strokeColor=#BBBBBB;align=center;" vertex="1" parent="1">
           <mxGeometry x="955" y="985" width="110" height="32" as="geometry" />
         </mxCell>
+        <mxCell id="CJliqk0zyX88n1QdsIKA-6" value="" style="endArrow=block;endFill=1;html=1;rounded=0;strokeWidth=1.2;strokeColor=#666666;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="455" y="666.63" as="sourcePoint" />
+            <mxPoint x="70" y="666.63" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
