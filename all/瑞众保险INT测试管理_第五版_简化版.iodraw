@@ -183,8 +183,8 @@
         <mxCell id="CJliqk0zyX88n1QdsIKA-10" value="全研发平台创建子需求后，传递需求编号和需求名称，自动创建一条数据" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="125" y="285" width="410" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="CJliqk0zyX88n1QdsIKA-13" value="&lt;span style=&quot;color: rgb(0, 0, 0); white-space: nowrap;&quot;&gt;1.“&lt;/span&gt;计划测试准备开始/结束时间及执行人” 右侧有个+号，点击后，整天新加一行。&amp;nbsp;&lt;br&gt;2.每行选择执行人时，下拉框单选，每个执行人的时间都不相同&lt;div&gt;3.做一个执行人时间表，在选择时间的时候可以看到所有执行人的时间安排，&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;whiteSpace=wrap;align=left;verticalAlign=middle;fontSize=12;fontColor=#1F2329;" vertex="1" parent="1">
-          <mxGeometry x="1035" y="420" width="360" height="100" as="geometry" />
+        <mxCell id="CJliqk0zyX88n1QdsIKA-13" value="&lt;span style=&quot;color: rgb(0, 0, 0); white-space: nowrap;&quot;&gt;1.“&lt;/span&gt;计划测试准备开始/结束时间及执行人” 右侧有个+号，点击后，整天新加一行。&amp;nbsp;&lt;br&gt;2.每行选择执行人时，下拉框单选，每个执行人的时间都不相同&lt;div&gt;3.做一个执行人时间表，在选择时间的时候可以看到所有执行人的时间安排，只包括测试准备时间和测试执行时间&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;whiteSpace=wrap;align=left;verticalAlign=middle;fontSize=12;fontColor=#1F2329;" vertex="1" parent="1">
+          <mxGeometry x="1035" y="420" width="815" height="100" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
