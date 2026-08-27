@@ -183,8 +183,8 @@
         <mxCell id="CJliqk0zyX88n1QdsIKA-10" value="全研发平台创建子需求后，传递需求编号和需求名称，自动创建一条数据" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="125" y="285" width="410" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="CJliqk0zyX88n1QdsIKA-12" value="Text" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="1045" y="448" width="50" height="30" as="geometry" />
+        <mxCell id="CJliqk0zyX88n1QdsIKA-12" value="1." style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1055" y="448" width="30" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
