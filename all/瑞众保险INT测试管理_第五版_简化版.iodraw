@@ -171,9 +171,12 @@
         </mxCell>
         <mxCell id="CJliqk0zyX88n1QdsIKA-9" value="" style="endArrow=block;endFill=1;html=1;rounded=0;strokeWidth=1.2;strokeColor=#666666;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="160" y="265" as="sourcePoint" />
-            <mxPoint x="545" y="265" as="targetPoint" />
+            <mxPoint x="147.5" y="330" as="sourcePoint" />
+            <mxPoint x="532.5" y="330" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="CJliqk0zyX88n1QdsIKA-10" value="创建子需求后，自动创建一条测试计划" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="105" y="288" width="230" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
