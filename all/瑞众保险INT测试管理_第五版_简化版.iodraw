@@ -41,7 +41,7 @@
           <mxGeometry x="955" y="850" width="110" height="32" as="geometry" />
         </mxCell>
         <mxCell id="state_note" value="“需求已接收”是进入测试前的等待节点&lt;br&gt;“办结”是测试执行后的结束节点" style="text;html=1;strokeColor=none;fillColor=none;whiteSpace=wrap;align=center;verticalAlign=middle;fontSize=12;fontColor=#666666;" parent="1" vertex="1">
-          <mxGeometry x="915" y="920" width="210" height="70" as="geometry" />
+          <mxGeometry x="1020" y="735" width="210" height="70" as="geometry" />
         </mxCell>
         <mxCell id="n1" value="1. 测试介入" style="text;html=1;strokeColor=none;fillColor=none;whiteSpace=wrap;align=left;verticalAlign=middle;fontSize=12;fontColor=#1F2329;fontStyle=1;" parent="1" vertex="1">
           <mxGeometry x="-50" y="185" width="120" height="25" as="geometry" />
