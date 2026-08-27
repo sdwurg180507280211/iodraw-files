@@ -59,10 +59,10 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="b1" value="自动创建左侧根目录" style="text;html=1;strokeColor=none;fillColor=none;whiteSpace=wrap;align=center;verticalAlign=middle;fontSize=12;fontColor=#1F2329;" parent="1" vertex="1">
-          <mxGeometry x="505" y="220" width="150" height="30" as="geometry" />
+          <mxGeometry x="505" y="205" width="150" height="30" as="geometry" />
         </mxCell>
         <mxCell id="b1d" value="右侧测试计划暂时为空&lt;br&gt;此时可理解为：&lt;b&gt;需求已接收&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;whiteSpace=wrap;align=left;verticalAlign=middle;fontSize=12;fontColor=#1F2329;" parent="1" vertex="1">
-          <mxGeometry x="650" y="215" width="230" height="55" as="geometry" />
+          <mxGeometry x="650" y="192.5" width="230" height="55" as="geometry" />
         </mxCell>
         <mxCell id="n2" value="2. 测试计划" style="text;html=1;strokeColor=none;fillColor=none;whiteSpace=wrap;align=left;verticalAlign=middle;fontSize=12;fontColor=#1F2329;fontStyle=1;" parent="1" vertex="1">
           <mxGeometry x="-50" y="315" width="120" height="25" as="geometry" />
