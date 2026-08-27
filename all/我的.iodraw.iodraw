@@ -105,7 +105,7 @@
         </mxCell>
         <mxCell id="D9LbuRxHuZwlqRYzUCEN-23" value="开发完成" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="D9LbuRxHuZwlqRYzUCEN-2" vertex="1" connectable="0">
           <mxGeometry x="-0.5946" y="1" relative="1" as="geometry">
-            <mxPoint y="-6" as="offset" />
+            <mxPoint y="-36" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="D9LbuRxHuZwlqRYzUCEN-3" value="" style="endArrow=none;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" edge="1" target="D9LbuRxHuZwlqRYzUCEN-1">
