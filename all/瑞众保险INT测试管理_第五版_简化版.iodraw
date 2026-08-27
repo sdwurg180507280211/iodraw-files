@@ -95,7 +95,7 @@
           <mxGeometry x="660" y="530" width="335" height="55" as="geometry" />
         </mxCell>
         <mxCell id="b4e" value="审批通过后，全研发接收计划开始时间、计划结束时间&lt;br&gt;计划调整：原计划不覆盖，另传调整后时间及调整原因" style="text;html=1;strokeColor=none;fillColor=none;whiteSpace=wrap;align=left;verticalAlign=middle;fontSize=12;fontColor=#1F2329;" parent="1" vertex="1">
-          <mxGeometry x="140" y="620" width="300" height="70" as="geometry" />
+          <mxGeometry x="190" y="632" width="300" height="70" as="geometry" />
         </mxCell>
         <mxCell id="n3" value="3. 测试准备" style="text;html=1;strokeColor=none;fillColor=none;whiteSpace=wrap;align=left;verticalAlign=middle;fontSize=12;fontColor=#1F2329;fontStyle=1;" parent="1" vertex="1">
           <mxGeometry x="-50" y="620" width="120" height="25" as="geometry" />
@@ -162,8 +162,8 @@
         </mxCell>
         <mxCell id="CJliqk0zyX88n1QdsIKA-6" value="" style="endArrow=block;endFill=1;html=1;rounded=0;strokeWidth=1.2;strokeColor=#666666;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="480" y="690" as="sourcePoint" />
-            <mxPoint x="95" y="690" as="targetPoint" />
+            <mxPoint x="532.5" y="700" as="sourcePoint" />
+            <mxPoint x="147.5" y="700" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
