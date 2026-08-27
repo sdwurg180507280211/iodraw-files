@@ -35,7 +35,7 @@
           <mxGeometry x="955" y="355" width="110" height="32" as="geometry" />
         </mxCell>
         <mxCell id="s2" value="测试准备" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;fontStyle=1;strokeWidth=1;fillColor=#F5F5F5;strokeColor=#BBBBBB;align=center;" parent="1" vertex="1">
-          <mxGeometry x="955" y="530" width="110" height="32" as="geometry" />
+          <mxGeometry x="955" y="651" width="110" height="32" as="geometry" />
         </mxCell>
         <mxCell id="s3" value="测试执行" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;fontStyle=1;strokeWidth=1;fillColor=#F5F5F5;strokeColor=#BBBBBB;align=center;" parent="1" vertex="1">
           <mxGeometry x="955" y="720" width="110" height="32" as="geometry" />
