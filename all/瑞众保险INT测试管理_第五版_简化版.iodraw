@@ -50,7 +50,7 @@
           <mxGeometry x="-50" y="220" width="190" height="30" as="geometry" />
         </mxCell>
         <mxCell id="a1d" value="业务需求：总需求编号、原始需求链接&lt;br&gt;系统优化：系统需求编号&lt;br&gt;并带需求编号简写，用于匹配所属系统/测试组/负责人" style="text;html=1;strokeColor=none;fillColor=none;whiteSpace=wrap;align=left;verticalAlign=middle;fontSize=12;fontColor=#1F2329;" parent="1" vertex="1">
-          <mxGeometry x="185" y="205" width="290" height="70" as="geometry" />
+          <mxGeometry x="195" y="185" width="290" height="70" as="geometry" />
         </mxCell>
         <mxCell id="a1x" value="" style="endArrow=block;endFill=1;html=1;rounded=0;strokeWidth=1.2;strokeColor=#666666;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -71,7 +71,7 @@
           <mxGeometry x="-35" y="350" width="160" height="30" as="geometry" />
         </mxCell>
         <mxCell id="a2d" value="需求规格说明书&lt;br&gt;开发计划完成时间&lt;br&gt;需求编号" style="text;html=1;strokeColor=none;fillColor=none;whiteSpace=wrap;align=left;verticalAlign=middle;fontSize=12;fontColor=#1F2329;" parent="1" vertex="1">
-          <mxGeometry x="195" y="330" width="210" height="70" as="geometry" />
+          <mxGeometry x="200" y="330" width="210" height="70" as="geometry" />
         </mxCell>
         <mxCell id="a2x" value="" style="endArrow=block;endFill=1;html=1;rounded=0;strokeWidth=1.2;strokeColor=#666666;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
