@@ -76,7 +76,7 @@
             <mxPoint x="535" y="405" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="b2" value="两项信息齐备后&lt;br&gt;自动创建测试计划" style="text;html=1;strokeColor=none;fillColor=none;whiteSpace=wrap;align=center;verticalAlign=middle;fontSize=12;fontColor=#1F2329;" parent="1" vertex="1">
+        <mxCell id="b2" value="两项信息齐备后&lt;br&gt;状态改为测试计划" style="text;html=1;strokeColor=none;fillColor=none;whiteSpace=wrap;align=center;verticalAlign=middle;fontSize=12;fontColor=#1F2329;" parent="1" vertex="1">
           <mxGeometry x="490" y="355" width="175" height="45" as="geometry" />
         </mxCell>
         <mxCell id="b2d" value="阶段进入：&lt;b&gt;测试计划&lt;/b&gt;&lt;br&gt;按需求编号通知对应测试团队负责人" style="text;html=1;strokeColor=none;fillColor=none;whiteSpace=wrap;align=left;verticalAlign=middle;fontSize=12;fontColor=#1F2329;" parent="1" vertex="1">
@@ -176,7 +176,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="CJliqk0zyX88n1QdsIKA-10" value="创建子需求后，自动创建一条测试计划" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="105" y="288" width="230" height="30" as="geometry" />
+          <mxGeometry x="225" y="285" width="230" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
