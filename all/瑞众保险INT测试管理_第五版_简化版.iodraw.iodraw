@@ -145,7 +145,7 @@
           <mxGeometry x="455" y="1010" width="240" height="30" as="geometry" />
         </mxCell>
         <mxCell id="b9d" value="办结前：用例只允许“通过 / 跳过”&lt;br&gt;不能存在“未执行 / 不通过 / 阻塞”&lt;br&gt;分享后向全研发同步：实际执行结束时间、状态、报告链接&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;测试报告内容：缺陷数据，关联的用例数据，8个时间字段，执行人&lt;/div&gt;&lt;div&gt;分析一下满足什么条件才能进入已办结状态&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;whiteSpace=wrap;align=left;verticalAlign=middle;fontSize=12;fontColor=#1F2329;" parent="1" vertex="1">
-          <mxGeometry x="685" y="1028" width="390" height="80" as="geometry" />
+          <mxGeometry x="685" y="1028" width="390" height="102" as="geometry" />
         </mxCell>
         <mxCell id="endx" value="" style="endArrow=block;endFill=1;html=1;rounded=0;strokeWidth=1.2;strokeColor=#666666;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
