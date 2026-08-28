@@ -100,7 +100,7 @@
           <mxGeometry x="660" y="530" width="335" height="55" as="geometry" />
         </mxCell>
         <mxCell id="b4e" value="（可选，也可以结束时一块传递）审批通过后，向全研发同步测试准备开始时间/计划测试执行结束时间" style="text;html=1;strokeColor=none;fillColor=none;whiteSpace=wrap;align=left;verticalAlign=middle;fontSize=12;fontColor=#1F2329;" parent="1" vertex="1">
-          <mxGeometry x="102.5" y="510" width="405" height="110" as="geometry" />
+          <mxGeometry x="102.5" y="585" width="405" height="110" as="geometry" />
         </mxCell>
         <mxCell id="n3" value="3. 测试准备" style="text;html=1;strokeColor=none;fillColor=none;whiteSpace=wrap;align=left;verticalAlign=middle;fontSize=12;fontColor=#1F2329;fontStyle=1;" parent="1" vertex="1">
           <mxGeometry x="-50" y="620" width="120" height="25" as="geometry" />
@@ -194,6 +194,9 @@
         </mxCell>
         <mxCell id="_QjBsTqZyej5zMAWJfPN-2" value="&lt;div&gt;&lt;font color=&quot;#ff0000&quot;&gt;页面显示名称和状态两个字段，其它字段放在详情窗口内&lt;/font&gt;&lt;/div&gt;&lt;font color=&quot;#ff0000&quot;&gt;&lt;div&gt;&lt;font color=&quot;#ff0000&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/div&gt;审批通过状态下拉框手动选中测试准备，进入该状态，记录测试准备实际开始时间&lt;/font&gt;&lt;div&gt;&lt;font color=&quot;#ff0000&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;div&gt;&lt;font color=&quot;#ff0000&quot;&gt;在该状态下再次点击测试准备状态，弹出用例评审窗口（由于在线下已经写完用例并且评审过）&lt;/font&gt;&lt;span style=&quot;color: rgb(255, 0, 0); background-color: initial;&quot;&gt;所以用例评审窗口只需要导入线下评审过的用例，填写评审结果，评审人员即可，记录测试&lt;/span&gt;&lt;span style=&quot;color: rgb(255, 0, 0); background-color: initial;&quot;&gt;准备实际结束时间&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;color: rgb(255, 0, 0); background-color: initial;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;color: rgb(255, 0, 0); background-color: initial;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="990" y="705" width="1100" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="_QjBsTqZyej5zMAWJfPN-3" value="Text" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1205" y="838" width="50" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
