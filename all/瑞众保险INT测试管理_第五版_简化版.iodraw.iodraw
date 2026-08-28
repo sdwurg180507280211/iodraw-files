@@ -120,7 +120,7 @@
         <mxCell id="a3" value="开发实际完成" style="text;html=1;strokeColor=none;fillColor=none;whiteSpace=wrap;align=center;verticalAlign=middle;fontSize=12;fontColor=#1F2329;" parent="1" vertex="1">
           <mxGeometry x="-25" y="840" width="145" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="a3d" value="开发实际完成时间 + 需求编号&lt;div&gt;传过来后，通知团队负责人，可以开始执行了，&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;whiteSpace=wrap;align=left;verticalAlign=middle;fontSize=12;fontColor=#1F2329;" parent="1" vertex="1">
+        <mxCell id="a3d" value="开发实际完成时间 + 需求编号&lt;div&gt;传过来后，通知团队负责人，可以开始执行了，由“待测试执行”&lt;/div&gt;&lt;div&gt;到&lt;span style=&quot;background-color: initial;&quot;&gt;“测试执行”&lt;/span&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;whiteSpace=wrap;align=left;verticalAlign=middle;fontSize=12;fontColor=#1F2329;" parent="1" vertex="1">
           <mxGeometry x="180" y="780" width="380" height="40" as="geometry" />
         </mxCell>
         <mxCell id="a3x" value="" style="endArrow=block;endFill=1;html=1;rounded=0;strokeWidth=1.2;strokeColor=#666666;" parent="1" edge="1">
