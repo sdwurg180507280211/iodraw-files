@@ -189,8 +189,8 @@
         <mxCell id="CJliqk0zyX88n1QdsIKA-16" value="1.叉出去一个待审批状态，可以在状态列筛选“待审批” （&lt;span style=&quot;&quot;&gt;待选：也可以尝试右侧弹出一个通知，在通知窗口里进行审批，也可以在通知窗口里添加快捷审批入口）&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;&quot;&gt;2.修改意见类似于备注，通过/驳回都可以编写，非必填&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;&quot;&gt;3.审批时，测试计划编辑页面底部加两个&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;按钮（通过/驳回）&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;4.驳回后测试负责人那里弹一个驳回通知，附加驳回原因&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;5.（可选）加一个流转历史&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="1080" y="510" width="870" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="_QjBsTqZyej5zMAWJfPN-1" value="需求：" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="1120" y="652" width="60" height="30" as="geometry" />
+        <mxCell id="_QjBsTqZyej5zMAWJfPN-1" value="需求：10月15日开始测，测到10月23日" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1035" y="652" width="230" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
