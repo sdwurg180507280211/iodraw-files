@@ -193,7 +193,7 @@
           <mxGeometry x="1155" y="605" width="220" height="110" as="geometry" />
         </mxCell>
         <mxCell id="_QjBsTqZyej5zMAWJfPN-2" value="审批通过状态下拉框选中测试准备，进入该状态&lt;div&gt;再次点击测试准备状态，弹出用例评审窗口，由于在线下已经写完用例并且评审过，所以用例评审窗口只需要导入线下评审过的用例，填写评审结果，评审人员即可&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="705" y="723" width="890" height="40" as="geometry" />
+          <mxGeometry x="790" y="740" width="890" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
