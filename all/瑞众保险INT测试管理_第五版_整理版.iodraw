@@ -1,261 +1,263 @@
-<?xml version="1.0" encoding="utf-8"?>
-<mxfile host="www.iodraw.com" agent="ChatGPT GPT-5.6 Sol" version="24.7.17">
+<mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/152.0.0.0 Safari/537.36" version="24.7.17">
   <diagram id="INT-v5-clean" name="Page-1">
-    <mxGraphModel dx="2556" dy="900" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1500" pageHeight="1300" math="0" shadow="0">
+    <mxGraphModel dx="1306" dy="635" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1500" pageHeight="1300" math="0" shadow="0">
       <root>
-        <mxCell id="0"/>
-        <mxCell id="1" parent="0"/>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
         <mxCell id="title" value="瑞众保险 INT 测试管理流程（第五版·整理版）" style="text;html=1;strokeColor=none;fillColor=none;whiteSpace=wrap;align=center;verticalAlign=middle;fontSize=14;fontColor=#1F2329;fontStyle=1;" parent="1" vertex="1">
-          <mxGeometry x="260" y="25" width="720" height="34" as="geometry"/>
+          <mxGeometry x="260" y="25" width="720" height="34" as="geometry" />
         </mxCell>
         <mxCell id="sub" value="基于最新流程图及已确认业务口径整理" style="text;html=1;strokeColor=none;fillColor=none;whiteSpace=wrap;align=center;verticalAlign=middle;fontSize=12;fontColor=#666666;" parent="1" vertex="1">
-          <mxGeometry x="360" y="60" width="520" height="25" as="geometry"/>
+          <mxGeometry x="360" y="60" width="520" height="25" as="geometry" />
         </mxCell>
         <mxCell id="h1" value="全研发流程平台" style="rounded=1;whiteSpace=wrap;html=1;fontSize=13;strokeWidth=1;fillColor=#FFFFFF;strokeColor=#888888;align=center;fontStyle=1;" parent="1" vertex="1">
-          <mxGeometry x="20" y="110" width="160" height="42" as="geometry"/>
+          <mxGeometry x="20" y="110" width="160" height="42" as="geometry" />
         </mxCell>
         <mxCell id="h2" value="自动化测试平台" style="rounded=1;whiteSpace=wrap;html=1;fontSize=13;strokeWidth=1;fillColor=#FFFFFF;strokeColor=#888888;align=center;fontStyle=1;" parent="1" vertex="1">
-          <mxGeometry x="560" y="110" width="160" height="42" as="geometry"/>
+          <mxGeometry x="560" y="110" width="160" height="42" as="geometry" />
         </mxCell>
         <mxCell id="lane1" value="" style="endArrow=none;endFill=0;html=1;rounded=0;strokeWidth=1.2;strokeColor=#666666;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="100" y="152" as="sourcePoint"/>
-            <mxPoint x="100" y="1210" as="targetPoint"/>
+            <mxPoint x="100" y="152" as="sourcePoint" />
+            <mxPoint x="100" y="1210" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="lane2" value="" style="endArrow=none;endFill=0;html=1;rounded=0;strokeWidth=1.2;strokeColor=#666666;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="640" y="152" as="sourcePoint"/>
-            <mxPoint x="640" y="1210" as="targetPoint"/>
+            <mxPoint x="640" y="152" as="sourcePoint" />
+            <mxPoint x="640" y="1210" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="stitle" value="状态流转" style="text;html=1;strokeColor=none;fillColor=none;whiteSpace=wrap;align=center;verticalAlign=middle;fontSize=12;fontColor=#1F2329;fontStyle=1;" parent="1" vertex="1">
-          <mxGeometry x="1080" y="105" width="150" height="28" as="geometry"/>
+          <mxGeometry x="1080" y="105" width="150" height="28" as="geometry" />
         </mxCell>
         <mxCell id="s0" value="待介入" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;strokeWidth=1;fillColor=#F5F5F5;strokeColor=#BBBBBB;align=center;fontStyle=1;" parent="1" vertex="1">
-          <mxGeometry x="1100" y="170" width="120" height="34" as="geometry"/>
+          <mxGeometry x="1100" y="170" width="120" height="34" as="geometry" />
         </mxCell>
         <mxCell id="s1" value="测试计划" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;strokeWidth=1;fillColor=#F5F5F5;strokeColor=#BBBBBB;align=center;fontStyle=1;" parent="1" vertex="1">
-          <mxGeometry x="1100" y="285" width="120" height="34" as="geometry"/>
+          <mxGeometry x="1100" y="285" width="120" height="34" as="geometry" />
         </mxCell>
         <mxCell id="se1" value="" style="endArrow=block;endFill=1;html=1;rounded=0;strokeWidth=1.2;strokeColor=#666666;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="1160" y="204" as="sourcePoint"/>
-            <mxPoint x="1160" y="285" as="targetPoint"/>
+            <mxPoint x="1160" y="204" as="sourcePoint" />
+            <mxPoint x="1160" y="285" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="s2" value="待审批" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;strokeWidth=1;fillColor=#F5F5F5;strokeColor=#BBBBBB;align=center;fontStyle=1;" parent="1" vertex="1">
-          <mxGeometry x="1100" y="405" width="120" height="34" as="geometry"/>
+          <mxGeometry x="1100" y="405" width="120" height="34" as="geometry" />
         </mxCell>
         <mxCell id="se2" value="" style="endArrow=block;endFill=1;html=1;rounded=0;strokeWidth=1.2;strokeColor=#666666;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="1160" y="319" as="sourcePoint"/>
-            <mxPoint x="1160" y="405" as="targetPoint"/>
+            <mxPoint x="1160" y="319" as="sourcePoint" />
+            <mxPoint x="1160" y="405" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="s3" value="待测试准备" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;strokeWidth=1;fillColor=#F5F5F5;strokeColor=#BBBBBB;align=center;fontStyle=1;" parent="1" vertex="1">
-          <mxGeometry x="1100" y="525" width="120" height="34" as="geometry"/>
+          <mxGeometry x="1100" y="525" width="120" height="34" as="geometry" />
         </mxCell>
         <mxCell id="se3" value="" style="endArrow=block;endFill=1;html=1;rounded=0;strokeWidth=1.2;strokeColor=#666666;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="1160" y="439" as="sourcePoint"/>
-            <mxPoint x="1160" y="525" as="targetPoint"/>
+            <mxPoint x="1160" y="439" as="sourcePoint" />
+            <mxPoint x="1160" y="525" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="s4" value="测试准备" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;strokeWidth=1;fillColor=#F5F5F5;strokeColor=#BBBBBB;align=center;fontStyle=1;" parent="1" vertex="1">
-          <mxGeometry x="1100" y="650" width="120" height="34" as="geometry"/>
+          <mxGeometry x="1100" y="650" width="120" height="34" as="geometry" />
         </mxCell>
         <mxCell id="se4" value="" style="endArrow=block;endFill=1;html=1;rounded=0;strokeWidth=1.2;strokeColor=#666666;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="1160" y="559" as="sourcePoint"/>
-            <mxPoint x="1160" y="650" as="targetPoint"/>
+            <mxPoint x="1160" y="559" as="sourcePoint" />
+            <mxPoint x="1160" y="650" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="s5" value="待测试执行" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;strokeWidth=1;fillColor=#F5F5F5;strokeColor=#BBBBBB;align=center;fontStyle=1;" parent="1" vertex="1">
-          <mxGeometry x="1100" y="790" width="120" height="34" as="geometry"/>
+          <mxGeometry x="1100" y="790" width="120" height="34" as="geometry" />
         </mxCell>
         <mxCell id="se5" value="" style="endArrow=block;endFill=1;html=1;rounded=0;strokeWidth=1.2;strokeColor=#666666;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="1160" y="684" as="sourcePoint"/>
-            <mxPoint x="1160" y="790" as="targetPoint"/>
+            <mxPoint x="1160" y="684" as="sourcePoint" />
+            <mxPoint x="1160" y="790" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="s6" value="测试执行" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;strokeWidth=1;fillColor=#F5F5F5;strokeColor=#BBBBBB;align=center;fontStyle=1;" parent="1" vertex="1">
-          <mxGeometry x="1100" y="935" width="120" height="34" as="geometry"/>
+          <mxGeometry x="1100" y="935" width="120" height="34" as="geometry" />
         </mxCell>
         <mxCell id="se6" value="" style="endArrow=block;endFill=1;html=1;rounded=0;strokeWidth=1.2;strokeColor=#666666;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="1160" y="824" as="sourcePoint"/>
-            <mxPoint x="1160" y="935" as="targetPoint"/>
+            <mxPoint x="1160" y="824" as="sourcePoint" />
+            <mxPoint x="1160" y="935" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="s7" value="办结" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;strokeWidth=1;fillColor=#F5F5F5;strokeColor=#BBBBBB;align=center;fontStyle=1;" parent="1" vertex="1">
-          <mxGeometry x="1100" y="1110" width="120" height="34" as="geometry"/>
+          <mxGeometry x="1100" y="1110" width="120" height="34" as="geometry" />
         </mxCell>
         <mxCell id="se7" value="" style="endArrow=block;endFill=1;html=1;rounded=0;strokeWidth=1.2;strokeColor=#666666;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="1160" y="969" as="sourcePoint"/>
-            <mxPoint x="1160" y="1110" as="targetPoint"/>
+            <mxPoint x="1160" y="969" as="sourcePoint" />
+            <mxPoint x="1160" y="1110" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="snote" value="当前状态下拉框只展示合法的下一状态；&lt;br&gt;自动流转节点不允许手工跳转。" style="text;html=1;strokeColor=none;fillColor=none;whiteSpace=wrap;align=center;verticalAlign=middle;fontSize=12;fontColor=#666666;" parent="1" vertex="1">
-          <mxGeometry x="1040" y="1160" width="250" height="55" as="geometry"/>
+          <mxGeometry x="1040" y="1160" width="250" height="55" as="geometry" />
         </mxCell>
         <mxCell id="sec1" value="1. 原始需求建立" style="text;html=1;strokeColor=none;fillColor=none;whiteSpace=wrap;align=left;verticalAlign=middle;fontSize=12;fontColor=#1F2329;fontStyle=1;" parent="1" vertex="1">
-          <mxGeometry x="0" y="180" width="150" height="25" as="geometry"/>
+          <mxGeometry y="180" width="150" height="25" as="geometry" />
         </mxCell>
         <mxCell id="a1" value="第一次触发：创建原始需求" style="text;html=1;strokeColor=none;fillColor=none;whiteSpace=wrap;align=center;verticalAlign=middle;fontSize=12;fontColor=#1F2329;" parent="1" vertex="1">
-          <mxGeometry x="10" y="215" width="180" height="30" as="geometry"/>
+          <mxGeometry x="10" y="215" width="180" height="30" as="geometry" />
         </mxCell>
         <mxCell id="a1d" value="必传：总需求编号、需求名称、需求类型、涉及系统&lt;br&gt;原始业务需求：另带业务需求 ZIP 包链接&lt;br&gt;系统优化需求：一般只对应一个系统" style="text;html=1;strokeColor=none;fillColor=none;whiteSpace=wrap;align=left;verticalAlign=middle;fontSize=12;fontColor=#1F2329;" parent="1" vertex="1">
-          <mxGeometry x="195" y="190" width="315" height="80" as="geometry"/>
+          <mxGeometry x="195" y="190" width="315" height="80" as="geometry" />
         </mxCell>
         <mxCell id="a1x" value="" style="endArrow=block;endFill=1;html=1;rounded=0;strokeWidth=1.2;strokeColor=#666666;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="175" y="255" as="sourcePoint"/>
-            <mxPoint x="600" y="255" as="targetPoint"/>
+            <mxPoint x="175" y="255" as="sourcePoint" />
+            <mxPoint x="600" y="255" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="b1" value="按涉及系统创建左侧目录" style="text;html=1;strokeColor=none;fillColor=none;whiteSpace=wrap;align=center;verticalAlign=middle;fontSize=12;fontColor=#1F2329;" parent="1" vertex="1">
-          <mxGeometry x="555" y="215" width="190" height="30" as="geometry"/>
+          <mxGeometry x="555" y="215" width="190" height="30" as="geometry" />
         </mxCell>
         <mxCell id="b1d" value="目录结构：所属系统 &amp;gt; 总需求编号-需求名称&lt;br&gt;此时系统子需求尚未确定，右侧暂无测试数据" style="text;html=1;strokeColor=none;fillColor=none;whiteSpace=wrap;align=left;verticalAlign=middle;fontSize=12;fontColor=#1F2329;" parent="1" vertex="1">
-          <mxGeometry x="750" y="200" width="300" height="60" as="geometry"/>
+          <mxGeometry x="750" y="200" width="300" height="60" as="geometry" />
         </mxCell>
         <mxCell id="sec2" value="2. 系统子需求建立" style="text;html=1;strokeColor=none;fillColor=none;whiteSpace=wrap;align=left;verticalAlign=middle;fontSize=12;fontColor=#1F2329;fontStyle=1;" parent="1" vertex="1">
-          <mxGeometry x="0" y="315" width="150" height="25" as="geometry"/>
+          <mxGeometry y="315" width="150" height="25" as="geometry" />
         </mxCell>
         <mxCell id="a2" value="第二次触发：创建系统子需求" style="text;html=1;strokeColor=none;fillColor=none;whiteSpace=wrap;align=center;verticalAlign=middle;fontSize=12;fontColor=#1F2329;" parent="1" vertex="1">
-          <mxGeometry x="5" y="350" width="190" height="30" as="geometry"/>
+          <mxGeometry x="5" y="350" width="190" height="30" as="geometry" />
         </mxCell>
         <mxCell id="a2d" value="传递：总需求编号、需求名称、需求编号&lt;br&gt;需求编号前缀用于匹配所属系统 / 测试组 / 测试团队负责人" style="text;html=1;strokeColor=none;fillColor=none;whiteSpace=wrap;align=left;verticalAlign=middle;fontSize=12;fontColor=#1F2329;" parent="1" vertex="1">
-          <mxGeometry x="200" y="335" width="320" height="60" as="geometry"/>
+          <mxGeometry x="200" y="335" width="320" height="60" as="geometry" />
         </mxCell>
         <mxCell id="a2x" value="" style="endArrow=block;endFill=1;html=1;rounded=0;strokeWidth=1.2;strokeColor=#666666;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="175" y="395" as="sourcePoint"/>
-            <mxPoint x="600" y="395" as="targetPoint"/>
+            <mxPoint x="175" y="395" as="sourcePoint" />
+            <mxPoint x="600" y="395" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="b2" value="自动创建一条测试数据" style="text;html=1;strokeColor=none;fillColor=none;whiteSpace=wrap;align=center;verticalAlign=middle;fontSize=12;fontColor=#1F2329;" parent="1" vertex="1">
-          <mxGeometry x="555" y="350" width="190" height="30" as="geometry"/>
+          <mxGeometry x="555" y="350" width="190" height="30" as="geometry" />
         </mxCell>
         <mxCell id="b2d" value="挂在：所属系统 &amp;gt; 总需求编号-需求名称 &amp;gt; 需求编号&lt;br&gt;状态 = &lt;b&gt;待介入&lt;/b&gt;，页面置灰，只等待外部字段补齐" style="text;html=1;strokeColor=none;fillColor=none;whiteSpace=wrap;align=left;verticalAlign=middle;fontSize=12;fontColor=#1F2329;" parent="1" vertex="1">
-          <mxGeometry x="750" y="335" width="315" height="65" as="geometry"/>
+          <mxGeometry x="750" y="335" width="315" height="65" as="geometry" />
         </mxCell>
         <mxCell id="sec3" value="3. 待介入 → 测试计划" style="text;html=1;strokeColor=none;fillColor=none;whiteSpace=wrap;align=left;verticalAlign=middle;fontSize=12;fontColor=#1F2329;fontStyle=1;" parent="1" vertex="1">
-          <mxGeometry x="0" y="455" width="180" height="25" as="geometry"/>
+          <mxGeometry y="455" width="180" height="25" as="geometry" />
         </mxCell>
         <mxCell id="a3" value="陆续补充测试计划输入" style="text;html=1;strokeColor=none;fillColor=none;whiteSpace=wrap;align=center;verticalAlign=middle;fontSize=12;fontColor=#1F2329;" parent="1" vertex="1">
-          <mxGeometry x="10" y="490" width="180" height="30" as="geometry"/>
+          <mxGeometry x="10" y="490" width="180" height="30" as="geometry" />
         </mxCell>
         <mxCell id="a3d" value="需求规格说明书链接&lt;br&gt;开发计划预期完成时间" style="text;html=1;strokeColor=none;fillColor=none;whiteSpace=wrap;align=left;verticalAlign=middle;fontSize=12;fontColor=#1F2329;" parent="1" vertex="1">
-          <mxGeometry x="215" y="480" width="235" height="55" as="geometry"/>
+          <mxGeometry x="215" y="480" width="235" height="55" as="geometry" />
         </mxCell>
         <mxCell id="a3x" value="" style="endArrow=block;endFill=1;html=1;rounded=0;strokeWidth=1.2;strokeColor=#666666;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="175" y="535" as="sourcePoint"/>
-            <mxPoint x="600" y="535" as="targetPoint"/>
+            <mxPoint x="175" y="535" as="sourcePoint" />
+            <mxPoint x="600" y="535" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="b3" value="两项字段均齐全后自动流转" style="text;html=1;strokeColor=none;fillColor=none;whiteSpace=wrap;align=center;verticalAlign=middle;fontSize=12;fontColor=#1F2329;" parent="1" vertex="1">
-          <mxGeometry x="535" y="490" width="230" height="30" as="geometry"/>
+          <mxGeometry x="535" y="490" width="230" height="30" as="geometry" />
         </mxCell>
         <mxCell id="b3d" value="待介入 → &lt;b&gt;测试计划&lt;/b&gt;&lt;br&gt;同时通知匹配到的测试团队负责人" style="text;html=1;strokeColor=none;fillColor=none;whiteSpace=wrap;align=left;verticalAlign=middle;fontSize=12;fontColor=#1F2329;" parent="1" vertex="1">
-          <mxGeometry x="770" y="480" width="260" height="55" as="geometry"/>
+          <mxGeometry x="770" y="480" width="260" height="55" as="geometry" />
         </mxCell>
         <mxCell id="sec4" value="4. 测试计划编制" style="text;html=1;strokeColor=none;fillColor=none;whiteSpace=wrap;align=left;verticalAlign=middle;fontSize=12;fontColor=#1F2329;fontStyle=1;" parent="1" vertex="1">
-          <mxGeometry x="0" y="590" width="160" height="25" as="geometry"/>
+          <mxGeometry y="590" width="160" height="25" as="geometry" />
         </mxCell>
         <mxCell id="b4" value="测试团队负责人编制计划" style="text;html=1;strokeColor=none;fillColor=none;whiteSpace=wrap;align=center;verticalAlign=middle;fontSize=12;fontColor=#1F2329;" parent="1" vertex="1">
-          <mxGeometry x="545" y="620" width="210" height="30" as="geometry"/>
+          <mxGeometry x="545" y="620" width="210" height="30" as="geometry" />
         </mxCell>
         <mxCell id="b4d" value="&lt;b&gt;测试准备安排&lt;/b&gt;：执行人（单选）+ 准备开始/结束时间，可 + / - 行&lt;br&gt;&lt;b&gt;测试执行安排&lt;/b&gt;：执行人（单选）+ 执行开始/结束时间，可 + / - 行&lt;br&gt;准备人员与执行人员可不同；所有可填写项均必填&lt;br&gt;人员时间冲突仅提示，不阻止保存；确认是否需要冒烟测试" style="text;html=1;strokeColor=none;fillColor=none;whiteSpace=wrap;align=left;verticalAlign=middle;fontSize=12;fontColor=#1F2329;" parent="1" vertex="1">
-          <mxGeometry x="770" y="590" width="420" height="95" as="geometry"/>
+          <mxGeometry x="770" y="590" width="420" height="95" as="geometry" />
         </mxCell>
         <mxCell id="b4e" value="负责人 / 计划名称置灰；所属系统按需求编号确定；隐藏原测试阶段下拉框" style="text;html=1;strokeColor=none;fillColor=none;whiteSpace=wrap;align=left;verticalAlign=middle;fontSize=12;fontColor=#666666;" parent="1" vertex="1">
-          <mxGeometry x="760" y="685" width="390" height="38" as="geometry"/>
+          <mxGeometry x="760" y="685" width="390" height="38" as="geometry" />
         </mxCell>
         <mxCell id="sec5" value="5. 计划审批" style="text;html=1;strokeColor=none;fillColor=none;whiteSpace=wrap;align=left;verticalAlign=middle;fontSize=12;fontColor=#1F2329;fontStyle=1;" parent="1" vertex="1">
-          <mxGeometry x="0" y="735" width="150" height="25" as="geometry"/>
+          <mxGeometry y="735" width="150" height="25" as="geometry" />
         </mxCell>
         <mxCell id="b5" value="提交计划" style="text;html=1;strokeColor=none;fillColor=none;whiteSpace=wrap;align=center;verticalAlign=middle;fontSize=12;fontColor=#1F2329;" parent="1" vertex="1">
-          <mxGeometry x="575" y="750" width="130" height="30" as="geometry"/>
+          <mxGeometry x="575" y="750" width="130" height="30" as="geometry" />
         </mxCell>
         <mxCell id="b5d" value="测试计划 → &lt;b&gt;待审批&lt;/b&gt;&lt;br&gt;提交后等待测试总负责人审批" style="text;html=1;strokeColor=none;fillColor=none;whiteSpace=wrap;align=left;verticalAlign=middle;fontSize=12;fontColor=#1F2329;" parent="1" vertex="1">
-          <mxGeometry x="735" y="740" width="275" height="50" as="geometry"/>
+          <mxGeometry x="735" y="740" width="275" height="50" as="geometry" />
         </mxCell>
         <mxCell id="b6" value="测试总负责人审批" style="text;html=1;strokeColor=none;fillColor=none;whiteSpace=wrap;align=center;verticalAlign=middle;fontSize=12;fontColor=#1F2329;" parent="1" vertex="1">
-          <mxGeometry x="555" y="805" width="170" height="30" as="geometry"/>
+          <mxGeometry x="555" y="805" width="170" height="30" as="geometry" />
         </mxCell>
         <mxCell id="b6d" value="通过：待审批 → &lt;b&gt;待测试准备&lt;/b&gt;&lt;br&gt;驳回：返回测试计划，附修改意见后重新提交&lt;br&gt;通过 / 驳回意见均可填写，非必填" style="text;html=1;strokeColor=none;fillColor=none;whiteSpace=wrap;align=left;verticalAlign=middle;fontSize=12;fontColor=#1F2329;" parent="1" vertex="1">
-          <mxGeometry x="735" y="785" width="310" height="70" as="geometry"/>
+          <mxGeometry x="735" y="785" width="310" height="70" as="geometry" />
         </mxCell>
         <mxCell id="adj" value="计划调整（旁支）" style="text;html=1;strokeColor=none;fillColor=none;whiteSpace=wrap;align=left;verticalAlign=middle;fontSize=12;fontColor=#1F2329;fontStyle=1;" parent="1" vertex="1">
-          <mxGeometry x="230" y="755" width="150" height="25" as="geometry"/>
+          <mxGeometry x="230" y="755" width="150" height="25" as="geometry" />
         </mxCell>
         <mxCell id="adjd" value="原计划不覆盖；需求变化时手工基于原计划新增调整计划。&lt;br&gt;重新填写准备安排、执行安排及调整原因。&lt;br&gt;保存调整计划本身不触发人员通知；&lt;br&gt;最新计划时间 + 调整原因仍同步给全研发；后续提醒全部按最新有效计划。" style="text;html=1;strokeColor=none;fillColor=none;whiteSpace=wrap;align=left;verticalAlign=middle;fontSize=12;fontColor=#1F2329;" parent="1" vertex="1">
-          <mxGeometry x="180" y="785" width="335" height="105" as="geometry"/>
+          <mxGeometry x="180" y="785" width="335" height="105" as="geometry" />
         </mxCell>
         <mxCell id="sec6" value="6. 测试准备" style="text;html=1;strokeColor=none;fillColor=none;whiteSpace=wrap;align=left;verticalAlign=middle;fontSize=12;fontColor=#1F2329;fontStyle=1;" parent="1" vertex="1">
-          <mxGeometry x="0" y="900" width="150" height="25" as="geometry"/>
+          <mxGeometry y="900" width="150" height="25" as="geometry" />
         </mxCell>
         <mxCell id="b7" value="待测试准备" style="text;html=1;strokeColor=none;fillColor=none;whiteSpace=wrap;align=center;verticalAlign=middle;fontSize=12;fontColor=#1F2329;" parent="1" vertex="1">
-          <mxGeometry x="575" y="910" width="130" height="30" as="geometry"/>
+          <mxGeometry x="575" y="910" width="130" height="30" as="geometry" />
         </mxCell>
         <mxCell id="b7d" value="按最新有效计划的准备开始日期，当天 09:00 提醒：可以开始测试准备" style="text;html=1;strokeColor=none;fillColor=none;whiteSpace=wrap;align=left;verticalAlign=middle;fontSize=12;fontColor=#1F2329;" parent="1" vertex="1">
-          <mxGeometry x="725" y="900" width="320" height="45" as="geometry"/>
+          <mxGeometry x="725" y="900" width="320" height="45" as="geometry" />
         </mxCell>
         <mxCell id="b8" value="开始测试准备" style="text;html=1;strokeColor=none;fillColor=none;whiteSpace=wrap;align=center;verticalAlign=middle;fontSize=12;fontColor=#1F2329;" parent="1" vertex="1">
-          <mxGeometry x="565" y="965" width="150" height="30" as="geometry"/>
+          <mxGeometry x="565" y="965" width="150" height="30" as="geometry" />
         </mxCell>
         <mxCell id="b8d" value="人工点击后进入 &lt;b&gt;测试准备&lt;/b&gt;&lt;br&gt;记录实际准备开始时间" style="text;html=1;strokeColor=none;fillColor=none;whiteSpace=wrap;align=left;verticalAlign=middle;fontSize=12;fontColor=#1F2329;" parent="1" vertex="1">
-          <mxGeometry x="735" y="955" width="270" height="50" as="geometry"/>
+          <mxGeometry x="735" y="955" width="270" height="50" as="geometry" />
         </mxCell>
         <mxCell id="b9" value="完成测试准备" style="text;html=1;strokeColor=none;fillColor=none;whiteSpace=wrap;align=center;verticalAlign=middle;fontSize=12;fontColor=#1F2329;" parent="1" vertex="1">
-          <mxGeometry x="565" y="1020" width="150" height="30" as="geometry"/>
+          <mxGeometry x="565" y="1020" width="150" height="30" as="geometry" />
         </mxCell>
         <mxCell id="b9d" value="弹出用例评审窗口：导入线下评审后用例、填写评审结果/评审人员&lt;br&gt;提交后记录实际准备结束时间，并进入 &lt;b&gt;待测试执行&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;whiteSpace=wrap;align=left;verticalAlign=middle;fontSize=12;fontColor=#1F2329;" parent="1" vertex="1">
-          <mxGeometry x="735" y="1000" width="360" height="70" as="geometry"/>
+          <mxGeometry x="735" y="1000" width="360" height="70" as="geometry" />
         </mxCell>
         <mxCell id="sec7" value="7. 测试执行" style="text;html=1;strokeColor=none;fillColor=none;whiteSpace=wrap;align=left;verticalAlign=middle;fontSize=12;fontColor=#1F2329;fontStyle=1;" parent="1" vertex="1">
-          <mxGeometry x="0" y="1090" width="150" height="25" as="geometry"/>
+          <mxGeometry y="1090" width="150" height="25" as="geometry" />
         </mxCell>
         <mxCell id="a4" value="全研发提供开发实际完成时间" style="text;html=1;strokeColor=none;fillColor=none;whiteSpace=wrap;align=center;verticalAlign=middle;fontSize=12;fontColor=#1F2329;" parent="1" vertex="1">
-          <mxGeometry x="0" y="1125" width="200" height="30" as="geometry"/>
+          <mxGeometry y="1125" width="200" height="30" as="geometry" />
         </mxCell>
         <mxCell id="a4d" value="开发实际完成时间 + 需求编号" style="text;html=1;strokeColor=none;fillColor=none;whiteSpace=wrap;align=left;verticalAlign=middle;fontSize=12;fontColor=#1F2329;" parent="1" vertex="1">
-          <mxGeometry x="210" y="1118" width="240" height="40" as="geometry"/>
+          <mxGeometry x="210" y="1118" width="240" height="40" as="geometry" />
         </mxCell>
         <mxCell id="a4x" value="" style="endArrow=block;endFill=1;html=1;rounded=0;strokeWidth=1.2;strokeColor=#666666;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="175" y="1170" as="sourcePoint"/>
-            <mxPoint x="600" y="1170" as="targetPoint"/>
+            <mxPoint x="175" y="1170" as="sourcePoint" />
+            <mxPoint x="600" y="1170" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="b10" value="开始测试执行" style="text;html=1;strokeColor=none;fillColor=none;whiteSpace=wrap;align=center;verticalAlign=middle;fontSize=12;fontColor=#1F2329;" parent="1" vertex="1">
-          <mxGeometry x="565" y="1125" width="150" height="30" as="geometry"/>
+          <mxGeometry x="565" y="1125" width="150" height="30" as="geometry" />
         </mxCell>
         <mxCell id="b10d" value="待测试执行状态下人工点击流转：&lt;br&gt;若开发实际完成时间未提供 → 弹窗提示并禁止流转&lt;br&gt;若已提供 → 进入 &lt;b&gt;测试执行&lt;/b&gt;，记录实际执行开始时间" style="text;html=1;strokeColor=none;fillColor=none;whiteSpace=wrap;align=left;verticalAlign=middle;fontSize=12;fontColor=#1F2329;" parent="1" vertex="1">
-          <mxGeometry x="735" y="1100" width="365" height="80" as="geometry"/>
+          <mxGeometry x="735" y="1100" width="365" height="80" as="geometry" />
         </mxCell>
         <mxCell id="sec8" value="8. 办结" style="text;html=1;strokeColor=none;fillColor=none;whiteSpace=wrap;align=left;verticalAlign=middle;fontSize=12;fontColor=#1F2329;fontStyle=1;" parent="1" vertex="1">
-          <mxGeometry x="0" y="1210" width="150" height="25" as="geometry"/>
+          <mxGeometry y="1210" width="150" height="25" as="geometry" />
         </mxCell>
         <mxCell id="b11" value="测试完成 → 报告分享" style="text;html=1;strokeColor=none;fillColor=none;whiteSpace=wrap;align=center;verticalAlign=middle;fontSize=12;fontColor=#1F2329;" parent="1" vertex="1">
-          <mxGeometry x="555" y="1210" width="190" height="30" as="geometry"/>
+          <mxGeometry x="555" y="1210" width="190" height="30" as="geometry" />
         </mxCell>
         <mxCell id="b11d" value="办结前：所有用例最终状态只能为“通过 / 跳过”，不能存在未执行 / 不通过 / 阻塞。&lt;br&gt;分享后记录实际执行结束时间 → 状态改为 &lt;b&gt;办结&lt;/b&gt;。&lt;br&gt;向全研发同步：实际执行结束时间、状态、报告链接。" style="text;html=1;strokeColor=none;fillColor=none;whiteSpace=wrap;align=left;verticalAlign=middle;fontSize=12;fontColor=#1F2329;" parent="1" vertex="1">
-          <mxGeometry x="750" y="1190" width="430" height="85" as="geometry"/>
+          <mxGeometry x="750" y="1190" width="430" height="85" as="geometry" />
         </mxCell>
         <mxCell id="end" value="" style="endArrow=block;endFill=1;html=1;rounded=0;strokeWidth=1.2;strokeColor=#666666;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="600" y="1265" as="sourcePoint"/>
-            <mxPoint x="175" y="1265" as="targetPoint"/>
+            <mxPoint x="600" y="1265" as="sourcePoint" />
+            <mxPoint x="175" y="1265" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="endtxt" value="办结结果回传全研发" style="text;html=1;strokeColor=none;fillColor=none;whiteSpace=wrap;align=center;verticalAlign=middle;fontSize=12;fontColor=#666666;" parent="1" vertex="1">
-          <mxGeometry x="285" y="1238" width="210" height="25" as="geometry"/>
+          <mxGeometry x="285" y="1238" width="210" height="25" as="geometry" />
+        </mxCell>
+        <mxCell id="CpwSRxHJFkMwHEcNt_ax-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="b1" target="b1">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
