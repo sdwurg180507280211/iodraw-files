@@ -99,8 +99,8 @@
         <mxCell id="b4d" value="&lt;div&gt;&lt;font color=&quot;#ff0000&quot;&gt;审批通过改为“待测试准备”&lt;/font&gt;&lt;/div&gt;审批通过 → 进入测试准备&lt;br&gt;审批驳回 → 附修改意见，退回修改后再次报审" style="text;html=1;strokeColor=none;fillColor=none;whiteSpace=wrap;align=left;verticalAlign=middle;fontSize=12;fontColor=#1F2329;" parent="1" vertex="1">
           <mxGeometry x="660" y="530" width="335" height="55" as="geometry" />
         </mxCell>
-        <mxCell id="b4e" value="（可选，也可以结束时一块传递）审批通过后，向全研发同步测试准备开始时间/计划测试执行结束时间" style="text;html=1;strokeColor=none;fillColor=none;whiteSpace=wrap;align=left;verticalAlign=middle;fontSize=12;fontColor=#1F2329;" parent="1" vertex="1">
-          <mxGeometry x="102.5" y="510" width="405" height="110" as="geometry" />
+        <mxCell id="b4e" value="（可选，也可以结束时一块传递）审批通过后，向全研发同步测试准备开始时间/计划测试执行结束时间&lt;br&gt;计划调整：原计划不覆盖，在原先测试计划增加一个“增加”按钮，还是那些字段：计划测试准备开始/结束时间及执行人/填写计划测试执行开始/结束时间及执行人，必选，另传调整后时间及调整原因（备注字段/描述字段，写明需求变更原因）" style="text;html=1;strokeColor=none;fillColor=none;whiteSpace=wrap;align=left;verticalAlign=middle;fontSize=12;fontColor=#1F2329;" parent="1" vertex="1">
+          <mxGeometry x="120" y="570" width="405" height="110" as="geometry" />
         </mxCell>
         <mxCell id="n3" value="3. 测试准备" style="text;html=1;strokeColor=none;fillColor=none;whiteSpace=wrap;align=left;verticalAlign=middle;fontSize=12;fontColor=#1F2329;fontStyle=1;" parent="1" vertex="1">
           <mxGeometry x="-50" y="620" width="120" height="25" as="geometry" />
