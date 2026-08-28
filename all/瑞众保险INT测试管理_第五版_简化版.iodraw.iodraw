@@ -1,6 +1,6 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/152.0.0.0 Safari/537.36" version="24.7.17">
   <diagram id="INT-simple-v5" name="Page-1">
-    <mxGraphModel dx="2374" dy="550" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1250" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="3008" dy="709" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1250" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -28,7 +28,7 @@
             <mxPoint x="575" y="1070" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="CJliqk0zyX88n1QdsIKA-11" value="状态为待介入，置灰" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="l2">
+        <mxCell id="CJliqk0zyX88n1QdsIKA-11" value="状态为待介入，置灰" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="l2" vertex="1" connectable="0">
           <mxGeometry x="-0.6717" y="-2" relative="1" as="geometry">
             <mxPoint x="7" y="-7" as="offset" />
           </mxGeometry>
@@ -156,37 +156,37 @@
         <mxCell id="endlabel" value="办结结果回传" style="text;html=1;strokeColor=none;fillColor=none;whiteSpace=wrap;align=center;verticalAlign=middle;fontSize=12;fontColor=#666666;" parent="1" vertex="1">
           <mxGeometry x="245" y="1028" width="170" height="25" as="geometry" />
         </mxCell>
-        <mxCell id="CJliqk0zyX88n1QdsIKA-4" value="&lt;span style=&quot;color: rgb(31, 35, 41); text-align: left;&quot;&gt;必传字段：总需求编号、需求名称、子需求编号&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="CJliqk0zyX88n1QdsIKA-4" value="&lt;span style=&quot;color: rgb(31, 35, 41); text-align: left;&quot;&gt;必传字段：总需求编号、需求名称、子需求编号&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="245" y="83" width="140" height="55" as="geometry" />
         </mxCell>
-        <mxCell id="CJliqk0zyX88n1QdsIKA-5" value="办结" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;fontStyle=1;strokeWidth=1;fillColor=#F5F5F5;strokeColor=#BBBBBB;align=center;" vertex="1" parent="1">
+        <mxCell id="CJliqk0zyX88n1QdsIKA-5" value="办结" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;fontStyle=1;strokeWidth=1;fillColor=#F5F5F5;strokeColor=#BBBBBB;align=center;" parent="1" vertex="1">
           <mxGeometry x="955" y="985" width="110" height="32" as="geometry" />
         </mxCell>
-        <mxCell id="CJliqk0zyX88n1QdsIKA-6" value="" style="endArrow=block;endFill=1;html=1;rounded=0;strokeWidth=1.2;strokeColor=#666666;" edge="1" parent="1">
+        <mxCell id="CJliqk0zyX88n1QdsIKA-6" value="" style="endArrow=block;endFill=1;html=1;rounded=0;strokeWidth=1.2;strokeColor=#666666;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="532.5" y="700" as="sourcePoint" />
             <mxPoint x="147.5" y="700" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="CJliqk0zyX88n1QdsIKA-8" value="待介入" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;fontStyle=1;strokeWidth=1;fillColor=#F5F5F5;strokeColor=#BBBBBB;align=center;" vertex="1" parent="1">
+        <mxCell id="CJliqk0zyX88n1QdsIKA-8" value="待介入" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;fontStyle=1;strokeWidth=1;fillColor=#F5F5F5;strokeColor=#BBBBBB;align=center;" parent="1" vertex="1">
           <mxGeometry x="955" y="192.5" width="110" height="32" as="geometry" />
         </mxCell>
-        <mxCell id="CJliqk0zyX88n1QdsIKA-9" value="" style="endArrow=block;endFill=1;html=1;rounded=0;strokeWidth=1.2;strokeColor=#666666;" edge="1" parent="1">
+        <mxCell id="CJliqk0zyX88n1QdsIKA-9" value="" style="endArrow=block;endFill=1;html=1;rounded=0;strokeWidth=1.2;strokeColor=#666666;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="147.5" y="320" as="sourcePoint" />
             <mxPoint x="532.5" y="320" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="CJliqk0zyX88n1QdsIKA-10" value="全研发平台创建子需求后，传递需求编号和需求名称，自动创建一条数据" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="CJliqk0zyX88n1QdsIKA-10" value="全研发平台创建子需求后，传递需求编号和需求名称，自动创建一条数据" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="125" y="285" width="410" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="CJliqk0zyX88n1QdsIKA-13" value="&lt;span style=&quot;color: rgb(0, 0, 0); white-space: nowrap;&quot;&gt;1.“&lt;/span&gt;计划测试准备开始/结束时间及执行人 和 计划测试执行开始/结束时间及执行人” 右侧有个+号，点击后，新加一行。 有新加也得有减去该行；都是必填项&lt;br&gt;2.每行选择执行人时，下拉框单选，因为每个执行人的时间都不相同&lt;div&gt;3.做一个执行人时间表，在选择时间的时候可以看到所有执行人的时间安排，只包括测试准备时间和测试执行时间&lt;/div&gt;&lt;div&gt;4.如果执行人时间冲突了，弹窗提示一下，不阻止&lt;/div&gt;&lt;div&gt;5.四个时间字段必选&lt;/div&gt;&lt;div&gt;6.&lt;span style=&quot;background-color: initial;&quot;&gt;负责人/计划名称置灰；隐藏测试阶段下拉框&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;/所属系统&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;；新增冒烟测试单选框（是/否，必填项），如果选否，那就是普通测试&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;7.能选的全是必填项&lt;/span&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;whiteSpace=wrap;align=left;verticalAlign=middle;fontSize=12;fontColor=#1F2329;" vertex="1" parent="1">
+        <mxCell id="CJliqk0zyX88n1QdsIKA-13" value="&lt;span style=&quot;color: rgb(0, 0, 0); white-space: nowrap;&quot;&gt;1.“&lt;/span&gt;计划测试准备开始/结束时间及执行人 和 计划测试执行开始/结束时间及执行人” 右侧有个+号，点击后，新加一行。 有新加也得有减去该行；都是必填项&lt;br&gt;2.每行选择执行人时，下拉框单选，因为每个执行人的时间都不相同&lt;div&gt;3.做一个执行人时间表，在选择时间的时候可以看到所有执行人的时间安排，只包括测试准备时间和测试执行时间&lt;/div&gt;&lt;div&gt;4.如果执行人时间冲突了，弹窗提示一下，不阻止&lt;/div&gt;&lt;div&gt;5.四个时间字段必选&lt;/div&gt;&lt;div&gt;6.&lt;span style=&quot;background-color: initial;&quot;&gt;负责人/计划名称置灰；隐藏测试阶段下拉框&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;/所属系统&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;；新增冒烟测试单选框（是/否，必填项），如果选否，那就是普通测试&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;7.能选的全是必填项&lt;/span&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;whiteSpace=wrap;align=left;verticalAlign=middle;fontSize=12;fontColor=#1F2329;" parent="1" vertex="1">
           <mxGeometry x="1100" y="327.5" width="665" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="CJliqk0zyX88n1QdsIKA-15" value="&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="CJliqk0zyX88n1QdsIKA-15" value="&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="1040" y="548" width="20" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="CJliqk0zyX88n1QdsIKA-16" value="1.叉出去一个待审批状态，可以在状态列筛选“待审批” （&lt;span style=&quot;&quot;&gt;待选：也可以尝试右侧弹出一个通知，在通知窗口里进行审批，也可以在通知窗口里添加快捷审批入口）&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;&quot;&gt;2.修改意见类似于备注，通过/驳回都可以编写，非必填&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;&quot;&gt;3.审批时，测试计划编辑页面底部加两个&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;按钮（通过/驳回）&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;4.驳回后测试负责人那里弹一个驳回通知，附加驳回原因&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;5.（可选）加一个流转历史&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="CJliqk0zyX88n1QdsIKA-16" value="1.叉出去一个待审批状态，可以在状态列筛选“待审批” （&lt;span style=&quot;&quot;&gt;待选：也可以尝试右侧弹出一个通知，在通知窗口里进行审批，也可以在通知窗口里添加快捷审批入口）&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;&quot;&gt;2.修改意见类似于备注，通过/驳回都可以编写，非必填&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;&quot;&gt;3.审批时，测试计划编辑页面底部加两个&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;按钮（通过/驳回）&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;4.驳回后测试负责人那里弹一个驳回通知，附加驳回原因&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;5.（可选）加一个流转历史&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="1080" y="510" width="870" height="90" as="geometry" />
         </mxCell>
       </root>
