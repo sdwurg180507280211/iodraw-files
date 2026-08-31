@@ -170,7 +170,7 @@
           <mxGeometry x="545" y="620" width="210" height="30" as="geometry" />
         </mxCell>
         <mxCell id="b4d" value="&lt;b&gt;测试准备安排&lt;/b&gt;：人员 + 准备开始/结束时间，可多行&lt;br&gt;&lt;b&gt;测试执行安排&lt;/b&gt;：人员 + 执行开始/结束时间，可多行&lt;br&gt;准备/执行人员可不同；所有可填写项必填；冒烟测试单选&lt;br&gt;&lt;b&gt;人员排期&lt;/b&gt;：按自然日期统计占用/空闲/冲突，可导出 Excel；冲突只提示、允许保存" style="text;html=1;strokeColor=none;fillColor=none;whiteSpace=wrap;align=left;verticalAlign=middle;fontSize=12;fontColor=#1F2329;" parent="1" vertex="1">
-          <mxGeometry x="765" y="589" width="420" height="95" as="geometry" />
+          <mxGeometry x="765" y="589" width="335" height="95" as="geometry" />
         </mxCell>
         <mxCell id="b4e" value="负责人 / 计划名称置灰；需求编号作为测试计划字段；隐藏原测试阶段下拉框" style="text;html=1;strokeColor=none;fillColor=none;whiteSpace=wrap;align=left;verticalAlign=middle;fontSize=12;fontColor=#666666;" parent="1" vertex="1">
           <mxGeometry x="760" y="685" width="390" height="38" as="geometry" />
