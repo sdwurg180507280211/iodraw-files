@@ -194,7 +194,7 @@
           <mxGeometry x="230" y="755" width="150" height="25" as="geometry" />
         </mxCell>
         <mxCell id="adjd" value="原计划不覆盖；需求变化时手工基于原计划新增调整计划。&lt;br&gt;重新填写准备安排、执行安排及调整原因。&lt;br&gt;保存调整计划本身不触发人员通知；&lt;br&gt;最新计划时间 + 调整原因仍同步给全研发；后续提醒全部按最新有效计划。" style="text;html=1;strokeColor=none;fillColor=none;whiteSpace=wrap;align=left;verticalAlign=middle;fontSize=12;fontColor=#1F2329;" parent="1" vertex="1">
-          <mxGeometry x="180" y="785" width="400" height="105" as="geometry" />
+          <mxGeometry x="175" y="760" width="400" height="105" as="geometry" />
         </mxCell>
         <mxCell id="sec6" value="6. 测试准备" style="text;html=1;strokeColor=none;fillColor=none;whiteSpace=wrap;align=left;verticalAlign=middle;fontSize=12;fontColor=#1F2329;fontStyle=1;" parent="1" vertex="1">
           <mxGeometry y="900" width="150" height="25" as="geometry" />
@@ -254,7 +254,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="endtxt" value="办结结果回传全研发（后续流程不由测试平台设计）" style="text;html=1;strokeColor=none;fillColor=none;whiteSpace=wrap;align=center;verticalAlign=middle;fontSize=12;fontColor=#666666;" parent="1" vertex="1">
-          <mxGeometry x="205" y="1238" width="370" height="25" as="geometry" />
+          <mxGeometry x="205" y="1238" width="375" height="25" as="geometry" />
         </mxCell>
         <mxCell id="g3h_RHM220rrnftTyzkZ-2" value="Text" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="-680" y="654" width="60" height="30" as="geometry" />
