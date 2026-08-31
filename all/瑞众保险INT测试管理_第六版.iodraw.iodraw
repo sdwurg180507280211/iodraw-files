@@ -253,8 +253,8 @@
         <mxCell id="fUx0Ge-RRJtCf4q8b7gq-6" value="增派：存在原始需求建立后，新增关联所属系统的情况" style="text;html=1;strokeColor=none;fillColor=none;whiteSpace=wrap;align=left;verticalAlign=middle;fontSize=12;fontColor=#1F2329;" vertex="1" parent="1">
           <mxGeometry x="190" y="310" width="390" height="29" as="geometry" />
         </mxCell>
-        <mxCell id="fUx0Ge-RRJtCf4q8b7gq-7" value="&lt;font color=&quot;#ff0000&quot;&gt;最早的测试准备开始时间 + 最晚的测试执行结束时间&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;whiteSpace=wrap;align=left;verticalAlign=middle;fontSize=12;fontColor=#1F2329;" vertex="1" parent="1">
-          <mxGeometry x="220" y="630" width="295" height="40" as="geometry" />
+        <mxCell id="fUx0Ge-RRJtCf4q8b7gq-7" value="&lt;font color=&quot;#ff0000&quot;&gt;1.所属系统和项目的关系&lt;/font&gt;&lt;div&gt;&lt;font color=&quot;#ff0000&quot;&gt;2.&lt;/font&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;whiteSpace=wrap;align=left;verticalAlign=middle;fontSize=12;fontColor=#1F2329;" vertex="1" parent="1">
+          <mxGeometry x="190" y="910" width="295" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
