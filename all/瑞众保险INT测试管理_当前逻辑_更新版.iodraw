@@ -103,7 +103,7 @@
         <mxCell id="sec1" value="1. 原始需求建立" style="text;html=1;strokeColor=none;fillColor=none;whiteSpace=wrap;align=left;verticalAlign=middle;fontSize=12;fontColor=#1F2329;fontStyle=1;" parent="1" vertex="1">
           <mxGeometry y="180" width="150" height="25" as="geometry" />
         </mxCell>
-        <mxCell id="a1" value="创建原始需求&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;whiteSpace=wrap;align=center;verticalAlign=middle;fontSize=12;fontColor=#1F2329;" parent="1" vertex="1">
+        <mxCell id="a1" value="创建原始需求" style="text;html=1;strokeColor=none;fillColor=none;whiteSpace=wrap;align=center;verticalAlign=middle;fontSize=12;fontColor=#1F2329;" parent="1" vertex="1">
           <mxGeometry x="10" y="215" width="180" height="30" as="geometry" />
         </mxCell>
         <mxCell id="a1d" value="1.必传：总需求编号、需求名称、需求类型、需求编号&lt;br&gt;2.原始业务需求：另带业务需求 ZIP 包链接&lt;br&gt;3.一般情况下原始需求建立后，关联的所属系统就确定好了。&lt;div&gt;个别情况下需要新增关联的所属系统&lt;/div&gt;&lt;div&gt;4.&lt;span style=&quot;background-color: initial;&quot;&gt;需求编号作为测试计划业务字段；前缀可用于匹配系统 / 测试组 / 通知对象&lt;/span&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;whiteSpace=wrap;align=left;verticalAlign=middle;fontSize=12;fontColor=#1F2329;" parent="1" vertex="1">
