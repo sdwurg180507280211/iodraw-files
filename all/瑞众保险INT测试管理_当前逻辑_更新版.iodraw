@@ -115,8 +115,8 @@
             <mxPoint x="600" y="255" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="b1" value="按涉及系统创建左侧目录" style="text;html=1;strokeColor=none;fillColor=none;whiteSpace=wrap;align=center;verticalAlign=middle;fontSize=12;fontColor=#1F2329;" parent="1" vertex="1">
-          <mxGeometry x="555" y="200" width="190" height="30" as="geometry" />
+        <mxCell id="b1" value="按涉及系统创建左侧目录&lt;div&gt;自动创建测试计划数据&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;whiteSpace=wrap;align=center;verticalAlign=middle;fontSize=12;fontColor=#1F2329;" parent="1" vertex="1">
+          <mxGeometry x="555" y="204" width="190" height="30" as="geometry" />
         </mxCell>
         <mxCell id="b1d" value="目录结构：&lt;b&gt;所属系统 &amp;gt; 总需求编号-需求名称&lt;/b&gt;&lt;br&gt;两级目录根据全流程数据自动创建；当前不强制限制人工修改&lt;br&gt;此时只建目录，不创建测试计划数据" style="text;html=1;strokeColor=none;fillColor=none;whiteSpace=wrap;align=left;verticalAlign=middle;fontSize=12;fontColor=#1F2329;" parent="1" vertex="1">
           <mxGeometry x="750" y="200" width="300" height="60" as="geometry" />
