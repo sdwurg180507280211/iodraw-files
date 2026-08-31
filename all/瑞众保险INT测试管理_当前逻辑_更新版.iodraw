@@ -250,8 +250,8 @@
         <mxCell id="fUx0Ge-RRJtCf4q8b7gq-3" value="最早的测试准备开始时间 + 最晚的测试执行结束时间" style="text;html=1;strokeColor=none;fillColor=none;whiteSpace=wrap;align=left;verticalAlign=middle;fontSize=12;fontColor=#1F2329;" vertex="1" parent="1">
           <mxGeometry x="205" y="615" width="295" height="55" as="geometry" />
         </mxCell>
-        <mxCell id="fUx0Ge-RRJtCf4q8b7gq-6" value="存在原始需求建立后，新增/删除关联所属系统的情况" style="text;html=1;strokeColor=none;fillColor=none;whiteSpace=wrap;align=left;verticalAlign=middle;fontSize=12;fontColor=#1F2329;" vertex="1" parent="1">
-          <mxGeometry x="205" y="310" width="390" height="29" as="geometry" />
+        <mxCell id="fUx0Ge-RRJtCf4q8b7gq-6" value="增派：存在原始需求建立后，新增/删除关联所属系统的情况" style="text;html=1;strokeColor=none;fillColor=none;whiteSpace=wrap;align=left;verticalAlign=middle;fontSize=12;fontColor=#1F2329;" vertex="1" parent="1">
+          <mxGeometry x="200" y="310" width="390" height="29" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
