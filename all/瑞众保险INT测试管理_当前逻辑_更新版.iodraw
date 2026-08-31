@@ -245,7 +245,7 @@
           <mxGeometry x="555" y="1210" width="190" height="30" as="geometry" />
         </mxCell>
         <mxCell id="b11d" value="办结前：上传最终实际用例；最终状态只能为“通过 / 跳过”；当前计划下全部缺陷必须“已关闭”。&lt;br&gt;缺陷以测试计划为主关联，用例为可选次级关联；从用例创建缺陷时自动关联计划 + 用例。&lt;br&gt;校验通过 → 报告分享 → 记录实际执行结束时间 → &lt;b&gt;办结&lt;/b&gt;；回传全研发：状态、实际结束时间、报告链接。" style="text;html=1;strokeColor=none;fillColor=none;whiteSpace=wrap;align=left;verticalAlign=middle;fontSize=12;fontColor=#1F2329;" parent="1" vertex="1">
-          <mxGeometry x="740" y="1215" width="430" height="95" as="geometry" />
+          <mxGeometry x="740" y="1215" width="570" height="95" as="geometry" />
         </mxCell>
         <mxCell id="end" value="" style="endArrow=block;endFill=1;html=1;rounded=0;strokeWidth=1.2;strokeColor=#666666;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
