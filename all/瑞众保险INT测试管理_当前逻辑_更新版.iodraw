@@ -106,8 +106,8 @@
         <mxCell id="a1" value="第一次触发：创建原始需求" style="text;html=1;strokeColor=none;fillColor=none;whiteSpace=wrap;align=center;verticalAlign=middle;fontSize=12;fontColor=#1F2329;" parent="1" vertex="1">
           <mxGeometry x="10" y="215" width="180" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="a1d" value="必传：总需求编号、需求名称、需求类型、涉及系统&lt;br&gt;原始业务需求：另带业务需求 ZIP 包链接&lt;br&gt;多系统逐个确认/发送的最终规则：&lt;b&gt;待确认&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;whiteSpace=wrap;align=left;verticalAlign=middle;fontSize=12;fontColor=#1F2329;" parent="1" vertex="1">
-          <mxGeometry x="195" y="190" width="315" height="80" as="geometry" />
+        <mxCell id="a1d" value="必传：总需求编号、需求名称、需求类型、需求编号&lt;br&gt;原始业务需求：另带业务需求 ZIP 包链接&lt;br&gt;一般情况下原始需求建立后，关联的所属系统就确定好了。&lt;div&gt;个别情况下需要新增关联的所属系统&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;whiteSpace=wrap;align=left;verticalAlign=middle;fontSize=12;fontColor=#1F2329;" parent="1" vertex="1">
+          <mxGeometry x="195" y="180" width="315" height="80" as="geometry" />
         </mxCell>
         <mxCell id="a1x" value="" style="endArrow=block;endFill=1;html=1;rounded=0;strokeWidth=1.2;strokeColor=#666666;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -128,7 +128,7 @@
           <mxGeometry x="5" y="350" width="190" height="30" as="geometry" />
         </mxCell>
         <mxCell id="a2d" value="传递：总需求编号、需求名称、需求编号、所属系统识别信息&lt;br&gt;需求编号作为测试计划业务字段；前缀可用于匹配系统 / 测试组 / 通知对象" style="text;html=1;strokeColor=none;fillColor=none;whiteSpace=wrap;align=left;verticalAlign=middle;fontSize=12;fontColor=#1F2329;" parent="1" vertex="1">
-          <mxGeometry x="200" y="335" width="320" height="60" as="geometry" />
+          <mxGeometry x="200" y="335" width="340" height="60" as="geometry" />
         </mxCell>
         <mxCell id="a2x" value="" style="endArrow=block;endFill=1;html=1;rounded=0;strokeWidth=1.2;strokeColor=#666666;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -148,7 +148,7 @@
         <mxCell id="a3" value="陆续补充测试计划输入" style="text;html=1;strokeColor=none;fillColor=none;whiteSpace=wrap;align=center;verticalAlign=middle;fontSize=12;fontColor=#1F2329;" parent="1" vertex="1">
           <mxGeometry x="10" y="490" width="180" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="a3d" value="需求规格说明书链接&lt;br&gt;开发计划预期完成时间" style="text;html=1;strokeColor=none;fillColor=none;whiteSpace=wrap;align=left;verticalAlign=middle;fontSize=12;fontColor=#1F2329;" parent="1" vertex="1">
+        <mxCell id="a3d" value="需求规格说明书链接&lt;br&gt;开发计划完成时间" style="text;html=1;strokeColor=none;fillColor=none;whiteSpace=wrap;align=left;verticalAlign=middle;fontSize=12;fontColor=#1F2329;" parent="1" vertex="1">
           <mxGeometry x="215" y="480" width="235" height="55" as="geometry" />
         </mxCell>
         <mxCell id="a3x" value="" style="endArrow=block;endFill=1;html=1;rounded=0;strokeWidth=1.2;strokeColor=#666666;" parent="1" edge="1">
@@ -258,6 +258,12 @@
         </mxCell>
         <mxCell id="g3h_RHM220rrnftTyzkZ-2" value="Text" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="-680" y="654" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="fUx0Ge-RRJtCf4q8b7gq-2" value="" style="endArrow=block;endFill=1;html=1;rounded=0;strokeWidth=1.2;strokeColor=#666666;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="185" y="545" as="sourcePoint" />
+            <mxPoint x="610" y="545" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
