@@ -261,9 +261,12 @@
         </mxCell>
         <mxCell id="fUx0Ge-RRJtCf4q8b7gq-2" value="" style="endArrow=block;endFill=1;html=1;rounded=0;strokeWidth=1.2;strokeColor=#666666;startArrow=diamondThin;startFill=1;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="170" y="666.58" as="sourcePoint" />
-            <mxPoint x="595" y="666.58" as="targetPoint" />
+            <mxPoint x="595" y="666.58" as="sourcePoint" />
+            <mxPoint x="170" y="666.58" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="fUx0Ge-RRJtCf4q8b7gq-3" value="需求规格说明书链接&lt;br&gt;开发计划完成时间" style="text;html=1;strokeColor=none;fillColor=none;whiteSpace=wrap;align=left;verticalAlign=middle;fontSize=12;fontColor=#1F2329;" vertex="1" parent="1">
+          <mxGeometry x="225" y="490" width="235" height="55" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
