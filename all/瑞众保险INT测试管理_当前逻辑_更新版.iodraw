@@ -118,14 +118,11 @@
         <mxCell id="b1" value="按涉及系统创建左侧目录&lt;div&gt;自动创建测试计划数据&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;whiteSpace=wrap;align=center;verticalAlign=middle;fontSize=12;fontColor=#1F2329;" parent="1" vertex="1">
           <mxGeometry x="555" y="204" width="190" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="b1d" value="目录结构：&lt;b&gt;所属系统 &amp;gt; 总需求编号-需求名称&lt;/b&gt;&lt;br&gt;两级目录根据全流程数据自动创建；当前不强制限制人工修改&lt;div&gt;&lt;br/&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;whiteSpace=wrap;align=left;verticalAlign=middle;fontSize=12;fontColor=#1F2329;" parent="1" vertex="1">
+        <mxCell id="b1d" value="目录结构：&lt;b&gt;所属系统 &amp;gt; 总需求编号-需求名称&lt;/b&gt;&lt;br&gt;两级目录根据全流程数据自动创建；当前不强制限制人工修改&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;创建在：&lt;b&gt;所属系统 &amp;gt; 总需求编号-需求名称&lt;/b&gt; 目录下&lt;br&gt;初始状态 = &lt;b&gt;待介入&lt;/b&gt;，等待外部字段补齐&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;whiteSpace=wrap;align=left;verticalAlign=middle;fontSize=12;fontColor=#1F2329;" parent="1" vertex="1">
           <mxGeometry x="750" y="189" width="330" height="60" as="geometry" />
         </mxCell>
         <mxCell id="sec2" value="2. 系统子需求确认" style="text;html=1;strokeColor=none;fillColor=none;whiteSpace=wrap;align=left;verticalAlign=middle;fontSize=12;fontColor=#1F2329;fontStyle=1;" parent="1" vertex="1">
           <mxGeometry y="315" width="150" height="25" as="geometry" />
-        </mxCell>
-        <mxCell id="b2d" value="创建在：&lt;b&gt;所属系统 &amp;gt; 总需求编号-需求名称&lt;/b&gt; 目录下&lt;br&gt;需求编号写入测试计划，不作为目录层级&lt;br&gt;初始状态 = &lt;b&gt;待介入&lt;/b&gt;，等待外部字段补齐" style="text;html=1;strokeColor=none;fillColor=none;whiteSpace=wrap;align=left;verticalAlign=middle;fontSize=12;fontColor=#1F2329;" parent="1" vertex="1">
-          <mxGeometry x="750" y="335" width="315" height="65" as="geometry" />
         </mxCell>
         <mxCell id="sec3" value="3. 待介入 → 测试计划" style="text;html=1;strokeColor=none;fillColor=none;whiteSpace=wrap;align=left;verticalAlign=middle;fontSize=12;fontColor=#1F2329;fontStyle=1;" parent="1" vertex="1">
           <mxGeometry y="455" width="180" height="25" as="geometry" />
