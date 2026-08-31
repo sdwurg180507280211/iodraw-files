@@ -175,7 +175,7 @@
         <mxCell id="adj" value="计划调整（旁支）" style="text;html=1;strokeColor=none;fillColor=none;whiteSpace=wrap;align=left;verticalAlign=middle;fontSize=12;fontColor=#1F2329;fontStyle=1;" parent="1" vertex="1">
           <mxGeometry x="230" y="755" width="150" height="25" as="geometry" />
         </mxCell>
-        <mxCell id="adjd" value="原计划不覆盖；需求变化时手工基于原计划新增调整计划。&lt;br&gt;重新填写准备安排、执行安排及调整原因。&lt;br&gt;保存调整计划本身不触发人员通知；&lt;br&gt;最新计划时间 + 调整原因仍同步给全研发；后续提醒全部按最新有效计划。" style="text;html=1;strokeColor=none;fillColor=none;whiteSpace=wrap;align=left;verticalAlign=middle;fontSize=12;fontColor=#1F2329;" parent="1" vertex="1">
+        <mxCell id="adjd" value="&lt;div&gt;增派：存在原始需求建立后，新增关联所属系统的情况&lt;/div&gt;原计划不覆盖；需求变化时手工基于原计划新增调整计划。&lt;br&gt;重新填写准备安排、执行安排及调整原因。&lt;br&gt;保存调整计划本身不触发人员通知；&lt;br&gt;最新计划时间 + 调整原因仍同步给全研发；后续提醒全部按最新有效计划。" style="text;html=1;strokeColor=none;fillColor=none;whiteSpace=wrap;align=left;verticalAlign=middle;fontSize=12;fontColor=#1F2329;" parent="1" vertex="1">
           <mxGeometry x="175" y="760" width="400" height="105" as="geometry" />
         </mxCell>
         <mxCell id="sec6" value="6. 测试准备" style="text;html=1;strokeColor=none;fillColor=none;whiteSpace=wrap;align=left;verticalAlign=middle;fontSize=12;fontColor=#1F2329;fontStyle=1;" parent="1" vertex="1">
