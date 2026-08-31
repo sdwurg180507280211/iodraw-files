@@ -148,7 +148,7 @@
         <mxCell id="a3" value="陆续补充测试计划输入" style="text;html=1;strokeColor=none;fillColor=none;whiteSpace=wrap;align=center;verticalAlign=middle;fontSize=12;fontColor=#1F2329;" parent="1" vertex="1">
           <mxGeometry x="10" y="490" width="180" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="a3d" value="需求规格说明书链接&lt;br&gt;开发计划完成时间" style="text;html=1;strokeColor=none;fillColor=none;whiteSpace=wrap;align=left;verticalAlign=middle;fontSize=12;fontColor=#1F2329;" parent="1" vertex="1">
+        <mxCell id="a3d" value="开发计划完成时间" style="text;html=1;strokeColor=none;fillColor=none;whiteSpace=wrap;align=left;verticalAlign=middle;fontSize=12;fontColor=#1F2329;" parent="1" vertex="1">
           <mxGeometry x="215" y="480" width="235" height="55" as="geometry" />
         </mxCell>
         <mxCell id="a3x" value="" style="endArrow=block;endFill=1;html=1;rounded=0;strokeWidth=1.2;strokeColor=#666666;" parent="1" edge="1">
