@@ -250,7 +250,7 @@
         <mxCell id="fUx0Ge-RRJtCf4q8b7gq-3" value="最早的测试准备开始时间 + 最晚的测试执行结束时间" style="text;html=1;strokeColor=none;fillColor=none;whiteSpace=wrap;align=left;verticalAlign=middle;fontSize=12;fontColor=#1F2329;" vertex="1" parent="1">
           <mxGeometry x="205" y="615" width="295" height="55" as="geometry" />
         </mxCell>
-        <mxCell id="fUx0Ge-RRJtCf4q8b7gq-6" value="1.必传：总需求编号、需求名称、需求类型、需求编号&lt;br&gt;2.原始业务需求：另带业务需求 ZIP 包链接&lt;br&gt;3.&lt;span style=&quot;background-color: initial;&quot;&gt;需求编号前缀可用于匹配系统 / 测试组 / 通知对象&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;whiteSpace=wrap;align=left;verticalAlign=middle;fontSize=12;fontColor=#1F2329;" vertex="1" parent="1">
+        <mxCell id="fUx0Ge-RRJtCf4q8b7gq-6" value="存在原始需求建立后，新增/删除关联所属系统的情况" style="text;html=1;strokeColor=none;fillColor=none;whiteSpace=wrap;align=left;verticalAlign=middle;fontSize=12;fontColor=#1F2329;" vertex="1" parent="1">
           <mxGeometry x="190" y="290" width="390" height="59" as="geometry" />
         </mxCell>
       </root>
