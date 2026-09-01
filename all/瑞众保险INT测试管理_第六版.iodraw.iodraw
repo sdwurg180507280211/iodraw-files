@@ -55,7 +55,7 @@
         <mxCell id="s3" value="待测试准备" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;strokeWidth=1;fillColor=#F5F5F5;strokeColor=#BBBBBB;align=center;fontStyle=1;" parent="1" vertex="1">
           <mxGeometry x="1100" y="820" width="120" height="34" as="geometry" />
         </mxCell>
-        <mxCell id="se3" value="" style="endArrow=block;endFill=1;html=1;rounded=0;strokeWidth=1.2;strokeColor=#666666;" parent="1" edge="1">
+        <mxCell id="se3" value="" style="endArrow=block;endFill=1;html=1;rounded=0;strokeWidth=1.2;strokeColor=#666666;" parent="1" edge="1" target="s3">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="1160" y="654" as="sourcePoint" />
             <mxPoint x="1160" y="740" as="targetPoint" />
@@ -161,13 +161,13 @@
           <mxGeometry y="735" width="150" height="25" as="geometry" />
         </mxCell>
         <mxCell id="b5d" value="测试计划 → &lt;b&gt;待审批&lt;/b&gt;&lt;br&gt;提交后等待测试总负责人审批" style="text;html=1;strokeColor=none;fillColor=none;whiteSpace=wrap;align=left;verticalAlign=middle;fontSize=12;fontColor=#1F2329;" parent="1" vertex="1">
-          <mxGeometry x="735" y="712.5" width="275" height="50" as="geometry" />
+          <mxGeometry x="765" y="731.5" width="275" height="50" as="geometry" />
         </mxCell>
         <mxCell id="b6" value="测试总负责人审批" style="text;html=1;strokeColor=none;fillColor=none;whiteSpace=wrap;align=center;verticalAlign=middle;fontSize=12;fontColor=#1F2329;" parent="1" vertex="1">
           <mxGeometry x="555" y="805" width="170" height="30" as="geometry" />
         </mxCell>
         <mxCell id="b6d" value="通过：待审批 → &lt;b&gt;待测试准备&lt;/b&gt;&lt;br&gt;驳回：返回测试计划，附修改意见后重新提交&lt;br&gt;通过 / 驳回意见均可填写，非必填" style="text;html=1;strokeColor=none;fillColor=none;whiteSpace=wrap;align=left;verticalAlign=middle;fontSize=12;fontColor=#1F2329;" parent="1" vertex="1">
-          <mxGeometry x="735" y="765" width="310" height="70" as="geometry" />
+          <mxGeometry x="765" y="784" width="310" height="70" as="geometry" />
         </mxCell>
         <mxCell id="adj" value="计划调整（旁支）" style="text;html=1;strokeColor=none;fillColor=none;whiteSpace=wrap;align=left;verticalAlign=middle;fontSize=12;fontColor=#1F2329;fontStyle=1;" parent="1" vertex="1">
           <mxGeometry x="230" y="755" width="150" height="25" as="geometry" />
