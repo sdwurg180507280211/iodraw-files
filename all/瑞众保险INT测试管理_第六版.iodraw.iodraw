@@ -262,6 +262,9 @@
         <mxCell id="QczcGkvOfzLCaRQGDD4U-2" value="&lt;div&gt;&lt;font color=&quot;#000000&quot;&gt;父需求&amp;gt;右侧测试计划名称是子需求编号+所属系统+需求名称&lt;/font&gt;&lt;/div&gt;&lt;div&gt;所属系统&amp;gt;右侧测试计划名称是总需求编号+需求名称&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontColor=#FF0000;" vertex="1" parent="1">
           <mxGeometry x="720" y="111" width="340" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="QczcGkvOfzLCaRQGDD4U-3" value="Text" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="705" y="508" width="50" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
