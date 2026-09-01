@@ -1,6 +1,6 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/152.0.0.0 Safari/537.36" version="24.7.17">
   <diagram id="INT-v5-clean" name="Page-1">
-    <mxGraphModel dx="2433" dy="454" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1500" pageHeight="1300" math="0" shadow="0">
+    <mxGraphModel dx="2806" dy="669" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1500" pageHeight="1300" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -241,20 +241,23 @@
         <mxCell id="g3h_RHM220rrnftTyzkZ-2" value="Text" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="-680" y="654" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="fUx0Ge-RRJtCf4q8b7gq-2" value="" style="endArrow=block;endFill=1;html=1;rounded=0;strokeWidth=1.2;strokeColor=#666666;startArrow=diamondThin;startFill=1;" edge="1" parent="1">
+        <mxCell id="fUx0Ge-RRJtCf4q8b7gq-2" value="" style="endArrow=block;endFill=1;html=1;rounded=0;strokeWidth=1.2;strokeColor=#666666;startArrow=diamondThin;startFill=1;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="595" y="666.58" as="sourcePoint" />
             <mxPoint x="170" y="666.58" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="fUx0Ge-RRJtCf4q8b7gq-3" value="&lt;font color=&quot;#ff0000&quot;&gt;1.最早的测试准备开始时间 + 最晚的测试执行结束时间&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;whiteSpace=wrap;align=left;verticalAlign=middle;fontSize=12;fontColor=#1F2329;" vertex="1" parent="1">
+        <mxCell id="fUx0Ge-RRJtCf4q8b7gq-3" value="&lt;font color=&quot;#ff0000&quot;&gt;1.最早的测试准备开始时间 + 最晚的测试执行结束时间&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;whiteSpace=wrap;align=left;verticalAlign=middle;fontSize=12;fontColor=#1F2329;" parent="1" vertex="1">
           <mxGeometry x="210" y="620" width="295" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="fUx0Ge-RRJtCf4q8b7gq-6" value="增派：存在原始需求建立后，新增关联所属系统的情况" style="text;html=1;strokeColor=none;fillColor=none;whiteSpace=wrap;align=left;verticalAlign=middle;fontSize=12;fontColor=#1F2329;" vertex="1" parent="1">
+        <mxCell id="fUx0Ge-RRJtCf4q8b7gq-6" value="增派：存在原始需求建立后，新增关联所属系统的情况" style="text;html=1;strokeColor=none;fillColor=none;whiteSpace=wrap;align=left;verticalAlign=middle;fontSize=12;fontColor=#1F2329;" parent="1" vertex="1">
           <mxGeometry x="190" y="310" width="390" height="29" as="geometry" />
         </mxCell>
-        <mxCell id="fUx0Ge-RRJtCf4q8b7gq-7" value="&lt;font color=&quot;#ff0000&quot;&gt;2.所属系统和项目的关系&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;whiteSpace=wrap;align=left;verticalAlign=middle;fontSize=12;fontColor=#1F2329;" vertex="1" parent="1">
+        <mxCell id="fUx0Ge-RRJtCf4q8b7gq-7" value="&lt;font color=&quot;#ff0000&quot;&gt;2.所属系统和项目的关系&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;whiteSpace=wrap;align=left;verticalAlign=middle;fontSize=12;fontColor=#1F2329;" parent="1" vertex="1">
           <mxGeometry x="190" y="910" width="295" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="QczcGkvOfzLCaRQGDD4U-1" value="&lt;b&gt;测试准备安排&lt;/b&gt;：人员 + 准备开始/结束时间，可多行&lt;br&gt;&lt;b&gt;测试执行安排&lt;/b&gt;：人员 + 执行开始/结束时间，可多行&lt;br&gt;准备/执行人员可不同；所有可填写项必填；冒烟测试单选&lt;br&gt;&lt;b&gt;人员排期&lt;/b&gt;：按自然日期统计占用/空闲/冲突，可导出 Excel；冲突只提示、允许保存" style="text;html=1;strokeColor=none;fillColor=none;whiteSpace=wrap;align=left;verticalAlign=middle;fontSize=12;fontColor=#1F2329;" vertex="1" parent="1">
+          <mxGeometry x="775" y="599" width="335" height="95" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
