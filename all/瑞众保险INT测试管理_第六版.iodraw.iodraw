@@ -46,7 +46,7 @@
         <mxCell id="s2" value="待审批" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;strokeWidth=1;fillColor=#F5F5F5;strokeColor=#BBBBBB;align=center;fontStyle=1;" parent="1" vertex="1">
           <mxGeometry x="1100" y="620" width="120" height="34" as="geometry" />
         </mxCell>
-        <mxCell id="se2" value="" style="endArrow=block;endFill=1;html=1;rounded=0;strokeWidth=1.2;strokeColor=#666666;" parent="1" edge="1">
+        <mxCell id="se2" value="" style="endArrow=block;endFill=1;html=1;rounded=0;strokeWidth=1.2;strokeColor=#666666;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" edge="1" target="s2">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="1160" y="438" as="sourcePoint" />
             <mxPoint x="1160" y="524" as="targetPoint" />
