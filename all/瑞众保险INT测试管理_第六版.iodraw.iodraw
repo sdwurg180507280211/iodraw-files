@@ -19,7 +19,7 @@
         <mxCell id="lane1" value="" style="endArrow=none;endFill=0;html=1;rounded=0;strokeWidth=1.2;strokeColor=#666666;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="100" y="152" as="sourcePoint" />
-            <mxPoint x="100" y="1210" as="targetPoint" />
+            <mxPoint x="100" y="1520" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="lane2" value="" style="endArrow=none;endFill=0;html=1;rounded=0;strokeWidth=1.2;strokeColor=#666666;" parent="1" edge="1" source="b5">
