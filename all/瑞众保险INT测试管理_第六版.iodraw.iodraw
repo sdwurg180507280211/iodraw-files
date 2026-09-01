@@ -131,16 +131,16 @@
           <mxGeometry x="10" y="490" width="180" height="30" as="geometry" />
         </mxCell>
         <mxCell id="a3d" value="需求规格说明书链接&lt;div&gt;开发计划完成时间&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;whiteSpace=wrap;align=left;verticalAlign=middle;fontSize=12;fontColor=#1F2329;" parent="1" vertex="1">
-          <mxGeometry x="215" y="480" width="235" height="55" as="geometry" />
+          <mxGeometry x="230" y="392.7" width="235" height="55" as="geometry" />
         </mxCell>
         <mxCell id="a3x" value="" style="endArrow=block;endFill=1;html=1;rounded=0;strokeWidth=1.2;strokeColor=#666666;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="175" y="535" as="sourcePoint" />
-            <mxPoint x="600" y="535" as="targetPoint" />
+            <mxPoint x="190" y="447.7" as="sourcePoint" />
+            <mxPoint x="615" y="447.7" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="b3" value="两项字段均齐全后自动流转" style="text;html=1;strokeColor=none;fillColor=none;whiteSpace=wrap;align=center;verticalAlign=middle;fontSize=12;fontColor=#1F2329;" parent="1" vertex="1">
-          <mxGeometry x="535" y="490" width="230" height="30" as="geometry" />
+          <mxGeometry x="525" y="406" width="230" height="30" as="geometry" />
         </mxCell>
         <mxCell id="b3d" value="待介入 → &lt;b&gt;测试计划&lt;/b&gt;&lt;br&gt;同时通知匹配到的测试组成员（通知具体实现待核实）" style="text;html=1;strokeColor=none;fillColor=none;whiteSpace=wrap;align=left;verticalAlign=middle;fontSize=12;fontColor=#1F2329;" parent="1" vertex="1">
           <mxGeometry x="765" y="393.5" width="260" height="55" as="geometry" />
