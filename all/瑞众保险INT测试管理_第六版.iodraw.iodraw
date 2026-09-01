@@ -22,7 +22,7 @@
             <mxPoint x="100" y="1210" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="lane2" value="" style="endArrow=none;endFill=0;html=1;rounded=0;strokeWidth=1.2;strokeColor=#666666;" parent="1" edge="1">
+        <mxCell id="lane2" value="" style="endArrow=none;endFill=0;html=1;rounded=0;strokeWidth=1.2;strokeColor=#666666;" parent="1" edge="1" source="b5">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="640" y="152" as="sourcePoint" />
             <mxPoint x="640" y="1210" as="targetPoint" />
@@ -160,11 +160,8 @@
         <mxCell id="sec5" value="5. 计划审批" style="text;html=1;strokeColor=none;fillColor=none;whiteSpace=wrap;align=left;verticalAlign=middle;fontSize=12;fontColor=#1F2329;fontStyle=1;" parent="1" vertex="1">
           <mxGeometry y="735" width="150" height="25" as="geometry" />
         </mxCell>
-        <mxCell id="b5" value="提交计划" style="text;html=1;strokeColor=none;fillColor=none;whiteSpace=wrap;align=center;verticalAlign=middle;fontSize=12;fontColor=#1F2329;" parent="1" vertex="1">
-          <mxGeometry x="575" y="750" width="130" height="30" as="geometry" />
-        </mxCell>
         <mxCell id="b5d" value="测试计划 → &lt;b&gt;待审批&lt;/b&gt;&lt;br&gt;提交后等待测试总负责人审批" style="text;html=1;strokeColor=none;fillColor=none;whiteSpace=wrap;align=left;verticalAlign=middle;fontSize=12;fontColor=#1F2329;" parent="1" vertex="1">
-          <mxGeometry x="735" y="722.5" width="275" height="50" as="geometry" />
+          <mxGeometry x="735" y="712.5" width="275" height="50" as="geometry" />
         </mxCell>
         <mxCell id="b6" value="测试总负责人审批" style="text;html=1;strokeColor=none;fillColor=none;whiteSpace=wrap;align=center;verticalAlign=middle;fontSize=12;fontColor=#1F2329;" parent="1" vertex="1">
           <mxGeometry x="555" y="805" width="170" height="30" as="geometry" />
@@ -261,6 +258,15 @@
         </mxCell>
         <mxCell id="QczcGkvOfzLCaRQGDD4U-4" value="&lt;div&gt;&lt;font color=&quot;#000000&quot;&gt;父需求&amp;gt;右侧测试计划名称是子需求编号+所属系统+需求名称&lt;/font&gt;&lt;/div&gt;&lt;div&gt;所属系统&amp;gt;右侧测试计划名称是总需求编号+需求名称&lt;/div&gt;&lt;div&gt;映射关系加一个项目列&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontColor=#FF0000;" vertex="1" parent="1">
           <mxGeometry x="1240" y="-35" width="340" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="QczcGkvOfzLCaRQGDD4U-5" value="" style="endArrow=none;endFill=0;html=1;rounded=0;strokeWidth=1.2;strokeColor=#666666;" edge="1" parent="1" target="b5">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="640" y="152" as="sourcePoint" />
+            <mxPoint x="640" y="1210" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="b5" value="提交计划" style="text;html=1;strokeColor=none;fillColor=none;whiteSpace=wrap;align=center;verticalAlign=middle;fontSize=12;fontColor=#1F2329;" parent="1" vertex="1">
+          <mxGeometry x="575" y="732.5" width="130" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
