@@ -155,7 +155,7 @@
           <mxGeometry x="747.5" y="520" width="335" height="95" as="geometry" />
         </mxCell>
         <mxCell id="b4e" value="负责人 / 计划名称置灰；需求编号作为测试计划字段；隐藏原测试阶段下拉框" style="text;html=1;strokeColor=none;fillColor=none;whiteSpace=wrap;align=left;verticalAlign=middle;fontSize=12;fontColor=#666666;" parent="1" vertex="1">
-          <mxGeometry x="747.5" y="620" width="390" height="38" as="geometry" />
+          <mxGeometry x="747.5" y="620" width="352.5" height="38" as="geometry" />
         </mxCell>
         <mxCell id="sec5" value="5. 计划审批" style="text;html=1;strokeColor=none;fillColor=none;whiteSpace=wrap;align=left;verticalAlign=middle;fontSize=12;fontColor=#1F2329;fontStyle=1;" parent="1" vertex="1">
           <mxGeometry y="735" width="150" height="25" as="geometry" />
@@ -164,7 +164,7 @@
           <mxGeometry x="575" y="750" width="130" height="30" as="geometry" />
         </mxCell>
         <mxCell id="b5d" value="测试计划 → &lt;b&gt;待审批&lt;/b&gt;&lt;br&gt;提交后等待测试总负责人审批" style="text;html=1;strokeColor=none;fillColor=none;whiteSpace=wrap;align=left;verticalAlign=middle;fontSize=12;fontColor=#1F2329;" parent="1" vertex="1">
-          <mxGeometry x="735" y="740" width="275" height="50" as="geometry" />
+          <mxGeometry x="735" y="722.5" width="275" height="50" as="geometry" />
         </mxCell>
         <mxCell id="b6" value="测试总负责人审批" style="text;html=1;strokeColor=none;fillColor=none;whiteSpace=wrap;align=center;verticalAlign=middle;fontSize=12;fontColor=#1F2329;" parent="1" vertex="1">
           <mxGeometry x="555" y="805" width="170" height="30" as="geometry" />
