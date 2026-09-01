@@ -243,12 +243,12 @@
         </mxCell>
         <mxCell id="fUx0Ge-RRJtCf4q8b7gq-2" value="" style="endArrow=block;endFill=1;html=1;rounded=0;strokeWidth=1.2;strokeColor=#666666;startArrow=diamondThin;startFill=1;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="595" y="666.58" as="sourcePoint" />
-            <mxPoint x="170" y="666.58" as="targetPoint" />
+            <mxPoint x="585" y="625.34" as="sourcePoint" />
+            <mxPoint x="160" y="625.34" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="fUx0Ge-RRJtCf4q8b7gq-3" value="&lt;font color=&quot;#ff0000&quot;&gt;1.最早的测试准备计划开始时间 + 最晚的测试执行&lt;/font&gt;&lt;span style=&quot;color: rgb(255, 0, 0);&quot;&gt;计划&lt;/span&gt;&lt;font color=&quot;#ff0000&quot;&gt;结束时间&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;whiteSpace=wrap;align=left;verticalAlign=middle;fontSize=12;fontColor=#1F2329;" parent="1" vertex="1">
-          <mxGeometry x="210" y="620" width="340" height="40" as="geometry" />
+          <mxGeometry x="200" y="578.76" width="340" height="40" as="geometry" />
         </mxCell>
         <mxCell id="fUx0Ge-RRJtCf4q8b7gq-6" value="增派：存在原始需求建立后，新增关联所属系统的情况" style="text;html=1;strokeColor=none;fillColor=none;whiteSpace=wrap;align=left;verticalAlign=middle;fontSize=12;fontColor=#1F2329;" parent="1" vertex="1">
           <mxGeometry x="190" y="310" width="390" height="29" as="geometry" />
