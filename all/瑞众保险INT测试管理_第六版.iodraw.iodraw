@@ -204,8 +204,8 @@
         </mxCell>
         <mxCell id="a4x" value="" style="endArrow=block;endFill=1;html=1;rounded=0;strokeWidth=1.2;strokeColor=#666666;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="175" y="1170" as="sourcePoint" />
-            <mxPoint x="600" y="1170" as="targetPoint" />
+            <mxPoint x="167.5" y="1158" as="sourcePoint" />
+            <mxPoint x="592.5" y="1158" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="b10" value="开始测试执行" style="text;html=1;strokeColor=none;fillColor=none;whiteSpace=wrap;align=center;verticalAlign=middle;fontSize=12;fontColor=#1F2329;" parent="1" vertex="1">
