@@ -230,7 +230,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="endtxt" value="办结结果回传全研发（后续流程不由测试平台设计）" style="text;html=1;strokeColor=none;fillColor=none;whiteSpace=wrap;align=center;verticalAlign=middle;fontSize=12;fontColor=#666666;" parent="1" vertex="1">
-          <mxGeometry x="210" y="1447.09" width="375" height="25" as="geometry" />
+          <mxGeometry x="205" y="1430" width="375" height="25" as="geometry" />
         </mxCell>
         <mxCell id="g3h_RHM220rrnftTyzkZ-2" value="Text" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="-680" y="654" width="60" height="30" as="geometry" />
