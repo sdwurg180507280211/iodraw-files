@@ -256,8 +256,8 @@
         <mxCell id="fUx0Ge-RRJtCf4q8b7gq-7" value="&lt;font color=&quot;#ff0000&quot;&gt;2.所属系统和项目的关系&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;whiteSpace=wrap;align=left;verticalAlign=middle;fontSize=12;fontColor=#1F2329;" parent="1" vertex="1">
           <mxGeometry x="190" y="910" width="295" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="QczcGkvOfzLCaRQGDD4U-1" value="&lt;b&gt;测试准备安排&lt;/b&gt;：人员 + 准备开始/结束时间，可多行&lt;br&gt;&lt;b&gt;测试执行安排&lt;/b&gt;：人员 + 执行开始/结束时间，可多行&lt;br&gt;准备/执行人员可不同；所有可填写项必填；冒烟测试单选&lt;br&gt;&lt;b&gt;人员排期&lt;/b&gt;：按自然日期统计占用/空闲/冲突，可导出 Excel；冲突只提示、允许保存" style="text;html=1;strokeColor=none;fillColor=none;whiteSpace=wrap;align=left;verticalAlign=middle;fontSize=12;fontColor=#1F2329;" vertex="1" parent="1">
-          <mxGeometry x="775" y="599" width="335" height="95" as="geometry" />
+        <mxCell id="QczcGkvOfzLCaRQGDD4U-1" value="&lt;b&gt;人员&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;测试准备计划开始时间&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;&lt;/b&gt;&lt;b&gt;测试准备计划开始时间&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;whiteSpace=wrap;align=left;verticalAlign=middle;fontSize=12;fontColor=#1F2329;" vertex="1" parent="1">
+          <mxGeometry x="1330" y="580" width="590" height="95" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
