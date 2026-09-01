@@ -143,7 +143,7 @@
           <mxGeometry x="525" y="406" width="230" height="30" as="geometry" />
         </mxCell>
         <mxCell id="b3d" value="待介入 → &lt;b&gt;测试计划&lt;/b&gt;&lt;br&gt;同时通知匹配到的测试组成员（通知具体实现待核实）" style="text;html=1;strokeColor=none;fillColor=none;whiteSpace=wrap;align=left;verticalAlign=middle;fontSize=12;fontColor=#1F2329;" parent="1" vertex="1">
-          <mxGeometry x="765" y="393.5" width="260" height="55" as="geometry" />
+          <mxGeometry x="765" y="393.5" width="315" height="55" as="geometry" />
         </mxCell>
         <mxCell id="sec4" value="4. 测试计划编制" style="text;html=1;strokeColor=none;fillColor=none;whiteSpace=wrap;align=left;verticalAlign=middle;fontSize=12;fontColor=#1F2329;fontStyle=1;" parent="1" vertex="1">
           <mxGeometry y="590" width="160" height="25" as="geometry" />
@@ -212,7 +212,7 @@
           <mxGeometry x="560" y="1270" width="150" height="30" as="geometry" />
         </mxCell>
         <mxCell id="b10d" value="按最新有效计划的执行开始日期，当天 09:00 提醒；&lt;div&gt;待测试执行状态下人工点击流转：&lt;br&gt;若开发实际完成时间未提供 → 弹窗提示并禁止流转&lt;br&gt;若已提供 → 进入 &lt;b&gt;测试执行&lt;/b&gt;，记录实际执行开始时间&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;whiteSpace=wrap;align=left;verticalAlign=middle;fontSize=12;fontColor=#1F2329;" parent="1" vertex="1">
-          <mxGeometry x="747.5" y="1314" width="365" height="80" as="geometry" />
+          <mxGeometry x="710" y="1314" width="472.5" height="80" as="geometry" />
         </mxCell>
         <mxCell id="sec8" value="8. 办结" style="text;html=1;strokeColor=none;fillColor=none;whiteSpace=wrap;align=left;verticalAlign=middle;fontSize=12;fontColor=#1F2329;fontStyle=1;" parent="1" vertex="1">
           <mxGeometry y="1430" width="150" height="25" as="geometry" />
