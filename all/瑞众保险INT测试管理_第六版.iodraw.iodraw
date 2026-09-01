@@ -263,7 +263,7 @@
           <mxGeometry x="575" y="715" width="130" height="30" as="geometry" />
         </mxCell>
         <mxCell id="QczcGkvOfzLCaRQGDD4U-6" value="&lt;font color=&quot;#ff0000&quot;&gt;如果流转怎么办？&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="1240" y="890" width="120" height="30" as="geometry" />
+          <mxGeometry x="1220" y="882.5" width="120" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
