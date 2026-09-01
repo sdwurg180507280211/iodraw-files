@@ -1,6 +1,6 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/152.0.0.0 Safari/537.36" version="24.7.17">
   <diagram id="INT-v5-clean" name="Page-1">
-    <mxGraphModel dx="3098" dy="1939" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1500" pageHeight="1300" math="0" shadow="0">
+    <mxGraphModel dx="2905" dy="1908" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1500" pageHeight="1300" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -265,8 +265,8 @@
         <mxCell id="QczcGkvOfzLCaRQGDD4U-6" value="&lt;span style=&quot;color: rgb(255, 0, 0);&quot;&gt;到了时间点通知，&lt;/span&gt;&lt;font color=&quot;#ff0000&quot;&gt;如果忘记流转怎么办？自动流转？&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="1230" y="882.5" width="300" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="QczcGkvOfzLCaRQGDD4U-8" value="缺陷管理新增页面加一个缺陷来源i字段，新增时选择测试计划" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="1235" y="1479" width="350" height="30" as="geometry" />
+        <mxCell id="QczcGkvOfzLCaRQGDD4U-8" value="缺陷管理新增页面加一个缺陷来源i字段，新增时选择测试计划" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontColor=#FF0000;" vertex="1" parent="1">
+          <mxGeometry x="1260" y="1479" width="350" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
