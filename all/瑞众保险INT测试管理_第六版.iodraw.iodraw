@@ -265,8 +265,8 @@
         <mxCell id="QczcGkvOfzLCaRQGDD4U-6" value="&lt;span style=&quot;color: rgb(255, 0, 0);&quot;&gt;到了时间点通知，&lt;/span&gt;&lt;font color=&quot;#ff0000&quot;&gt;如果忘记流转怎么办？自动流转？&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="1230" y="882.5" width="300" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="QczcGkvOfzLCaRQGDD4U-8" value="&lt;span style=&quot;color: rgb(255, 0, 0);&quot;&gt;到了时间点通知，&lt;/span&gt;&lt;font color=&quot;#ff0000&quot;&gt;如果忘记流转怎么办？自动流转？&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="1240" y="970" width="300" height="30" as="geometry" />
+        <mxCell id="QczcGkvOfzLCaRQGDD4U-8" value="缺陷管理新增页面加一个缺陷来源i字段，新增时选择测试计划" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1235" y="1479" width="350" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
