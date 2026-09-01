@@ -161,7 +161,7 @@
           <mxGeometry y="735" width="150" height="25" as="geometry" />
         </mxCell>
         <mxCell id="b5d" value="测试计划 → &lt;b&gt;待审批&lt;/b&gt;&lt;br&gt;提交后等待测试总负责人审批" style="text;html=1;strokeColor=none;fillColor=none;whiteSpace=wrap;align=left;verticalAlign=middle;fontSize=12;fontColor=#1F2329;" parent="1" vertex="1">
-          <mxGeometry x="765" y="705" width="275" height="50" as="geometry" />
+          <mxGeometry x="765" y="695" width="275" height="50" as="geometry" />
         </mxCell>
         <mxCell id="b6" value="测试总负责人审批" style="text;html=1;strokeColor=none;fillColor=none;whiteSpace=wrap;align=center;verticalAlign=middle;fontSize=12;fontColor=#1F2329;" parent="1" vertex="1">
           <mxGeometry x="560" y="780" width="170" height="30" as="geometry" />
