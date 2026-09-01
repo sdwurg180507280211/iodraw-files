@@ -179,7 +179,7 @@
           <mxGeometry x="575" y="880" width="130" height="30" as="geometry" />
         </mxCell>
         <mxCell id="b7d" value="按最新有效计划的准备开始日期，当天 09:00 提醒：可以开始测试准备" style="text;html=1;strokeColor=none;fillColor=none;whiteSpace=wrap;align=left;verticalAlign=middle;fontSize=12;fontColor=#1F2329;" parent="1" vertex="1">
-          <mxGeometry x="735" y="890" width="320" height="45" as="geometry" />
+          <mxGeometry x="735" y="875" width="320" height="45" as="geometry" />
         </mxCell>
         <mxCell id="b8" value="开始测试准备" style="text;html=1;strokeColor=none;fillColor=none;whiteSpace=wrap;align=center;verticalAlign=middle;fontSize=12;fontColor=#1F2329;" parent="1" vertex="1">
           <mxGeometry x="565" y="965" width="150" height="30" as="geometry" />
