@@ -1,6 +1,6 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/152.0.0.0 Safari/537.36" version="24.7.17">
   <diagram id="INT-v5-clean" name="Page-1">
-    <mxGraphModel dx="2806" dy="669" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1500" pageHeight="1300" math="0" shadow="0">
+    <mxGraphModel dx="2545" dy="535" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1500" pageHeight="1300" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -261,9 +261,6 @@
         </mxCell>
         <mxCell id="QczcGkvOfzLCaRQGDD4U-2" value="&lt;div&gt;&lt;font color=&quot;#000000&quot;&gt;父需求&amp;gt;右侧测试计划名称是子需求编号+所属系统+需求名称&lt;/font&gt;&lt;/div&gt;&lt;div&gt;所属系统&amp;gt;右侧测试计划名称是总需求编号+需求名称&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontColor=#FF0000;" vertex="1" parent="1">
           <mxGeometry x="720" y="111" width="340" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="QczcGkvOfzLCaRQGDD4U-3" value="Text" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="705" y="508" width="50" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
