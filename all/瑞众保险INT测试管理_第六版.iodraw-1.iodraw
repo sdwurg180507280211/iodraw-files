@@ -179,7 +179,7 @@
           <mxGeometry x="622.5" y="969" width="150" height="30" as="geometry" />
         </mxCell>
         <mxCell id="b8d" value="人工点击后进入 &lt;b&gt;测试准备&lt;/b&gt;&lt;br&gt;记录每个人的实际准备开始时间" style="text;html=1;strokeColor=none;fillColor=none;whiteSpace=wrap;align=left;verticalAlign=middle;fontSize=12;fontColor=#1F2329;" parent="1" vertex="1">
-          <mxGeometry x="792.5" y="941" width="270" height="50" as="geometry" />
+          <mxGeometry x="787.5" y="952" width="270" height="50" as="geometry" />
         </mxCell>
         <mxCell id="b9" value="完成测试准备" style="text;html=1;strokeColor=none;fillColor=none;whiteSpace=wrap;align=center;verticalAlign=middle;fontSize=12;fontColor=#1F2329;" parent="1" vertex="1">
           <mxGeometry x="632.5" y="1130" width="150" height="30" as="geometry" />
