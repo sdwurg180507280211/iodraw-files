@@ -268,7 +268,7 @@
         <mxCell id="jEz1W0iC9ySnP9xX5FN_-4" value="&lt;div&gt;自动创建测试计划数据&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;whiteSpace=wrap;align=center;verticalAlign=middle;fontSize=12;fontColor=#1F2329;" vertex="1" parent="1">
           <mxGeometry x="545" y="305" width="190" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="jEz1W0iC9ySnP9xX5FN_-5" value="&lt;div&gt;创建在：&lt;b&gt;所属系统 &amp;gt; 总需求编号-需求名称&lt;/b&gt; 目录下&lt;br&gt;初始状态 = &lt;b&gt;待介入&lt;/b&gt;，等待外部字段补齐&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;whiteSpace=wrap;align=left;verticalAlign=middle;fontSize=12;fontColor=#1F2329;" vertex="1" parent="1">
+        <mxCell id="jEz1W0iC9ySnP9xX5FN_-5" value="&lt;div&gt;创建在：&lt;b&gt;所属系统 &amp;gt; 总需求编号-需求名称&lt;/b&gt; 目录下&lt;br&gt;初始状态 = &lt;b&gt;待介入&lt;/b&gt;，等待外部字段补齐&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;whiteSpace=wrap;align=left;verticalAlign=middle;fontSize=12;fontColor=#1F2329;fontFamily=Helvetica;" vertex="1" parent="1">
           <mxGeometry x="747.5" y="287" width="330" height="71" as="geometry" />
         </mxCell>
       </root>
