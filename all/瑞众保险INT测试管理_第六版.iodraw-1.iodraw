@@ -269,7 +269,7 @@
           <mxGeometry x="564.38" y="310" width="276.25" height="30" as="geometry" />
         </mxCell>
         <mxCell id="jEz1W0iC9ySnP9xX5FN_-5" value="&lt;div&gt;创建初始状态 = &lt;b&gt;待介入&lt;/b&gt;，等待外部字段补齐&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;whiteSpace=wrap;align=left;verticalAlign=middle;fontSize=12;fontColor=#1F2329;fontFamily=Helvetica;" vertex="1" parent="1">
-          <mxGeometry x="927.5" y="285" width="330" height="71" as="geometry" />
+          <mxGeometry x="861.25" y="289.5" width="330" height="71" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
