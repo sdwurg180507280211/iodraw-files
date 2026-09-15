@@ -160,7 +160,7 @@
         <mxCell id="b6" value="测试总负责人审批" style="text;html=1;strokeColor=none;fillColor=none;whiteSpace=wrap;align=center;verticalAlign=middle;fontSize=12;fontColor=#1F2329;" parent="1" vertex="1">
           <mxGeometry x="617.5" y="784" width="170" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="adjd" value="&lt;div&gt;&lt;span style=&quot;font-weight: 700;&quot;&gt;需求调整（&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;涉及重新填写人员调整）&lt;/span&gt;&lt;/div&gt;原计划不覆盖，重新创建需求" style="text;html=1;strokeColor=none;fillColor=none;whiteSpace=wrap;align=left;verticalAlign=middle;fontSize=12;fontColor=#1F2329;" parent="1" vertex="1">
+        <mxCell id="adjd" value="&lt;div&gt;&lt;span style=&quot;font-weight: 700;&quot;&gt;需求调整&lt;/span&gt;(&lt;span style=&quot;background-color: initial;&quot;&gt;涉及重新填写人员调整)：&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;原需求不改动，重新创建需求&lt;/span&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;whiteSpace=wrap;align=left;verticalAlign=middle;fontSize=12;fontColor=#1F2329;" parent="1" vertex="1">
           <mxGeometry x="175" y="800" width="400" height="44" as="geometry" />
         </mxCell>
         <mxCell id="sec6" value="6. 测试准备" style="text;html=1;strokeColor=none;fillColor=none;whiteSpace=wrap;align=left;verticalAlign=middle;fontSize=12;fontColor=#1F2329;fontStyle=1;" parent="1" vertex="1">
