@@ -112,7 +112,7 @@
             <mxPoint x="600" y="255" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="b1" value="项目&amp;gt;公共池创建目录&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;此时没有需求&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;whiteSpace=wrap;align=center;verticalAlign=middle;fontSize=12;fontColor=#1F2329;" parent="1" vertex="1">
+        <mxCell id="b1" value="项目&amp;gt;公共池创建目录：&lt;b style=&quot;text-align: left;&quot;&gt;总需求编号-需求名称&lt;/b&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;此时没有需求&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;whiteSpace=wrap;align=center;verticalAlign=middle;fontSize=12;fontColor=#1F2329;" parent="1" vertex="1">
           <mxGeometry x="575" y="208.5" width="255" height="30" as="geometry" />
         </mxCell>
         <mxCell id="sec2" value="2. 系统子需求确认" style="text;html=1;strokeColor=none;fillColor=none;whiteSpace=wrap;align=left;verticalAlign=middle;fontSize=12;fontColor=#1F2329;fontStyle=1;" parent="1" vertex="1">
@@ -251,11 +251,6 @@
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="697.5" y="156" as="sourcePoint" />
             <mxPoint x="697.5" y="1214" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="jEz1W0iC9ySnP9xX5FN_-6" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="QczcGkvOfzLCaRQGDD4U-5">
-          <mxGeometry x="-0.7521" relative="1" as="geometry">
-            <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="b5" value="提交计划" style="text;html=1;strokeColor=none;fillColor=none;whiteSpace=wrap;align=center;verticalAlign=middle;fontSize=12;fontColor=#1F2329;" parent="1" vertex="1">
