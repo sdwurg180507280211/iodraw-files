@@ -1,6 +1,6 @@
-<mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/152.0.0.0 Safari/537.36" version="24.7.17">
+<mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/152.0.0.0 Safari/537.36" version="24.7.17">
   <diagram id="INT-v5-clean" name="Page-1">
-    <mxGraphModel dx="2806" dy="667" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1500" pageHeight="1300" math="0" shadow="0">
+    <mxGraphModel dx="2550" dy="522" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1500" pageHeight="1300" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -172,7 +172,7 @@
         <mxCell id="b4d" value="&lt;b&gt;测试准备安排&lt;/b&gt;：执行人（单选）+ 准备开始/结束时间，可 + / - 行&lt;br&gt;&lt;b&gt;测试执行安排&lt;/b&gt;：执行人（单选）+ 执行开始/结束时间，可 + / - 行&lt;br&gt;准备人员与执行人员可不同；所有可填写项均必填&lt;br&gt;人员时间冲突仅提示，不阻止保存；添加冒烟测试单选框" style="text;html=1;strokeColor=none;fillColor=none;whiteSpace=wrap;align=left;verticalAlign=middle;fontSize=12;fontColor=#1F2329;" parent="1" vertex="1">
           <mxGeometry x="770" y="590" width="420" height="95" as="geometry" />
         </mxCell>
-        <mxCell id="b4e" value="负责人 / 计划名称置灰；所属系统按需求编号确定；隐藏原测试阶段下拉框" style="text;html=1;strokeColor=none;fillColor=none;whiteSpace=wrap;align=left;verticalAlign=middle;fontSize=12;fontColor=#666666;" parent="1" vertex="1">
+        <mxCell id="b4e" value="负责人 / 计划名称；所属系统按需求编号确定；隐藏原测试阶段下拉框" style="text;html=1;strokeColor=none;fillColor=none;whiteSpace=wrap;align=left;verticalAlign=middle;fontSize=12;fontColor=#666666;" parent="1" vertex="1">
           <mxGeometry x="760" y="685" width="390" height="38" as="geometry" />
         </mxCell>
         <mxCell id="sec5" value="5. 计划审批" style="text;html=1;strokeColor=none;fillColor=none;whiteSpace=wrap;align=left;verticalAlign=middle;fontSize=12;fontColor=#1F2329;fontStyle=1;" parent="1" vertex="1">
