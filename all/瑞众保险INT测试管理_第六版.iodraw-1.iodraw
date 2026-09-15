@@ -121,7 +121,7 @@
         <mxCell id="sec3" value="3. 待介入 → 测试计划" style="text;html=1;strokeColor=none;fillColor=none;whiteSpace=wrap;align=left;verticalAlign=middle;fontSize=12;fontColor=#1F2329;fontStyle=1;" parent="1" vertex="1">
           <mxGeometry x="-5" y="388.5" width="180" height="25" as="geometry" />
         </mxCell>
-        <mxCell id="a3" value="陆续补充测试字段" style="text;html=1;strokeColor=none;fillColor=none;whiteSpace=wrap;align=center;verticalAlign=middle;fontSize=12;fontColor=#1F2329;" parent="1" vertex="1">
+        <mxCell id="a3" value="陆续补充字段" style="text;html=1;strokeColor=none;fillColor=none;whiteSpace=wrap;align=center;verticalAlign=middle;fontSize=12;fontColor=#1F2329;" parent="1" vertex="1">
           <mxGeometry x="5" y="423.5" width="180" height="30" as="geometry" />
         </mxCell>
         <mxCell id="a3d" value="需求规格说明书链接&lt;div&gt;开发计划完成时间&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;whiteSpace=wrap;align=left;verticalAlign=middle;fontSize=12;fontColor=#1F2329;" parent="1" vertex="1">
@@ -136,7 +136,7 @@
         <mxCell id="b3" value="两项字段均齐全后自动流转" style="text;html=1;strokeColor=none;fillColor=none;whiteSpace=wrap;align=center;verticalAlign=middle;fontSize=12;fontColor=#1F2329;" parent="1" vertex="1">
           <mxGeometry x="582.5" y="410" width="230" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="b3d" value="待介入 → &lt;b&gt;测试计划&lt;/b&gt;&lt;br&gt;同时通知匹配到的测试组成员（通知具体实现待核实）" style="text;html=1;strokeColor=none;fillColor=none;whiteSpace=wrap;align=left;verticalAlign=middle;fontSize=12;fontColor=#1F2329;" parent="1" vertex="1">
+        <mxCell id="b3d" value="待介入 → &lt;b&gt;测试计划&lt;/b&gt;&lt;br&gt;同时通知匹配到的测试组成员" style="text;html=1;strokeColor=none;fillColor=none;whiteSpace=wrap;align=left;verticalAlign=middle;fontSize=12;fontColor=#1F2329;" parent="1" vertex="1">
           <mxGeometry x="840.63" y="398.5" width="315" height="55" as="geometry" />
         </mxCell>
         <mxCell id="sec4" value="4. 测试计划编制" style="text;html=1;strokeColor=none;fillColor=none;whiteSpace=wrap;align=left;verticalAlign=middle;fontSize=12;fontColor=#1F2329;fontStyle=1;" parent="1" vertex="1">
