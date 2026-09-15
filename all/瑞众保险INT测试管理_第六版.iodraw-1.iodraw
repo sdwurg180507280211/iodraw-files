@@ -112,7 +112,7 @@
             <mxPoint x="600" y="255" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="b1" value="项目/公共池下创建目录：&lt;b style=&quot;text-align: left;&quot;&gt;总需求编号-需求名称&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;whiteSpace=wrap;align=center;verticalAlign=middle;fontSize=12;fontColor=#1F2329;" parent="1" vertex="1">
+        <mxCell id="b1" value="项目/公共池下创建目录&lt;div&gt;&lt;b style=&quot;text-align: left;&quot;&gt;总需求编号-需求名称&lt;/b&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;whiteSpace=wrap;align=center;verticalAlign=middle;fontSize=12;fontColor=#1F2329;" parent="1" vertex="1">
           <mxGeometry x="575" y="208.5" width="255" height="30" as="geometry" />
         </mxCell>
         <mxCell id="sec2" value="2. 系统子需求确认" style="text;html=1;strokeColor=none;fillColor=none;whiteSpace=wrap;align=left;verticalAlign=middle;fontSize=12;fontColor=#1F2329;fontStyle=1;" parent="1" vertex="1">
@@ -265,7 +265,7 @@
         <mxCell id="jEz1W0iC9ySnP9xX5FN_-2" value="后期存在增派现象：存在原始需求建立后，新增关联所属系统的情况" style="text;html=1;strokeColor=none;fillColor=none;whiteSpace=wrap;align=left;verticalAlign=middle;fontSize=12;fontColor=#1F2329;" vertex="1" parent="1">
           <mxGeometry x="-980" y="190" width="390" height="29" as="geometry" />
         </mxCell>
-        <mxCell id="jEz1W0iC9ySnP9xX5FN_-4" value="&lt;span style=&quot;text-align: left;&quot;&gt;在：项目&amp;gt;公共池&lt;/span&gt;&lt;b style=&quot;text-align: left;&quot;&gt;&amp;nbsp;&amp;gt; 总需求编号-需求名称&lt;/b&gt;&lt;span style=&quot;text-align: left;&quot;&gt; 目录下&lt;/span&gt;&lt;br style=&quot;text-align: left;&quot;&gt;&lt;div&gt;自动创建测试计划数据&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;whiteSpace=wrap;align=center;verticalAlign=middle;fontSize=12;fontColor=#1F2329;" vertex="1" parent="1">
+        <mxCell id="jEz1W0iC9ySnP9xX5FN_-4" value="&lt;span style=&quot;text-align: left;&quot;&gt;在：项目/公共池/&lt;/span&gt;&lt;b style=&quot;text-align: left;&quot;&gt;总需求编号-需求名称&lt;/b&gt;&lt;span style=&quot;text-align: left;&quot;&gt; 目录下&lt;/span&gt;&lt;br style=&quot;text-align: left;&quot;&gt;&lt;div&gt;自动创建测试计划数据&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;whiteSpace=wrap;align=center;verticalAlign=middle;fontSize=12;fontColor=#1F2329;" vertex="1" parent="1">
           <mxGeometry x="564.38" y="310" width="276.25" height="30" as="geometry" />
         </mxCell>
         <mxCell id="jEz1W0iC9ySnP9xX5FN_-5" value="&lt;div&gt;创建初始状态 = &lt;b&gt;待介入&lt;/b&gt;，等待外部字段补齐&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;whiteSpace=wrap;align=left;verticalAlign=middle;fontSize=12;fontColor=#1F2329;fontFamily=Helvetica;" vertex="1" parent="1">
