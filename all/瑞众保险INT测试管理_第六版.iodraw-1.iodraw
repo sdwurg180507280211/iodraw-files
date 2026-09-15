@@ -1,6 +1,6 @@
-<mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/152.0.0.0 Safari/537.36" version="24.7.17">
+<mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/152.0.0.0 Safari/537.36" version="24.7.17">
   <diagram id="INT-v5-clean" name="Page-1">
-    <mxGraphModel dx="2314" dy="359" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1500" pageHeight="1300" math="0" shadow="0">
+    <mxGraphModel dx="2806" dy="667" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1500" pageHeight="1300" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -253,13 +253,13 @@
         <mxCell id="QczcGkvOfzLCaRQGDD4U-6" value="&lt;span style=&quot;color: rgb(255, 0, 0);&quot;&gt;到了时间点通知，&lt;/span&gt;&lt;font color=&quot;#ff0000&quot;&gt;如果忘记流转，持续通知&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="1402.5" y="900" width="250" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="jEz1W0iC9ySnP9xX5FN_-2" value="后期存在增派现象：存在原始需求建立后，新增关联所属系统的情况" style="text;html=1;strokeColor=none;fillColor=none;whiteSpace=wrap;align=left;verticalAlign=middle;fontSize=12;fontColor=#1F2329;" vertex="1" parent="1">
+        <mxCell id="jEz1W0iC9ySnP9xX5FN_-2" value="后期存在增派现象：存在原始需求建立后，新增关联所属系统的情况" style="text;html=1;strokeColor=none;fillColor=none;whiteSpace=wrap;align=left;verticalAlign=middle;fontSize=12;fontColor=#1F2329;" parent="1" vertex="1">
           <mxGeometry x="-980" y="190" width="390" height="29" as="geometry" />
         </mxCell>
-        <mxCell id="jEz1W0iC9ySnP9xX5FN_-4" value="&lt;span style=&quot;text-align: left;&quot;&gt;在：项目/公共池/&lt;/span&gt;&lt;b style=&quot;text-align: left;&quot;&gt;总需求编号-需求名称&lt;/b&gt;&lt;span style=&quot;text-align: left;&quot;&gt; 目录下&lt;/span&gt;&lt;br style=&quot;text-align: left;&quot;&gt;&lt;div&gt;自动创建测试计划数据&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;whiteSpace=wrap;align=center;verticalAlign=middle;fontSize=12;fontColor=#1F2329;" vertex="1" parent="1">
+        <mxCell id="jEz1W0iC9ySnP9xX5FN_-4" value="&lt;span style=&quot;text-align: left;&quot;&gt;在：项目/公共池/&lt;/span&gt;&lt;b style=&quot;text-align: left;&quot;&gt;总需求编号-需求名称&lt;/b&gt;&lt;span style=&quot;text-align: left;&quot;&gt; 目录下&lt;/span&gt;&lt;br style=&quot;text-align: left;&quot;&gt;&lt;div&gt;自动创建测试计划数据&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;whiteSpace=wrap;align=center;verticalAlign=middle;fontSize=12;fontColor=#1F2329;" parent="1" vertex="1">
           <mxGeometry x="564.38" y="310" width="276.25" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="jEz1W0iC9ySnP9xX5FN_-5" value="&lt;div&gt;创建初始状态 = &lt;b&gt;待介入&lt;/b&gt;，等待外部字段补齐&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;whiteSpace=wrap;align=left;verticalAlign=middle;fontSize=12;fontColor=#1F2329;fontFamily=Helvetica;" vertex="1" parent="1">
+        <mxCell id="jEz1W0iC9ySnP9xX5FN_-5" value="&lt;div&gt;创建初始状态 = &lt;b&gt;待介入&lt;/b&gt;，等待外部字段补齐&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;whiteSpace=wrap;align=left;verticalAlign=middle;fontSize=12;fontColor=#1F2329;fontFamily=Helvetica;" parent="1" vertex="1">
           <mxGeometry x="850" y="289.5" width="330" height="71" as="geometry" />
         </mxCell>
       </root>
