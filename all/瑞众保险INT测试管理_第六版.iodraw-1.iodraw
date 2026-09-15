@@ -112,7 +112,7 @@
             <mxPoint x="600" y="255" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="b1" value="在：项目&amp;gt;公共池创建左目录&lt;div&gt;此时没有需求&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;whiteSpace=wrap;align=center;verticalAlign=middle;fontSize=12;fontColor=#1F2329;" parent="1" vertex="1">
+        <mxCell id="b1" value="项目&amp;gt;公共池创建目录&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;此时没有需求&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;whiteSpace=wrap;align=center;verticalAlign=middle;fontSize=12;fontColor=#1F2329;" parent="1" vertex="1">
           <mxGeometry x="575" y="208.5" width="255" height="30" as="geometry" />
         </mxCell>
         <mxCell id="sec2" value="2. 系统子需求确认" style="text;html=1;strokeColor=none;fillColor=none;whiteSpace=wrap;align=left;verticalAlign=middle;fontSize=12;fontColor=#1F2329;fontStyle=1;" parent="1" vertex="1">
