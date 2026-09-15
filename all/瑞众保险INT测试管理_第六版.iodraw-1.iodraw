@@ -268,6 +268,9 @@
         <mxCell id="jEz1W0iC9ySnP9xX5FN_-1" value="&lt;span style=&quot;color: rgb(31, 35, 41); text-align: left; white-space: normal;&quot;&gt;后期存在增派现象：存在原始需求建立后，新增关联所属系统的情况&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="-970" y="258" width="380" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="jEz1W0iC9ySnP9xX5FN_-2" value="&lt;div&gt;1.必传：总需求编号、需求名称、需求类型&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;whiteSpace=wrap;align=left;verticalAlign=middle;fontSize=12;fontColor=#1F2329;" vertex="1" parent="1">
+          <mxGeometry x="200" y="320" width="390" height="29" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
