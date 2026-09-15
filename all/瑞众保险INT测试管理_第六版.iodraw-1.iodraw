@@ -257,7 +257,7 @@
           <mxGeometry x="1402.5" y="900" width="250" height="30" as="geometry" />
         </mxCell>
         <mxCell id="QczcGkvOfzLCaRQGDD4U-8" value="缺陷管理新增页面加一个缺陷来源i字段，新增时选择测试计划" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontColor=#FF0000;" parent="1" vertex="1">
-          <mxGeometry x="1407.5" y="1494" width="350" height="30" as="geometry" />
+          <mxGeometry x="1400" y="1480" width="350" height="30" as="geometry" />
         </mxCell>
         <mxCell id="jEz1W0iC9ySnP9xX5FN_-2" value="后期存在增派现象：存在原始需求建立后，新增关联所属系统的情况" style="text;html=1;strokeColor=none;fillColor=none;whiteSpace=wrap;align=left;verticalAlign=middle;fontSize=12;fontColor=#1F2329;" vertex="1" parent="1">
           <mxGeometry x="-980" y="190" width="390" height="29" as="geometry" />
