@@ -266,7 +266,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="gw-10001" name="页面地图">
-    <mxGraphModel dx="1306" dy="667" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2400" pageHeight="2000" math="0" shadow="0">
+    <mxGraphModel dx="1866" dy="953" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2400" pageHeight="2000" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -957,7 +957,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="gw-10228" name="页面原型-2">
-    <mxGraphModel dx="1800" dy="1000" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2200" pageHeight="1750" math="0" shadow="0">
+    <mxGraphModel dx="1306" dy="667" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2200" pageHeight="1750" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1142,58 +1142,58 @@
           <mxGeometry x="56" y="722" width="648" height="26" as="geometry" />
         </mxCell>
         <mxCell id="gw-10289" value="人员" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#EFF6FF;strokeColor=#E2E8F0;align=center;fontStyle=1;fontSize=11;" parent="1" vertex="1">
-          <mxGeometry x="56.0" y="748" width="108.0" height="22" as="geometry" />
+          <mxGeometry x="56" y="748" width="108" height="22" as="geometry" />
         </mxCell>
         <mxCell id="gw-10290" value="执行计划开始" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#EFF6FF;strokeColor=#E2E8F0;align=center;fontStyle=1;fontSize=11;" parent="1" vertex="1">
-          <mxGeometry x="164.0" y="748" width="108.0" height="22" as="geometry" />
+          <mxGeometry x="164" y="748" width="108" height="22" as="geometry" />
         </mxCell>
         <mxCell id="gw-10291" value="执行计划结束" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#EFF6FF;strokeColor=#E2E8F0;align=center;fontStyle=1;fontSize=11;" parent="1" vertex="1">
-          <mxGeometry x="272.0" y="748" width="108.0" height="22" as="geometry" />
+          <mxGeometry x="272" y="748" width="108" height="22" as="geometry" />
         </mxCell>
         <mxCell id="gw-10292" value="执行实际开始" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#EFF6FF;strokeColor=#E2E8F0;align=center;fontStyle=1;fontSize=11;" parent="1" vertex="1">
-          <mxGeometry x="380.0" y="748" width="108.0" height="22" as="geometry" />
+          <mxGeometry x="380" y="748" width="108" height="22" as="geometry" />
         </mxCell>
         <mxCell id="gw-10293" value="执行实际结束" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#EFF6FF;strokeColor=#E2E8F0;align=center;fontStyle=1;fontSize=11;" parent="1" vertex="1">
-          <mxGeometry x="488.0" y="748" width="108.0" height="22" as="geometry" />
+          <mxGeometry x="488" y="748" width="108" height="22" as="geometry" />
         </mxCell>
         <mxCell id="gw-10294" value="当前按钮" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#EFF6FF;strokeColor=#E2E8F0;align=center;fontStyle=1;fontSize=11;" parent="1" vertex="1">
-          <mxGeometry x="596.0" y="748" width="108.0" height="22" as="geometry" />
+          <mxGeometry x="596" y="748" width="108" height="22" as="geometry" />
         </mxCell>
         <mxCell id="gw-10295" value="王五" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#E2E8F0;align=center;fontSize=11;" parent="1" vertex="1">
-          <mxGeometry x="56.0" y="770.0" width="108.0" height="86.0" as="geometry" />
+          <mxGeometry x="56" y="770" width="108" height="86" as="geometry" />
         </mxCell>
         <mxCell id="gw-10296" value="09-08" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#E2E8F0;align=center;fontSize=11;" parent="1" vertex="1">
-          <mxGeometry x="164.0" y="770.0" width="108.0" height="86.0" as="geometry" />
+          <mxGeometry x="164" y="770" width="108" height="86" as="geometry" />
         </mxCell>
         <mxCell id="gw-10297" value="09-15" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#E2E8F0;align=center;fontSize=11;" parent="1" vertex="1">
-          <mxGeometry x="272.0" y="770.0" width="108.0" height="86.0" as="geometry" />
+          <mxGeometry x="272" y="770" width="108" height="86" as="geometry" />
         </mxCell>
         <mxCell id="gw-10298" value="-" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#E2E8F0;align=center;fontSize=11;" parent="1" vertex="1">
-          <mxGeometry x="380.0" y="770.0" width="108.0" height="86.0" as="geometry" />
+          <mxGeometry x="380" y="770" width="108" height="86" as="geometry" />
         </mxCell>
         <mxCell id="gw-10299" value="-" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#E2E8F0;align=center;fontSize=11;" parent="1" vertex="1">
-          <mxGeometry x="488.0" y="770.0" width="108.0" height="86.0" as="geometry" />
+          <mxGeometry x="488" y="770" width="108" height="86" as="geometry" />
         </mxCell>
         <mxCell id="gw-10300" value="进入测试执行" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#E2E8F0;align=center;fontSize=11;" parent="1" vertex="1">
-          <mxGeometry x="596.0" y="770.0" width="108.0" height="86.0" as="geometry" />
+          <mxGeometry x="596" y="770" width="108" height="86" as="geometry" />
         </mxCell>
         <mxCell id="gw-10301" value="赵六" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#E2E8F0;align=center;fontSize=11;" parent="1" vertex="1">
-          <mxGeometry x="56.0" y="856.0" width="108.0" height="86.0" as="geometry" />
+          <mxGeometry x="56" y="856" width="108" height="86" as="geometry" />
         </mxCell>
         <mxCell id="gw-10302" value="09-10" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#E2E8F0;align=center;fontSize=11;" parent="1" vertex="1">
-          <mxGeometry x="164.0" y="856.0" width="108.0" height="86.0" as="geometry" />
+          <mxGeometry x="164" y="856" width="108" height="86" as="geometry" />
         </mxCell>
         <mxCell id="gw-10303" value="09-20" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#E2E8F0;align=center;fontSize=11;" parent="1" vertex="1">
-          <mxGeometry x="272.0" y="856.0" width="108.0" height="86.0" as="geometry" />
+          <mxGeometry x="272" y="856" width="108" height="86" as="geometry" />
         </mxCell>
         <mxCell id="gw-10304" value="09-10 09:05" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#E2E8F0;align=center;fontSize=11;" parent="1" vertex="1">
-          <mxGeometry x="380.0" y="856.0" width="108.0" height="86.0" as="geometry" />
+          <mxGeometry x="380" y="856" width="108" height="86" as="geometry" />
         </mxCell>
         <mxCell id="gw-10305" value="-" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#E2E8F0;align=center;fontSize=11;" parent="1" vertex="1">
-          <mxGeometry x="488.0" y="856.0" width="108.0" height="86.0" as="geometry" />
+          <mxGeometry x="488" y="856" width="108" height="86" as="geometry" />
         </mxCell>
         <mxCell id="gw-10306" value="结束测试执行" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#E2E8F0;align=center;fontSize=11;" parent="1" vertex="1">
-          <mxGeometry x="596.0" y="856.0" width="108.0" height="86.0" as="geometry" />
+          <mxGeometry x="596" y="856" width="108" height="86" as="geometry" />
         </mxCell>
         <mxCell id="gw-10307" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FEF2F2;strokeColor=#E2E8F0;arcSize=6;" parent="1" vertex="1">
           <mxGeometry x="56" y="954" width="648" height="84" as="geometry" />
@@ -1283,52 +1283,52 @@
           <mxGeometry x="1496" y="722" width="648" height="26" as="geometry" />
         </mxCell>
         <mxCell id="gw-10336" value="成员" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#EFF6FF;strokeColor=#E2E8F0;align=center;fontStyle=1;fontSize=11;" parent="1" vertex="1">
-          <mxGeometry x="1496.0" y="748" width="162.0" height="22" as="geometry" />
+          <mxGeometry x="1496" y="748" width="162" height="22" as="geometry" />
         </mxCell>
         <mxCell id="gw-10337" value="角色类型" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#EFF6FF;strokeColor=#E2E8F0;align=center;fontStyle=1;fontSize=11;" parent="1" vertex="1">
-          <mxGeometry x="1658.0" y="748" width="162.0" height="22" as="geometry" />
+          <mxGeometry x="1658" y="748" width="162" height="22" as="geometry" />
         </mxCell>
         <mxCell id="gw-10338" value="是否测试组负责人" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#EFF6FF;strokeColor=#E2E8F0;align=center;fontStyle=1;fontSize=11;" parent="1" vertex="1">
-          <mxGeometry x="1820.0" y="748" width="162.0" height="22" as="geometry" />
+          <mxGeometry x="1820" y="748" width="162" height="22" as="geometry" />
         </mxCell>
         <mxCell id="gw-10339" value="备注" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#EFF6FF;strokeColor=#E2E8F0;align=center;fontStyle=1;fontSize=11;" parent="1" vertex="1">
-          <mxGeometry x="1982.0" y="748" width="162.0" height="22" as="geometry" />
+          <mxGeometry x="1982" y="748" width="162" height="22" as="geometry" />
         </mxCell>
         <mxCell id="gw-10340" value="张三" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#E2E8F0;align=center;fontSize=11;" parent="1" vertex="1">
-          <mxGeometry x="1496.0" y="770.0" width="162.0" height="67.33333333333333" as="geometry" />
+          <mxGeometry x="1496" y="770" width="162" height="67.33333333333333" as="geometry" />
         </mxCell>
         <mxCell id="gw-10341" value="测试人员" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#E2E8F0;align=center;fontSize=11;" parent="1" vertex="1">
-          <mxGeometry x="1658.0" y="770.0" width="162.0" height="67.33333333333333" as="geometry" />
+          <mxGeometry x="1658" y="770" width="162" height="67.33333333333333" as="geometry" />
         </mxCell>
         <mxCell id="gw-10342" value="是" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#E2E8F0;align=center;fontSize=11;" parent="1" vertex="1">
-          <mxGeometry x="1820.0" y="770.0" width="162.0" height="67.33333333333333" as="geometry" />
+          <mxGeometry x="1820" y="770" width="162" height="67.33333333333333" as="geometry" />
         </mxCell>
         <mxCell id="gw-10343" value="寿险测试组负责人" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#E2E8F0;align=center;fontSize=11;" parent="1" vertex="1">
-          <mxGeometry x="1982.0" y="770.0" width="162.0" height="67.33333333333333" as="geometry" />
+          <mxGeometry x="1982" y="770" width="162" height="67.33333333333333" as="geometry" />
         </mxCell>
         <mxCell id="gw-10344" value="李四" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#E2E8F0;align=center;fontSize=11;" parent="1" vertex="1">
-          <mxGeometry x="1496.0" y="837.3333333333334" width="162.0" height="67.33333333333333" as="geometry" />
+          <mxGeometry x="1496" y="837.3333333333334" width="162" height="67.33333333333333" as="geometry" />
         </mxCell>
         <mxCell id="gw-10345" value="测试人员" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#E2E8F0;align=center;fontSize=11;" parent="1" vertex="1">
-          <mxGeometry x="1658.0" y="837.3333333333334" width="162.0" height="67.33333333333333" as="geometry" />
+          <mxGeometry x="1658" y="837.3333333333334" width="162" height="67.33333333333333" as="geometry" />
         </mxCell>
         <mxCell id="gw-10346" value="否" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#E2E8F0;align=center;fontSize=11;" parent="1" vertex="1">
-          <mxGeometry x="1820.0" y="837.3333333333334" width="162.0" height="67.33333333333333" as="geometry" />
+          <mxGeometry x="1820" y="837.3333333333334" width="162" height="67.33333333333333" as="geometry" />
         </mxCell>
         <mxCell id="gw-10347" value="普通成员" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#E2E8F0;align=center;fontSize=11;" parent="1" vertex="1">
-          <mxGeometry x="1982.0" y="837.3333333333334" width="162.0" height="67.33333333333333" as="geometry" />
+          <mxGeometry x="1982" y="837.3333333333334" width="162" height="67.33333333333333" as="geometry" />
         </mxCell>
         <mxCell id="gw-10348" value="李总" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#E2E8F0;align=center;fontSize=11;" parent="1" vertex="1">
-          <mxGeometry x="1496.0" y="904.6666666666666" width="162.0" height="67.33333333333333" as="geometry" />
+          <mxGeometry x="1496" y="904.6666666666666" width="162" height="67.33333333333333" as="geometry" />
         </mxCell>
         <mxCell id="gw-10349" value="领导" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#E2E8F0;align=center;fontSize=11;" parent="1" vertex="1">
-          <mxGeometry x="1658.0" y="904.6666666666666" width="162.0" height="67.33333333333333" as="geometry" />
+          <mxGeometry x="1658" y="904.6666666666666" width="162" height="67.33333333333333" as="geometry" />
         </mxCell>
         <mxCell id="gw-10350" value="否" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#E2E8F0;align=center;fontSize=11;" parent="1" vertex="1">
-          <mxGeometry x="1820.0" y="904.6666666666666" width="162.0" height="67.33333333333333" as="geometry" />
+          <mxGeometry x="1820" y="904.6666666666666" width="162" height="67.33333333333333" as="geometry" />
         </mxCell>
         <mxCell id="gw-10351" value="总负责人不在此干活" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#E2E8F0;align=center;fontSize=11;" parent="1" vertex="1">
-          <mxGeometry x="1982.0" y="904.6666666666666" width="162.0" height="67.33333333333333" as="geometry" />
+          <mxGeometry x="1982" y="904.6666666666666" width="162" height="67.33333333333333" as="geometry" />
         </mxCell>
         <mxCell id="gw-10352" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#F0FDF4;strokeColor=#E2E8F0;arcSize=6;" parent="1" vertex="1">
           <mxGeometry x="1496" y="984" width="648" height="110" as="geometry" />
