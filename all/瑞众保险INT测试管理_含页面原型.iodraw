@@ -1,0 +1,1348 @@
+<mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/152.0.0.0 Safari/537.36" version="24.7.17">
+  <diagram id="INT-v5-clean" name="Page-1">
+    <mxGraphModel dx="2314" dy="359" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1500" pageHeight="1300" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="title" value="瑞众保险 INT 测试管理流程" style="text;html=1;strokeColor=none;fillColor=none;whiteSpace=wrap;align=center;verticalAlign=middle;fontSize=14;fontColor=#1F2329;fontStyle=1;" parent="1" vertex="1">
+          <mxGeometry x="260" y="25" width="720" height="34" as="geometry" />
+        </mxCell>
+        <mxCell id="h1" value="全研发流程平台" style="rounded=1;whiteSpace=wrap;html=1;fontSize=13;strokeWidth=1;fillColor=#FFFFFF;strokeColor=#888888;align=center;fontStyle=1;" parent="1" vertex="1">
+          <mxGeometry x="20" y="110" width="160" height="42" as="geometry" />
+        </mxCell>
+        <mxCell id="h2" value="自动化测试平台" style="rounded=1;whiteSpace=wrap;html=1;fontSize=13;strokeWidth=1;fillColor=#FFFFFF;strokeColor=#888888;align=center;fontStyle=1;" parent="1" vertex="1">
+          <mxGeometry x="617.5" y="114" width="160" height="42" as="geometry" />
+        </mxCell>
+        <mxCell id="lane1" value="" style="endArrow=none;endFill=0;html=1;rounded=0;strokeWidth=1.2;strokeColor=#666666;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="100" y="152" as="sourcePoint" />
+            <mxPoint x="100" y="1500" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="lane2" value="" style="endArrow=none;endFill=0;html=1;rounded=0;strokeWidth=1.2;strokeColor=#666666;" parent="1" source="b5" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="697.5" y="156" as="sourcePoint" />
+            <mxPoint x="697.5" y="1514" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="stitle" value="状态流转" style="text;html=1;strokeColor=none;fillColor=none;whiteSpace=wrap;align=center;verticalAlign=middle;fontSize=12;fontColor=#1F2329;fontStyle=1;" parent="1" vertex="1">
+          <mxGeometry x="1227.5" y="120" width="150" height="28" as="geometry" />
+        </mxCell>
+        <mxCell id="s0" value="待介入" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;strokeWidth=1;fillColor=#F5F5F5;strokeColor=#BBBBBB;align=center;fontStyle=1;" parent="1" vertex="1">
+          <mxGeometry x="1247.5" y="185" width="120" height="34" as="geometry" />
+        </mxCell>
+        <mxCell id="s1" value="测试计划" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;strokeWidth=1;fillColor=#F5F5F5;strokeColor=#BBBBBB;align=center;fontStyle=1;" parent="1" vertex="1">
+          <mxGeometry x="1247.5" y="419" width="120" height="34" as="geometry" />
+        </mxCell>
+        <mxCell id="se1" value="" style="endArrow=block;endFill=1;html=1;rounded=0;strokeWidth=1.2;strokeColor=#666666;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" target="s1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1307.5" y="219" as="sourcePoint" />
+            <mxPoint x="1307.5" y="300" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="s2" value="待审批" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;strokeWidth=1;fillColor=#F5F5F5;strokeColor=#BBBBBB;align=center;fontStyle=1;" parent="1" vertex="1">
+          <mxGeometry x="1247.5" y="635" width="120" height="34" as="geometry" />
+        </mxCell>
+        <mxCell id="se2" value="" style="endArrow=block;endFill=1;html=1;rounded=0;strokeWidth=1.2;strokeColor=#666666;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" target="s2" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1307.5" y="453" as="sourcePoint" />
+            <mxPoint x="1307.5" y="539" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="s3" value="待测试准备" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;strokeWidth=1;fillColor=#F5F5F5;strokeColor=#BBBBBB;align=center;fontStyle=1;" parent="1" vertex="1">
+          <mxGeometry x="1247.5" y="835" width="120" height="34" as="geometry" />
+        </mxCell>
+        <mxCell id="se3" value="" style="endArrow=block;endFill=1;html=1;rounded=0;strokeWidth=1.2;strokeColor=#666666;" parent="1" target="s3" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1307.5" y="669" as="sourcePoint" />
+            <mxPoint x="1307.5" y="755" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="s4" value="测试准备" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;strokeWidth=1;fillColor=#F5F5F5;strokeColor=#BBBBBB;align=center;fontStyle=1;" parent="1" vertex="1">
+          <mxGeometry x="1247.5" y="960" width="120" height="34" as="geometry" />
+        </mxCell>
+        <mxCell id="se4" value="" style="endArrow=block;endFill=1;html=1;rounded=0;strokeWidth=1.2;strokeColor=#666666;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1307.5" y="869" as="sourcePoint" />
+            <mxPoint x="1307.5" y="960" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="s5" value="待测试执行" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;strokeWidth=1;fillColor=#F5F5F5;strokeColor=#BBBBBB;align=center;fontStyle=1;" parent="1" vertex="1">
+          <mxGeometry x="1247.5" y="1170" width="120" height="34" as="geometry" />
+        </mxCell>
+        <mxCell id="se5" value="" style="endArrow=block;endFill=1;html=1;rounded=0;strokeWidth=1.2;strokeColor=#666666;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" target="s5" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1307.5" y="994" as="sourcePoint" />
+            <mxPoint x="1307.5" y="1100" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="s6" value="测试执行" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;strokeWidth=1;fillColor=#F5F5F5;strokeColor=#BBBBBB;align=center;fontStyle=1;" parent="1" vertex="1">
+          <mxGeometry x="1247.5" y="1364" width="120" height="34" as="geometry" />
+        </mxCell>
+        <mxCell id="se6" value="" style="endArrow=block;endFill=1;html=1;rounded=0;strokeWidth=1.2;strokeColor=#666666;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" target="s6" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1307.5" y="1204" as="sourcePoint" />
+            <mxPoint x="1307.5" y="1315" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="s7" value="办结" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;strokeWidth=1;fillColor=#F5F5F5;strokeColor=#BBBBBB;align=center;fontStyle=1;" parent="1" vertex="1">
+          <mxGeometry x="1247.5" y="1490" width="120" height="34" as="geometry" />
+        </mxCell>
+        <mxCell id="se7" value="" style="endArrow=block;endFill=1;html=1;rounded=0;strokeWidth=1.2;strokeColor=#666666;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="s6" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1307.5" y="1394" as="sourcePoint" />
+            <mxPoint x="1307.5" y="1490" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="snote" value="当前状态下拉框只展示合法的下一状态；&lt;br&gt;自动流转节点不允许手工跳转；人工动作记录实际时间。" style="text;html=1;strokeColor=none;fillColor=none;whiteSpace=wrap;align=center;verticalAlign=middle;fontSize=12;fontColor=#666666;" parent="1" vertex="1">
+          <mxGeometry x="1467.5" y="1090" width="312.5" height="55" as="geometry" />
+        </mxCell>
+        <mxCell id="sec1" value="1. 原始需求建立" style="text;html=1;strokeColor=none;fillColor=none;whiteSpace=wrap;align=left;verticalAlign=middle;fontSize=12;fontColor=#1F2329;fontStyle=1;" parent="1" vertex="1">
+          <mxGeometry y="180" width="150" height="25" as="geometry" />
+        </mxCell>
+        <mxCell id="a1" value="创建原始需求" style="text;html=1;strokeColor=none;fillColor=none;whiteSpace=wrap;align=center;verticalAlign=middle;fontSize=12;fontColor=#1F2329;" parent="1" vertex="1">
+          <mxGeometry x="10" y="215" width="180" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="a1d" value="1.必传：总需求编号、需求名称、需求类型(系统优化/业务需求)&lt;br&gt;2.原始业务需求：另带业务需求 ZIP 包链接" style="text;html=1;strokeColor=none;fillColor=none;whiteSpace=wrap;align=left;verticalAlign=middle;fontSize=12;fontColor=#1F2329;" parent="1" vertex="1">
+          <mxGeometry x="185" y="190" width="390" height="59" as="geometry" />
+        </mxCell>
+        <mxCell id="a1x" value="" style="endArrow=block;endFill=1;html=1;rounded=0;strokeWidth=1.2;strokeColor=#666666;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="175" y="255" as="sourcePoint" />
+            <mxPoint x="600" y="255" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="b1" value="项目/公共池下创建目录&lt;div&gt;&lt;b style=&quot;text-align: left;&quot;&gt;总需求编号-需求名称&lt;/b&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;whiteSpace=wrap;align=center;verticalAlign=middle;fontSize=12;fontColor=#1F2329;" parent="1" vertex="1">
+          <mxGeometry x="575" y="208.5" width="255" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="sec2" value="2. 系统子需求确认" style="text;html=1;strokeColor=none;fillColor=none;whiteSpace=wrap;align=left;verticalAlign=middle;fontSize=12;fontColor=#1F2329;fontStyle=1;" parent="1" vertex="1">
+          <mxGeometry y="310" width="150" height="25" as="geometry" />
+        </mxCell>
+        <mxCell id="sec3" value="3. 待介入 → 测试计划" style="text;html=1;strokeColor=none;fillColor=none;whiteSpace=wrap;align=left;verticalAlign=middle;fontSize=12;fontColor=#1F2329;fontStyle=1;" parent="1" vertex="1">
+          <mxGeometry x="-5" y="388.5" width="180" height="25" as="geometry" />
+        </mxCell>
+        <mxCell id="a3" value="陆续补充字段" style="text;html=1;strokeColor=none;fillColor=none;whiteSpace=wrap;align=center;verticalAlign=middle;fontSize=12;fontColor=#1F2329;" parent="1" vertex="1">
+          <mxGeometry x="5" y="423.5" width="180" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="a3d" value="需求规格说明书链接&lt;div&gt;开发计划完成时间&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;whiteSpace=wrap;align=left;verticalAlign=middle;fontSize=12;fontColor=#1F2329;" parent="1" vertex="1">
+          <mxGeometry x="230" y="392.7" width="235" height="55" as="geometry" />
+        </mxCell>
+        <mxCell id="a3x" value="" style="endArrow=block;endFill=1;html=1;rounded=0;strokeWidth=1.2;strokeColor=#666666;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="190" y="447.7" as="sourcePoint" />
+            <mxPoint x="615" y="447.7" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="b3" value="两项字段均齐全后自动流转" style="text;html=1;strokeColor=none;fillColor=none;whiteSpace=wrap;align=center;verticalAlign=middle;fontSize=12;fontColor=#1F2329;" parent="1" vertex="1">
+          <mxGeometry x="582.5" y="410" width="230" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="b3d" value="待介入 → &lt;b&gt;测试计划&lt;/b&gt;&lt;br&gt;同时通知匹配到的测试组成员" style="text;html=1;strokeColor=none;fillColor=none;whiteSpace=wrap;align=left;verticalAlign=middle;fontSize=12;fontColor=#1F2329;" parent="1" vertex="1">
+          <mxGeometry x="840.63" y="398.5" width="315" height="55" as="geometry" />
+        </mxCell>
+        <mxCell id="sec4" value="4. 测试计划编制" style="text;html=1;strokeColor=none;fillColor=none;whiteSpace=wrap;align=left;verticalAlign=middle;fontSize=12;fontColor=#1F2329;fontStyle=1;" parent="1" vertex="1">
+          <mxGeometry y="590" width="160" height="25" as="geometry" />
+        </mxCell>
+        <mxCell id="b4" value="测试团队负责人编制计划" style="text;html=1;strokeColor=none;fillColor=none;whiteSpace=wrap;align=center;verticalAlign=middle;fontSize=12;fontColor=#1F2329;" parent="1" vertex="1">
+          <mxGeometry x="602.5" y="564" width="210" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="b4d" value="&lt;b&gt;测试准备安排&lt;/b&gt;：人员 + 准备开始/结束时间，可多行&lt;br&gt;&lt;b&gt;测试执行安排&lt;/b&gt;：人员 + 执行开始/结束时间，可多行&lt;br&gt;准备/执行人员可不同；所有可填写项必填；冒烟测试单选&lt;br&gt;&lt;b&gt;人员排期&lt;/b&gt;：按自然日期统计占用/空闲/冲突，可导出 Excel；冲突只提示、允许保存" style="text;html=1;strokeColor=none;fillColor=none;whiteSpace=wrap;align=left;verticalAlign=middle;fontSize=12;fontColor=#1F2329;" parent="1" vertex="1">
+          <mxGeometry x="805" y="524" width="442.5" height="95" as="geometry" />
+        </mxCell>
+        <mxCell id="b4e" value="&lt;div&gt;计划名称/所属系统字段置灰；&lt;/div&gt;&lt;div&gt;需求编号作为测试计划字段；&lt;/div&gt;&lt;div&gt;隐藏原测试阶段下拉框&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;whiteSpace=wrap;align=left;verticalAlign=middle;fontSize=12;fontColor=#666666;" parent="1" vertex="1">
+          <mxGeometry x="805" y="612" width="165" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="sec5" value="5. 计划审批" style="text;html=1;strokeColor=none;fillColor=none;whiteSpace=wrap;align=left;verticalAlign=middle;fontSize=12;fontColor=#1F2329;fontStyle=1;" parent="1" vertex="1">
+          <mxGeometry y="735" width="150" height="25" as="geometry" />
+        </mxCell>
+        <mxCell id="b5d" value="测试计划 → &lt;b&gt;待审批&lt;/b&gt;&lt;br&gt;提交后等待测试总负责人审批&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;通过：待审批 → &lt;b&gt;待测试准备&lt;/b&gt;&lt;br&gt;驳回：返回测试计划，附修改意见后重新提交&lt;br&gt;通过 / 驳回意见均可填写，非必填&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;whiteSpace=wrap;align=left;verticalAlign=middle;fontSize=12;fontColor=#1F2329;" parent="1" vertex="1">
+          <mxGeometry x="800" y="699" width="297.5" height="115" as="geometry" />
+        </mxCell>
+        <mxCell id="b6" value="测试总负责人审批" style="text;html=1;strokeColor=none;fillColor=none;whiteSpace=wrap;align=center;verticalAlign=middle;fontSize=12;fontColor=#1F2329;" parent="1" vertex="1">
+          <mxGeometry x="617.5" y="784" width="170" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="adjd" value="&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;(&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;涉及重新填写人员调整)&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-weight: 700;&quot;&gt;需求调整&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;：&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;原需求不改动，重新创建需求&lt;/span&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;whiteSpace=wrap;align=left;verticalAlign=middle;fontSize=12;fontColor=#1F2329;" parent="1" vertex="1">
+          <mxGeometry x="175" y="800" width="400" height="44" as="geometry" />
+        </mxCell>
+        <mxCell id="sec6" value="6. 测试准备" style="text;html=1;strokeColor=none;fillColor=none;whiteSpace=wrap;align=left;verticalAlign=middle;fontSize=12;fontColor=#1F2329;fontStyle=1;" parent="1" vertex="1">
+          <mxGeometry y="900" width="150" height="25" as="geometry" />
+        </mxCell>
+        <mxCell id="b7" value="待测试准备" style="text;html=1;strokeColor=none;fillColor=none;whiteSpace=wrap;align=center;verticalAlign=middle;fontSize=12;fontColor=#1F2329;" parent="1" vertex="1">
+          <mxGeometry x="632.5" y="884" width="130" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="b7d" value="按最新有效计划的准备开始日期，当天 09:00 提醒：可以开始测试准备" style="text;html=1;strokeColor=none;fillColor=none;whiteSpace=wrap;align=left;verticalAlign=middle;fontSize=12;fontColor=#1F2329;" parent="1" vertex="1">
+          <mxGeometry x="792.5" y="876.5" width="320" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="b8" value="开始测试准备" style="text;html=1;strokeColor=none;fillColor=none;whiteSpace=wrap;align=center;verticalAlign=middle;fontSize=12;fontColor=#1F2329;" parent="1" vertex="1">
+          <mxGeometry x="622.5" y="969" width="150" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="b8d" value="人工点击后进入 &lt;b&gt;测试准备&lt;/b&gt;&lt;br&gt;记录每个人的实际准备开始时间" style="text;html=1;strokeColor=none;fillColor=none;whiteSpace=wrap;align=left;verticalAlign=middle;fontSize=12;fontColor=#1F2329;" parent="1" vertex="1">
+          <mxGeometry x="787.5" y="952" width="270" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="b9" value="完成测试准备" style="text;html=1;strokeColor=none;fillColor=none;whiteSpace=wrap;align=center;verticalAlign=middle;fontSize=12;fontColor=#1F2329;" parent="1" vertex="1">
+          <mxGeometry x="617.5" y="1139" width="150" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="b9d" value="弹窗：填写评审结果 / 评审人员，并上传线下评审后的用例&lt;br&gt;提交后记录测试准备实际结束时间，并进入 &lt;b&gt;待测试执行&lt;/b&gt;&lt;br&gt;&lt;font color=&quot;#b45f06&quot;&gt;&lt;b&gt;技术评估：&lt;/b&gt;如做双版本/V1-V2差异比对，Excel 由标签字段唯一标识&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;whiteSpace=wrap;align=left;verticalAlign=middle;fontSize=12;fontColor=#1F2329;" parent="1" vertex="1">
+          <mxGeometry x="792.5" y="1115" width="475" height="78" as="geometry" />
+        </mxCell>
+        <mxCell id="sec7" value="7. 测试执行" style="text;html=1;strokeColor=none;fillColor=none;whiteSpace=wrap;align=left;verticalAlign=middle;fontSize=12;fontColor=#1F2329;fontStyle=1;" parent="1" vertex="1">
+          <mxGeometry y="1090" width="150" height="25" as="geometry" />
+        </mxCell>
+        <mxCell id="a4" value="全研发提供开发实际完成时间" style="text;html=1;strokeColor=none;fillColor=none;whiteSpace=wrap;align=center;verticalAlign=middle;fontSize=12;fontColor=#1F2329;" parent="1" vertex="1">
+          <mxGeometry y="1125" width="200" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="a4d" value="开发实际完成时间 + 需求编号" style="text;html=1;strokeColor=none;fillColor=none;whiteSpace=wrap;align=left;verticalAlign=middle;fontSize=12;fontColor=#1F2329;" parent="1" vertex="1">
+          <mxGeometry x="210" y="1118" width="240" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="a4x" value="" style="endArrow=block;endFill=1;html=1;rounded=0;strokeWidth=1.2;strokeColor=#666666;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="167.5" y="1158" as="sourcePoint" />
+            <mxPoint x="592.5" y="1158" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="b10" value="开始测试执行" style="text;html=1;strokeColor=none;fillColor=none;whiteSpace=wrap;align=center;verticalAlign=middle;fontSize=12;fontColor=#1F2329;" parent="1" vertex="1">
+          <mxGeometry x="617.5" y="1274" width="150" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="b10d" value="按最新有效计划的执行开始日期，当天 09:00 提醒；&lt;div&gt;若开发实际完成时间未提供 → 弹窗提示并禁止流转&lt;br&gt;若已提供 → 进入 &lt;b&gt;测试执行&lt;/b&gt;，记录实际执行开始时间&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;whiteSpace=wrap;align=left;verticalAlign=middle;fontSize=12;fontColor=#1F2329;" parent="1" vertex="1">
+          <mxGeometry x="755" y="1300" width="472.5" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="sec8" value="8. 办结" style="text;html=1;strokeColor=none;fillColor=none;whiteSpace=wrap;align=left;verticalAlign=middle;fontSize=12;fontColor=#1F2329;fontStyle=1;" parent="1" vertex="1">
+          <mxGeometry y="1430" width="150" height="25" as="geometry" />
+        </mxCell>
+        <mxCell id="b11" value="需求测试完成 → 办结" style="text;html=1;strokeColor=none;fillColor=none;whiteSpace=wrap;align=center;verticalAlign=middle;fontSize=12;fontColor=#1F2329;" parent="1" vertex="1">
+          <mxGeometry x="597.5" y="1384" width="190" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="b11d" value="&lt;div&gt;&lt;b&gt;需求&lt;/b&gt;&lt;/div&gt;&lt;div&gt;1.关联用例状态只能为“通过 / 跳过”、&lt;span style=&quot;background-color: initial;&quot;&gt;关联缺陷必须“已关闭/已取消”。&lt;/span&gt;&lt;/div&gt;&lt;div&gt;2.测试进度页面，每条需求操作列新增创建缺陷/关联缺陷按钮，&lt;/div&gt;&lt;div&gt;创建后缺陷来源字段和需求号字段自动填写&lt;/div&gt;&lt;div&gt;3.校验通过 → 记录实际执行结束时间 → 办结、&lt;span style=&quot;background-color: initial;&quot;&gt;回传全研发：状态、需求编号&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;whiteSpace=wrap;align=left;verticalAlign=middle;fontSize=12;fontColor=#1F2329;" parent="1" vertex="1">
+          <mxGeometry x="762.5" y="1398" width="570" height="95" as="geometry" />
+        </mxCell>
+        <mxCell id="end" value="" style="endArrow=block;endFill=1;html=1;rounded=0;strokeWidth=1.2;strokeColor=#666666;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="605" y="1474.09" as="sourcePoint" />
+            <mxPoint x="180" y="1474.09" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="endtxt" value="办结结果回传全研发（后续流程不由测试平台设计）" style="text;html=1;strokeColor=none;fillColor=none;whiteSpace=wrap;align=center;verticalAlign=middle;fontSize=12;fontColor=#666666;" parent="1" vertex="1">
+          <mxGeometry x="205" y="1430" width="375" height="25" as="geometry" />
+        </mxCell>
+        <mxCell id="g3h_RHM220rrnftTyzkZ-2" value="Text" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="-680" y="654" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="fUx0Ge-RRJtCf4q8b7gq-2" value="" style="endArrow=block;endFill=1;html=1;rounded=0;strokeWidth=1.2;strokeColor=#666666;startArrow=diamondThin;startFill=1;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="585" y="625.34" as="sourcePoint" />
+            <mxPoint x="160" y="625.34" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="fUx0Ge-RRJtCf4q8b7gq-3" value="&lt;font color=&quot;#ff0000&quot;&gt;1.最早的测试准备计划开始时间 + 最晚的测试执行&lt;/font&gt;&lt;span style=&quot;color: rgb(255, 0, 0);&quot;&gt;计划&lt;/span&gt;&lt;font color=&quot;#ff0000&quot;&gt;结束时间&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;whiteSpace=wrap;align=left;verticalAlign=middle;fontSize=12;fontColor=#1F2329;" parent="1" vertex="1">
+          <mxGeometry x="200" y="578.76" width="340" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="fUx0Ge-RRJtCf4q8b7gq-6" value="&lt;div&gt;3.必传：总需求编号、需求名称、需求编号&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;whiteSpace=wrap;align=left;verticalAlign=middle;fontSize=12;fontColor=#1F2329;" parent="1" vertex="1">
+          <mxGeometry x="185" y="306" width="390" height="29" as="geometry" />
+        </mxCell>
+        <mxCell id="QczcGkvOfzLCaRQGDD4U-1" value="&lt;div&gt;&lt;b&gt;需求名称(置灰)&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;负责人(可编辑)&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/div&gt;&lt;b&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#09;&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#09;&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#09;&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#09;&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#09;&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#09;&lt;/span&gt;&lt;/b&gt;&lt;b&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#09;&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#09;&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#09;&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#09;&lt;/span&gt;&lt;br&gt;&lt;/b&gt;&lt;div&gt;&lt;b style=&quot;background-color: initial;&quot;&gt;人员:&amp;nbsp;&lt;/b&gt;张三&lt;span style=&quot;font-weight: bold; white-space: pre;&quot;&gt;&#09;&lt;/span&gt;&lt;b&gt;测试&lt;font color=&quot;#0000cc&quot;&gt;准备&lt;/font&gt;计划开始时间:&amp;nbsp;&lt;/b&gt;2026-08-31&lt;span style=&quot;font-weight: bold; white-space: pre;&quot;&gt;&#09;&lt;/span&gt;&lt;b&gt;测试&lt;/b&gt;&lt;b&gt;&lt;font color=&quot;#0000cc&quot;&gt;准备&lt;/font&gt;&lt;/b&gt;&lt;b&gt;计划结束时间:&amp;nbsp;&lt;/b&gt;2026-09-10&lt;span style=&quot;font-weight: bold; white-space: pre;&quot;&gt;&#09;&lt;/span&gt;&lt;span style=&quot;font-weight: bold; white-space: pre;&quot;&gt;&#09;&lt;/span&gt;&lt;span style=&quot;font-weight: bold; white-space: pre;&quot;&gt;&#09;&lt;/span&gt;&lt;span style=&quot;font-weight: bold; white-space: pre;&quot;&gt;&#09;&lt;/span&gt;&lt;span style=&quot;font-weight: bold; white-space: pre;&quot;&gt;&#09;&lt;/span&gt;&lt;span style=&quot;font-weight: bold; white-space: pre;&quot;&gt;&#09;&lt;/span&gt;&lt;b&gt;08-31早晨09:00通知张三&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b style=&quot;background-color: initial;&quot;&gt;&lt;br&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b style=&quot;background-color: initial;&quot;&gt;人员: &lt;/b&gt;李四&lt;span style=&quot;font-weight: bold; white-space: pre;&quot;&gt;&#09;&lt;/span&gt;&lt;b&gt;测试&lt;/b&gt;&lt;b&gt;&lt;font color=&quot;#0000cc&quot;&gt;准备&lt;/font&gt;&lt;/b&gt;&lt;b&gt;计划开始时间:&amp;nbsp;&lt;/b&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;2026-08-27&lt;span style=&quot;font-weight: bold; white-space: pre;&quot;&gt;&#09;&lt;/span&gt;&lt;/span&gt;&lt;b&gt;测试&lt;/b&gt;&lt;b&gt;&lt;font color=&quot;#0000cc&quot;&gt;准备&lt;/font&gt;&lt;/b&gt;&lt;b&gt;计划结束时间: &lt;/b&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;2026-09-06&lt;span style=&quot;font-weight: bold; white-space: pre;&quot;&gt;&#09;&lt;/span&gt;&lt;span style=&quot;font-weight: bold; white-space: pre;&quot;&gt;&#09;&lt;/span&gt;&lt;span style=&quot;font-weight: bold; white-space: pre;&quot;&gt;&#09;&lt;/span&gt;&lt;span style=&quot;font-weight: bold; white-space: pre;&quot;&gt;&#09;&lt;/span&gt;&lt;span style=&quot;font-weight: bold; white-space: pre;&quot;&gt;&#09;&lt;/span&gt;&lt;span style=&quot;font-weight: bold; white-space: pre;&quot;&gt;&#09;&lt;/span&gt;&lt;/span&gt;&lt;b style=&quot;background-color: initial;&quot;&gt;08-27早晨09:00通知李四&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#09;&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#09;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;b style=&quot;background-color: initial;&quot;&gt;人员: &lt;/b&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;王五&lt;span style=&quot;white-space: pre;&quot;&gt;&#09;&lt;/span&gt;&lt;/span&gt;&lt;b&gt;测试&lt;font color=&quot;#ff0000&quot;&gt;执行&lt;/font&gt;计划开始时间:&amp;nbsp;&lt;/b&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;2026-10-12&lt;span style=&quot;white-space: pre;&quot;&gt;&#09;&lt;/span&gt;&lt;/span&gt;&lt;b&gt;测试&lt;/b&gt;&lt;b&gt;&lt;font color=&quot;#ff0000&quot;&gt;执行&lt;/font&gt;&lt;/b&gt;&lt;b&gt;计划结束时间: &lt;/b&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;2026-10-21&lt;span style=&quot;white-space: pre;&quot;&gt;&#09;&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#09;&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#09;&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#09;&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#09;&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#09;&lt;/span&gt;10&lt;/span&gt;&lt;b style=&quot;background-color: initial;&quot;&gt;-12早晨09:00通知王五&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b style=&quot;background-color: initial;&quot;&gt;&lt;br&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b style=&quot;background-color: initial;&quot;&gt;人员: &lt;/b&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;赵六&lt;span style=&quot;white-space: pre;&quot;&gt;&#09;&lt;/span&gt;&lt;/span&gt;&lt;b&gt;测试&lt;/b&gt;&lt;b&gt;&lt;font color=&quot;#ff0000&quot;&gt;执行&lt;/font&gt;&lt;/b&gt;&lt;b&gt;计划开始时间:&amp;nbsp;&lt;/b&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;2026-10-08&lt;span style=&quot;white-space: pre;&quot;&gt;&#09;&lt;/span&gt;&lt;/span&gt;&lt;b&gt;测试&lt;/b&gt;&lt;b&gt;&lt;font color=&quot;#ff0000&quot;&gt;执行&lt;/font&gt;&lt;/b&gt;&lt;b&gt;计划结束时间: &lt;/b&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;2026-10-31&lt;span style=&quot;white-space: pre;&quot;&gt;&#09;&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#09;&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#09;&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#09;&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#09;&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#09;&lt;/span&gt;&lt;/span&gt;&lt;b style=&quot;background-color: initial;&quot;&gt;10-08早晨09:00通知&lt;/b&gt;赵六&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;冒烟测试：&lt;/b&gt;&amp;nbsp;是 否&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;whiteSpace=wrap;align=left;verticalAlign=middle;fontSize=12;fontColor=#1F2329;" parent="1" vertex="1">
+          <mxGeometry x="1490" y="494.29999999999995" width="900" height="167.7" as="geometry" />
+        </mxCell>
+        <mxCell id="QczcGkvOfzLCaRQGDD4U-5" value="" style="endArrow=none;endFill=0;html=1;rounded=0;strokeWidth=1.2;strokeColor=#666666;" parent="1" target="b5" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="697.5" y="156" as="sourcePoint" />
+            <mxPoint x="697.5" y="1214" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="b5" value="提交计划" style="text;html=1;strokeColor=none;fillColor=none;whiteSpace=wrap;align=center;verticalAlign=middle;fontSize=12;fontColor=#1F2329;" parent="1" vertex="1">
+          <mxGeometry x="632.5" y="719" width="130" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="QczcGkvOfzLCaRQGDD4U-6" value="&lt;span style=&quot;color: rgb(255, 0, 0);&quot;&gt;到了时间点通知，&lt;/span&gt;&lt;font color=&quot;#ff0000&quot;&gt;如果忘记流转，持续通知&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="1402.5" y="900" width="250" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="jEz1W0iC9ySnP9xX5FN_-2" value="后期存在增派现象：存在原始需求建立后，新增关联所属系统的情况" style="text;html=1;strokeColor=none;fillColor=none;whiteSpace=wrap;align=left;verticalAlign=middle;fontSize=12;fontColor=#1F2329;" vertex="1" parent="1">
+          <mxGeometry x="-980" y="190" width="390" height="29" as="geometry" />
+        </mxCell>
+        <mxCell id="jEz1W0iC9ySnP9xX5FN_-4" value="&lt;span style=&quot;text-align: left;&quot;&gt;在：项目/公共池/&lt;/span&gt;&lt;b style=&quot;text-align: left;&quot;&gt;总需求编号-需求名称&lt;/b&gt;&lt;span style=&quot;text-align: left;&quot;&gt; 目录下&lt;/span&gt;&lt;br style=&quot;text-align: left;&quot;&gt;&lt;div&gt;自动创建测试计划数据&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;whiteSpace=wrap;align=center;verticalAlign=middle;fontSize=12;fontColor=#1F2329;" vertex="1" parent="1">
+          <mxGeometry x="564.38" y="310" width="276.25" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="jEz1W0iC9ySnP9xX5FN_-5" value="&lt;div&gt;创建初始状态 = &lt;b&gt;待介入&lt;/b&gt;，等待外部字段补齐&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;whiteSpace=wrap;align=left;verticalAlign=middle;fontSize=12;fontColor=#1F2329;fontFamily=Helvetica;" vertex="1" parent="1">
+          <mxGeometry x="850" y="289.5" width="330" height="71" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="gw-10001" name="页面地图">
+    <mxGraphModel dx="1800" dy="1000" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2400" pageHeight="2000" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="gw-10002" value="INT测试管理 - 页面地图（领导汇报版）" style="text;html=1;strokeColor=none;fillColor=none;align=left;fontSize=26;fontStyle=1;fontColor=#0F172A;" parent="1" vertex="1">
+          <mxGeometry x="40" y="20" width="700" height="32" as="geometry" />
+        </mxCell>
+        <mxCell id="gw-10003" value="说明：本页把需求对接涉及的主要页面和关系放在一起，后续两页给出页面示意。" style="text;html=1;strokeColor=none;fillColor=none;align=left;fontSize=13;fontColor=#475569;" parent="1" vertex="1">
+          <mxGeometry x="40" y="56" width="900" height="22" as="geometry" />
+        </mxCell>
+        <mxCell id="gw-10004" value="全研发流程平台" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#E8F1FF;strokeColor=#7AA7FF;fontStyle=1;fontSize=16;" parent="1" vertex="1">
+          <mxGeometry x="80" y="130" width="250" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="gw-10005" value="维护全部系统清单、总需求、原始需求 ZIP、开发实际完成时间等。" style="text;html=1;strokeColor=none;fillColor=none;align=left;fontSize=11;fontColor=#334155;whiteSpace=wrap;" parent="1" vertex="1">
+          <mxGeometry x="95" y="172" width="220" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="gw-10006" value="测试平台" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#EEFCE8;strokeColor=#86D36B;fontStyle=1;fontSize=16;" parent="1" vertex="1">
+          <mxGeometry x="80" y="300" width="250" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="gw-10007" value="维护测试属性：是否纳入INT、测试组、测试组负责人、总负责人。" style="text;html=1;strokeColor=none;fillColor=none;align=left;fontSize=11;fontColor=#334155;whiteSpace=wrap;" parent="1" vertex="1">
+          <mxGeometry x="95" y="342" width="220" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="gw-10008" value="&lt;b&gt;系统维护页&lt;/b&gt;&lt;br&gt;维护系统 + INT测试属性&lt;br&gt;&lt;font color=&quot;#64748B&quot;&gt;/系统设置/系统维护&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#CBD5E1;fontSize=13;align=center;verticalAlign=middle;arcSize=6;" parent="1" vertex="1">
+          <mxGeometry x="430" y="110" width="280" height="88" as="geometry" />
+        </mxCell>
+        <mxCell id="gw-10009" value="&lt;b&gt;公共池/需求池页&lt;/b&gt;&lt;br&gt;显示同步过来的总需求，允许创建测试进度&lt;br&gt;&lt;font color=&quot;#64748B&quot;&gt;/测试跟踪/公共池&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#CBD5E1;fontSize=13;align=center;verticalAlign=middle;arcSize=6;" parent="1" vertex="1">
+          <mxGeometry x="430" y="230" width="280" height="88" as="geometry" />
+        </mxCell>
+        <mxCell id="gw-10010" value="&lt;b&gt;测试进度页&lt;/b&gt;&lt;br&gt;测试计划 = 测试进度 = 需求&lt;br&gt;&lt;font color=&quot;#64748B&quot;&gt;/测试跟踪/测试进度&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#CBD5E1;fontSize=13;align=center;verticalAlign=middle;arcSize=6;" parent="1" vertex="1">
+          <mxGeometry x="430" y="350" width="280" height="88" as="geometry" />
+        </mxCell>
+        <mxCell id="gw-10011" value="&lt;b&gt;测试进度编辑弹窗&lt;/b&gt;&lt;br&gt;填写准备/执行人员与计划时间&lt;br&gt;&lt;font color=&quot;#64748B&quot;&gt;测试进度列表内弹窗&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#CBD5E1;fontSize=13;align=center;verticalAlign=middle;arcSize=6;" parent="1" vertex="1">
+          <mxGeometry x="430" y="470" width="280" height="88" as="geometry" />
+        </mxCell>
+        <mxCell id="gw-10012" value="&lt;b&gt;审批弹窗&lt;/b&gt;&lt;br&gt;总负责人审批通过/驳回&lt;br&gt;&lt;font color=&quot;#64748B&quot;&gt;待审批状态&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#CBD5E1;fontSize=13;align=center;verticalAlign=middle;arcSize=6;" parent="1" vertex="1">
+          <mxGeometry x="1120" y="110" width="280" height="88" as="geometry" />
+        </mxCell>
+        <mxCell id="gw-10013" value="&lt;b&gt;测试准备完成弹窗&lt;/b&gt;&lt;br&gt;评审结果 + 评审人员 + 用例导入&lt;br&gt;&lt;font color=&quot;#64748B&quot;&gt;待测试准备 / 测试准备&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#CBD5E1;fontSize=13;align=center;verticalAlign=middle;arcSize=6;" parent="1" vertex="1">
+          <mxGeometry x="1120" y="230" width="280" height="88" as="geometry" />
+        </mxCell>
+        <mxCell id="gw-10014" value="&lt;b&gt;缺陷处理弹窗&lt;/b&gt;&lt;br&gt;创建缺陷 / 关联缺陷&lt;br&gt;&lt;font color=&quot;#64748B&quot;&gt;测试进度列表操作列&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#CBD5E1;fontSize=13;align=center;verticalAlign=middle;arcSize=6;" parent="1" vertex="1">
+          <mxGeometry x="1120" y="350" width="280" height="88" as="geometry" />
+        </mxCell>
+        <mxCell id="gw-10015" value="&lt;b&gt;项目成员管理页&lt;/b&gt;&lt;br&gt;标识测试组负责人 / 普通成员&lt;br&gt;&lt;font color=&quot;#64748B&quot;&gt;项目设置&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#CBD5E1;fontSize=13;align=center;verticalAlign=middle;arcSize=6;" parent="1" vertex="1">
+          <mxGeometry x="1120" y="470" width="280" height="88" as="geometry" />
+        </mxCell>
+        <mxCell id="gw-10016" value="待介入" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFF7ED;strokeColor=#FDBA74;fontSize=14;fontStyle=1;align=center;arcSize=20;" parent="1" vertex="1">
+          <mxGeometry x="1850" y="110" width="190" height="52" as="geometry" />
+        </mxCell>
+        <mxCell id="gw-10017" value="测试计划/测试进度" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFF7ED;strokeColor=#FDBA74;fontSize=14;fontStyle=1;align=center;arcSize=20;" parent="1" vertex="1">
+          <mxGeometry x="1850" y="198" width="190" height="52" as="geometry" />
+        </mxCell>
+        <mxCell id="gw-10018" value="待审批" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFF7ED;strokeColor=#FDBA74;fontSize=14;fontStyle=1;align=center;arcSize=20;" parent="1" vertex="1">
+          <mxGeometry x="1850" y="286" width="190" height="52" as="geometry" />
+        </mxCell>
+        <mxCell id="gw-10019" value="待测试准备" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFF7ED;strokeColor=#FDBA74;fontSize=14;fontStyle=1;align=center;arcSize=20;" parent="1" vertex="1">
+          <mxGeometry x="1850" y="374" width="190" height="52" as="geometry" />
+        </mxCell>
+        <mxCell id="gw-10020" value="测试准备" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFF7ED;strokeColor=#FDBA74;fontSize=14;fontStyle=1;align=center;arcSize=20;" parent="1" vertex="1">
+          <mxGeometry x="1850" y="462" width="190" height="52" as="geometry" />
+        </mxCell>
+        <mxCell id="gw-10021" value="待测试执行" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFF7ED;strokeColor=#FDBA74;fontSize=14;fontStyle=1;align=center;arcSize=20;" parent="1" vertex="1">
+          <mxGeometry x="1850" y="550" width="190" height="52" as="geometry" />
+        </mxCell>
+        <mxCell id="gw-10022" value="测试执行" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFF7ED;strokeColor=#FDBA74;fontSize=14;fontStyle=1;align=center;arcSize=20;" parent="1" vertex="1">
+          <mxGeometry x="1850" y="638" width="190" height="52" as="geometry" />
+        </mxCell>
+        <mxCell id="gw-10023" value="办结/已取消" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFF7ED;strokeColor=#FDBA74;fontSize=14;fontStyle=1;align=center;arcSize=20;" parent="1" vertex="1">
+          <mxGeometry x="1850" y="726" width="190" height="52" as="geometry" />
+        </mxCell>
+        <mxCell id="gw-10024" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=block;strokeColor=#6B7280;" parent="1" edge="1" source="gw-10016" target="gw-10017">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="gw-10025" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=block;strokeColor=#6B7280;" parent="1" edge="1" source="gw-10017" target="gw-10018">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="gw-10026" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=block;strokeColor=#6B7280;" parent="1" edge="1" source="gw-10018" target="gw-10019">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="gw-10027" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=block;strokeColor=#6B7280;" parent="1" edge="1" source="gw-10019" target="gw-10020">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="gw-10028" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=block;strokeColor=#6B7280;" parent="1" edge="1" source="gw-10020" target="gw-10021">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="gw-10029" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=block;strokeColor=#6B7280;" parent="1" edge="1" source="gw-10021" target="gw-10022">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="gw-10030" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=block;strokeColor=#6B7280;" parent="1" edge="1" source="gw-10022" target="gw-10023">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="gw-10031" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=block;strokeColor=#6B7280;" parent="1" edge="1" source="gw-10004" target="gw-10008">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="gw-10032" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=block;strokeColor=#6B7280;" parent="1" edge="1" source="gw-10004" target="gw-10009">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="gw-10033" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=block;strokeColor=#6B7280;" parent="1" edge="1" source="gw-10004" target="gw-10010">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="gw-10034" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=block;strokeColor=#6B7280;" parent="1" edge="1" source="gw-10004" target="gw-10011">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="gw-10035" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=block;strokeColor=#6B7280;" parent="1" edge="1" source="gw-10006" target="gw-10008">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="gw-10036" value="" style="edgeStyle=orthogonalEdgeStyle;html=1;endArrow=block;strokeColor=#94A3B8;" parent="1" edge="1" source="gw-10009" target="gw-10010">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="gw-10037" value="" style="edgeStyle=orthogonalEdgeStyle;html=1;endArrow=block;strokeColor=#94A3B8;" parent="1" edge="1" source="gw-10010" target="gw-10011">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="gw-10038" value="" style="edgeStyle=orthogonalEdgeStyle;html=1;endArrow=block;strokeColor=#94A3B8;" parent="1" edge="1" source="gw-10010" target="gw-10012">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="gw-10039" value="" style="edgeStyle=orthogonalEdgeStyle;html=1;endArrow=block;strokeColor=#94A3B8;" parent="1" edge="1" source="gw-10011" target="gw-10013">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="gw-10040" value="" style="edgeStyle=orthogonalEdgeStyle;html=1;endArrow=block;strokeColor=#94A3B8;" parent="1" edge="1" source="gw-10010" target="gw-10014">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="gw-10041" value="" style="edgeStyle=orthogonalEdgeStyle;html=1;endArrow=block;strokeColor=#94A3B8;" parent="1" edge="1" source="gw-10008" target="gw-10015">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="gw-10042" value="&lt;b&gt;关键口径统一&lt;/b&gt;&lt;br&gt;1）测试计划 = 测试进度 = 需求&lt;br&gt;2）测试准备、测试执行均按“人员维度”记录计划/实际时间&lt;br&gt;3）页面名称对外统一叫“测试进度”" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FEFCE8;strokeColor=#FACC15;align=left;verticalAlign=top;fontSize=12;" parent="1" vertex="1">
+          <mxGeometry x="40" y="500" width="320" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="gw-10043" value="&lt;b&gt;提醒逻辑&lt;/b&gt;&lt;br&gt;到计划开始日 09:00 首次提醒&lt;br&gt;若未流转，每天 09:00 持续提醒&lt;br&gt;通知内可直接点按钮进入对应状态" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#F0F9FF;strokeColor=#38BDF8;align=left;verticalAlign=top;fontSize=12;" parent="1" vertex="1">
+          <mxGeometry x="40" y="660" width="320" height="110" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="gw-10044" name="页面原型-1">
+    <mxGraphModel dx="1800" dy="1000" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2200" pageHeight="1700" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="gw-10045" value="INT测试管理 - 页面原型（1/2）" style="text;html=1;strokeColor=none;fillColor=none;align=left;fontSize=26;fontStyle=1;fontColor=#0F172A;" parent="1" vertex="1">
+          <mxGeometry x="40" y="20" width="700" height="32" as="geometry" />
+        </mxCell>
+        <mxCell id="gw-10046" value="适合给领导讲“页面上会长什么样”。以下为低保真示意，不代表最终UI皮肤。" style="text;html=1;strokeColor=none;fillColor=none;align=left;fontSize=13;fontColor=#475569;" parent="1" vertex="1">
+          <mxGeometry x="40" y="56" width="900" height="22" as="geometry" />
+        </mxCell>
+        <mxCell id="gw-10047" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#CBD5E1;arcSize=8;shadow=1;" parent="1" vertex="1">
+          <mxGeometry x="40" y="100" width="1020" height="640" as="geometry" />
+        </mxCell>
+        <mxCell id="gw-10048" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#F8FAFC;strokeColor=#CBD5E1;arcSize=8;" parent="1" vertex="1">
+          <mxGeometry x="40" y="100" width="1020" height="34" as="geometry" />
+        </mxCell>
+        <mxCell id="gw-10049" value="●  ●  ●" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;fontSize=13;fontColor=#94A3B8;" parent="1" vertex="1">
+          <mxGeometry x="54" y="106" width="80" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="gw-10050" value="页面A：系统维护（INT测试系统属性）" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;fontSize=15;fontStyle=1;fontColor=#0F172A;" parent="1" vertex="1">
+          <mxGeometry x="140" y="104" width="820" height="24" as="geometry" />
+        </mxCell>
+        <mxCell id="gw-10051" value="作用：测试平台同步所有系统后，只维护测试属性。" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=top;fontSize=11;fontColor=#475569;whiteSpace=wrap;" parent="1" vertex="1">
+          <mxGeometry x="56" y="142" width="988" height="34" as="geometry" />
+        </mxCell>
+        <mxCell id="gw-10052" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#F8FAFC;strokeColor=#E2E8F0;arcSize=6;" parent="1" vertex="1">
+          <mxGeometry x="56" y="182" width="988" height="62" as="geometry" />
+        </mxCell>
+        <mxCell id="gw-10053" value="顶部筛选" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=top;fontSize=12;fontStyle=1;fontColor=#0F172A;" parent="1" vertex="1">
+          <mxGeometry x="68" y="190" width="964" height="18" as="geometry" />
+        </mxCell>
+        <mxCell id="gw-10054" value="系统名称/系统简称/是否纳入INT/测试组/测试组负责人/总负责人" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=top;fontSize=11;fontColor=#334155;whiteSpace=wrap;" parent="1" vertex="1">
+          <mxGeometry x="68" y="210" width="964" height="28" as="geometry" />
+        </mxCell>
+        <mxCell id="gw-10055" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#E2E8F0;" parent="1" vertex="1">
+          <mxGeometry x="56" y="254" width="988" height="320" as="geometry" />
+        </mxCell>
+        <mxCell id="gw-10056" value="系统列表" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#3B82F6;strokeColor=#3B82F6;fontColor=#FFFFFF;fontStyle=1;align=left;spacingLeft=10;" parent="1" vertex="1">
+          <mxGeometry x="56" y="254" width="988" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="gw-10057" value="系统名称" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#EFF6FF;strokeColor=#E2E8F0;align=center;fontStyle=1;fontSize=11;" parent="1" vertex="1">
+          <mxGeometry x="56.0" y="280" width="141.14285714285714" height="22" as="geometry" />
+        </mxCell>
+        <mxCell id="gw-10058" value="简称" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#EFF6FF;strokeColor=#E2E8F0;align=center;fontStyle=1;fontSize=11;" parent="1" vertex="1">
+          <mxGeometry x="197.14285714285714" y="280" width="141.14285714285714" height="22" as="geometry" />
+        </mxCell>
+        <mxCell id="gw-10059" value="是否纳入INT" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#EFF6FF;strokeColor=#E2E8F0;align=center;fontStyle=1;fontSize=11;" parent="1" vertex="1">
+          <mxGeometry x="338.2857142857143" y="280" width="141.14285714285714" height="22" as="geometry" />
+        </mxCell>
+        <mxCell id="gw-10060" value="测试组" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#EFF6FF;strokeColor=#E2E8F0;align=center;fontStyle=1;fontSize=11;" parent="1" vertex="1">
+          <mxGeometry x="479.42857142857144" y="280" width="141.14285714285714" height="22" as="geometry" />
+        </mxCell>
+        <mxCell id="gw-10061" value="测试组负责人" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#EFF6FF;strokeColor=#E2E8F0;align=center;fontStyle=1;fontSize=11;" parent="1" vertex="1">
+          <mxGeometry x="620.5714285714286" y="280" width="141.14285714285714" height="22" as="geometry" />
+        </mxCell>
+        <mxCell id="gw-10062" value="总负责人" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#EFF6FF;strokeColor=#E2E8F0;align=center;fontStyle=1;fontSize=11;" parent="1" vertex="1">
+          <mxGeometry x="761.7142857142857" y="280" width="141.14285714285714" height="22" as="geometry" />
+        </mxCell>
+        <mxCell id="gw-10063" value="操作" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#EFF6FF;strokeColor=#E2E8F0;align=center;fontStyle=1;fontSize=11;" parent="1" vertex="1">
+          <mxGeometry x="902.8571428571429" y="280" width="141.14285714285714" height="22" as="geometry" />
+        </mxCell>
+        <mxCell id="gw-10064" value="核心保单系统" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#E2E8F0;align=center;fontSize=11;" parent="1" vertex="1">
+          <mxGeometry x="56.0" y="302.0" width="141.14285714285714" height="90.66666666666667" as="geometry" />
+        </mxCell>
+        <mxCell id="gw-10065" value="POLS" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#E2E8F0;align=center;fontSize=11;" parent="1" vertex="1">
+          <mxGeometry x="197.14285714285714" y="302.0" width="141.14285714285714" height="90.66666666666667" as="geometry" />
+        </mxCell>
+        <mxCell id="gw-10066" value="是" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#E2E8F0;align=center;fontSize=11;" parent="1" vertex="1">
+          <mxGeometry x="338.2857142857143" y="302.0" width="141.14285714285714" height="90.66666666666667" as="geometry" />
+        </mxCell>
+        <mxCell id="gw-10067" value="寿险测试组" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#E2E8F0;align=center;fontSize=11;" parent="1" vertex="1">
+          <mxGeometry x="479.42857142857144" y="302.0" width="141.14285714285714" height="90.66666666666667" as="geometry" />
+        </mxCell>
+        <mxCell id="gw-10068" value="张三" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#E2E8F0;align=center;fontSize=11;" parent="1" vertex="1">
+          <mxGeometry x="620.5714285714286" y="302.0" width="141.14285714285714" height="90.66666666666667" as="geometry" />
+        </mxCell>
+        <mxCell id="gw-10069" value="李总" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#E2E8F0;align=center;fontSize=11;" parent="1" vertex="1">
+          <mxGeometry x="761.7142857142857" y="302.0" width="141.14285714285714" height="90.66666666666667" as="geometry" />
+        </mxCell>
+        <mxCell id="gw-10070" value="编辑" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#E2E8F0;align=center;fontSize=11;" parent="1" vertex="1">
+          <mxGeometry x="902.8571428571429" y="302.0" width="141.14285714285714" height="90.66666666666667" as="geometry" />
+        </mxCell>
+        <mxCell id="gw-10071" value="理赔系统" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#E2E8F0;align=center;fontSize=11;" parent="1" vertex="1">
+          <mxGeometry x="56.0" y="392.6666666666667" width="141.14285714285714" height="90.66666666666667" as="geometry" />
+        </mxCell>
+        <mxCell id="gw-10072" value="CLMS" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#E2E8F0;align=center;fontSize=11;" parent="1" vertex="1">
+          <mxGeometry x="197.14285714285714" y="392.6666666666667" width="141.14285714285714" height="90.66666666666667" as="geometry" />
+        </mxCell>
+        <mxCell id="gw-10073" value="是" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#E2E8F0;align=center;fontSize=11;" parent="1" vertex="1">
+          <mxGeometry x="338.2857142857143" y="392.6666666666667" width="141.14285714285714" height="90.66666666666667" as="geometry" />
+        </mxCell>
+        <mxCell id="gw-10074" value="理赔测试组" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#E2E8F0;align=center;fontSize=11;" parent="1" vertex="1">
+          <mxGeometry x="479.42857142857144" y="392.6666666666667" width="141.14285714285714" height="90.66666666666667" as="geometry" />
+        </mxCell>
+        <mxCell id="gw-10075" value="王五" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#E2E8F0;align=center;fontSize=11;" parent="1" vertex="1">
+          <mxGeometry x="620.5714285714286" y="392.6666666666667" width="141.14285714285714" height="90.66666666666667" as="geometry" />
+        </mxCell>
+        <mxCell id="gw-10076" value="李总" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#E2E8F0;align=center;fontSize=11;" parent="1" vertex="1">
+          <mxGeometry x="761.7142857142857" y="392.6666666666667" width="141.14285714285714" height="90.66666666666667" as="geometry" />
+        </mxCell>
+        <mxCell id="gw-10077" value="编辑" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#E2E8F0;align=center;fontSize=11;" parent="1" vertex="1">
+          <mxGeometry x="902.8571428571429" y="392.6666666666667" width="141.14285714285714" height="90.66666666666667" as="geometry" />
+        </mxCell>
+        <mxCell id="gw-10078" value="渠道系统" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#E2E8F0;align=center;fontSize=11;" parent="1" vertex="1">
+          <mxGeometry x="56.0" y="483.33333333333337" width="141.14285714285714" height="90.66666666666667" as="geometry" />
+        </mxCell>
+        <mxCell id="gw-10079" value="CHNL" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#E2E8F0;align=center;fontSize=11;" parent="1" vertex="1">
+          <mxGeometry x="197.14285714285714" y="483.33333333333337" width="141.14285714285714" height="90.66666666666667" as="geometry" />
+        </mxCell>
+        <mxCell id="gw-10080" value="否" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#E2E8F0;align=center;fontSize=11;" parent="1" vertex="1">
+          <mxGeometry x="338.2857142857143" y="483.33333333333337" width="141.14285714285714" height="90.66666666666667" as="geometry" />
+        </mxCell>
+        <mxCell id="gw-10081" value="-" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#E2E8F0;align=center;fontSize=11;" parent="1" vertex="1">
+          <mxGeometry x="479.42857142857144" y="483.33333333333337" width="141.14285714285714" height="90.66666666666667" as="geometry" />
+        </mxCell>
+        <mxCell id="gw-10082" value="-" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#E2E8F0;align=center;fontSize=11;" parent="1" vertex="1">
+          <mxGeometry x="620.5714285714286" y="483.33333333333337" width="141.14285714285714" height="90.66666666666667" as="geometry" />
+        </mxCell>
+        <mxCell id="gw-10083" value="李总" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#E2E8F0;align=center;fontSize=11;" parent="1" vertex="1">
+          <mxGeometry x="761.7142857142857" y="483.33333333333337" width="141.14285714285714" height="90.66666666666667" as="geometry" />
+        </mxCell>
+        <mxCell id="gw-10084" value="编辑" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#E2E8F0;align=center;fontSize=11;" parent="1" vertex="1">
+          <mxGeometry x="902.8571428571429" y="483.33333333333337" width="141.14285714285714" height="90.66666666666667" as="geometry" />
+        </mxCell>
+        <mxCell id="gw-10085" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FEF2F2;strokeColor=#E2E8F0;arcSize=6;" parent="1" vertex="1">
+          <mxGeometry x="56" y="586" width="988" height="96" as="geometry" />
+        </mxCell>
+        <mxCell id="gw-10086" value="编辑弹窗要点" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=top;fontSize=12;fontStyle=1;fontColor=#0F172A;" parent="1" vertex="1">
+          <mxGeometry x="68" y="594" width="964" height="18" as="geometry" />
+        </mxCell>
+        <mxCell id="gw-10087" value="可编辑字段仅包括：是否纳入INT、测试组、测试组负责人、总负责人。&lt;br&gt;系统名称、简称来自研发平台，同步展示，不建议手工改。" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=top;fontSize=11;fontColor=#334155;whiteSpace=wrap;" parent="1" vertex="1">
+          <mxGeometry x="68" y="614" width="964" height="62" as="geometry" />
+        </mxCell>
+        <mxCell id="gw-10088" value="汇报重点：测试平台不改研发主数据，只维护测试属性。" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;fontSize=10;fontColor=#64748B;whiteSpace=wrap;" parent="1" vertex="1">
+          <mxGeometry x="56" y="708" width="988" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="gw-10089" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#CBD5E1;arcSize=8;shadow=1;" parent="1" vertex="1">
+          <mxGeometry x="1100" y="100" width="1020" height="640" as="geometry" />
+        </mxCell>
+        <mxCell id="gw-10090" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#F8FAFC;strokeColor=#CBD5E1;arcSize=8;" parent="1" vertex="1">
+          <mxGeometry x="1100" y="100" width="1020" height="34" as="geometry" />
+        </mxCell>
+        <mxCell id="gw-10091" value="●  ●  ●" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;fontSize=13;fontColor=#94A3B8;" parent="1" vertex="1">
+          <mxGeometry x="1114" y="106" width="80" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="gw-10092" value="页面B：公共池 / 需求池" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;fontSize=15;fontStyle=1;fontColor=#0F172A;" parent="1" vertex="1">
+          <mxGeometry x="1200" y="104" width="820" height="24" as="geometry" />
+        </mxCell>
+        <mxCell id="gw-10093" value="作用：展示从全研发同步来的总需求，在此创建初始“测试进度”。" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=top;fontSize=11;fontColor=#475569;whiteSpace=wrap;" parent="1" vertex="1">
+          <mxGeometry x="1116" y="142" width="988" height="34" as="geometry" />
+        </mxCell>
+        <mxCell id="gw-10094" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#F8FAFC;strokeColor=#E2E8F0;arcSize=6;" parent="1" vertex="1">
+          <mxGeometry x="1116" y="182" width="988" height="62" as="geometry" />
+        </mxCell>
+        <mxCell id="gw-10095" value="顶部筛选" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=top;fontSize=12;fontStyle=1;fontColor=#0F172A;" parent="1" vertex="1">
+          <mxGeometry x="1128" y="190" width="964" height="18" as="geometry" />
+        </mxCell>
+        <mxCell id="gw-10096" value="总需求编号 / 需求名称 / 所属系统 / 当前状态 / 是否已创建测试进度" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=top;fontSize=11;fontColor=#334155;whiteSpace=wrap;" parent="1" vertex="1">
+          <mxGeometry x="1128" y="210" width="964" height="28" as="geometry" />
+        </mxCell>
+        <mxCell id="gw-10097" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#E2E8F0;" parent="1" vertex="1">
+          <mxGeometry x="1116" y="254" width="988" height="320" as="geometry" />
+        </mxCell>
+        <mxCell id="gw-10098" value="公共池列表" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#10B981;strokeColor=#10B981;fontColor=#FFFFFF;fontStyle=1;align=left;spacingLeft=10;" parent="1" vertex="1">
+          <mxGeometry x="1116" y="254" width="988" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="gw-10099" value="总需求编号" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#EFF6FF;strokeColor=#E2E8F0;align=center;fontStyle=1;fontSize=11;" parent="1" vertex="1">
+          <mxGeometry x="1116.0" y="280" width="164.66666666666666" height="22" as="geometry" />
+        </mxCell>
+        <mxCell id="gw-10100" value="需求名称" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#EFF6FF;strokeColor=#E2E8F0;align=center;fontStyle=1;fontSize=11;" parent="1" vertex="1">
+          <mxGeometry x="1280.6666666666667" y="280" width="164.66666666666666" height="22" as="geometry" />
+        </mxCell>
+        <mxCell id="gw-10101" value="所属系统" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#EFF6FF;strokeColor=#E2E8F0;align=center;fontStyle=1;fontSize=11;" parent="1" vertex="1">
+          <mxGeometry x="1445.3333333333333" y="280" width="164.66666666666666" height="22" as="geometry" />
+        </mxCell>
+        <mxCell id="gw-10102" value="ZIP链接" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#EFF6FF;strokeColor=#E2E8F0;align=center;fontStyle=1;fontSize=11;" parent="1" vertex="1">
+          <mxGeometry x="1610.0" y="280" width="164.66666666666666" height="22" as="geometry" />
+        </mxCell>
+        <mxCell id="gw-10103" value="测试属性是否已齐全" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#EFF6FF;strokeColor=#E2E8F0;align=center;fontStyle=1;fontSize=11;" parent="1" vertex="1">
+          <mxGeometry x="1774.6666666666665" y="280" width="164.66666666666666" height="22" as="geometry" />
+        </mxCell>
+        <mxCell id="gw-10104" value="操作" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#EFF6FF;strokeColor=#E2E8F0;align=center;fontStyle=1;fontSize=11;" parent="1" vertex="1">
+          <mxGeometry x="1939.3333333333333" y="280" width="164.66666666666666" height="22" as="geometry" />
+        </mxCell>
+        <mxCell id="gw-10105" value="REQ20260901" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#E2E8F0;align=center;fontSize=11;" parent="1" vertex="1">
+          <mxGeometry x="1116.0" y="302.0" width="164.66666666666666" height="90.66666666666667" as="geometry" />
+        </mxCell>
+        <mxCell id="gw-10106" value="电子保单优化" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#E2E8F0;align=center;fontSize=11;" parent="1" vertex="1">
+          <mxGeometry x="1280.6666666666667" y="302.0" width="164.66666666666666" height="90.66666666666667" as="geometry" />
+        </mxCell>
+        <mxCell id="gw-10107" value="核心保单系统" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#E2E8F0;align=center;fontSize=11;" parent="1" vertex="1">
+          <mxGeometry x="1445.3333333333333" y="302.0" width="164.66666666666666" height="90.66666666666667" as="geometry" />
+        </mxCell>
+        <mxCell id="gw-10108" value="查看ZIP" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#E2E8F0;align=center;fontSize=11;" parent="1" vertex="1">
+          <mxGeometry x="1610.0" y="302.0" width="164.66666666666666" height="90.66666666666667" as="geometry" />
+        </mxCell>
+        <mxCell id="gw-10109" value="是" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#E2E8F0;align=center;fontSize=11;" parent="1" vertex="1">
+          <mxGeometry x="1774.6666666666665" y="302.0" width="164.66666666666666" height="90.66666666666667" as="geometry" />
+        </mxCell>
+        <mxCell id="gw-10110" value="创建测试进度" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#E2E8F0;align=center;fontSize=11;" parent="1" vertex="1">
+          <mxGeometry x="1939.3333333333333" y="302.0" width="164.66666666666666" height="90.66666666666667" as="geometry" />
+        </mxCell>
+        <mxCell id="gw-10111" value="REQ20260902" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#E2E8F0;align=center;fontSize=11;" parent="1" vertex="1">
+          <mxGeometry x="1116.0" y="392.6666666666667" width="164.66666666666666" height="90.66666666666667" as="geometry" />
+        </mxCell>
+        <mxCell id="gw-10112" value="理赔规则调整" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#E2E8F0;align=center;fontSize=11;" parent="1" vertex="1">
+          <mxGeometry x="1280.6666666666667" y="392.6666666666667" width="164.66666666666666" height="90.66666666666667" as="geometry" />
+        </mxCell>
+        <mxCell id="gw-10113" value="理赔系统" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#E2E8F0;align=center;fontSize=11;" parent="1" vertex="1">
+          <mxGeometry x="1445.3333333333333" y="392.6666666666667" width="164.66666666666666" height="90.66666666666667" as="geometry" />
+        </mxCell>
+        <mxCell id="gw-10114" value="查看ZIP" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#E2E8F0;align=center;fontSize=11;" parent="1" vertex="1">
+          <mxGeometry x="1610.0" y="392.6666666666667" width="164.66666666666666" height="90.66666666666667" as="geometry" />
+        </mxCell>
+        <mxCell id="gw-10115" value="是" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#E2E8F0;align=center;fontSize=11;" parent="1" vertex="1">
+          <mxGeometry x="1774.6666666666665" y="392.6666666666667" width="164.66666666666666" height="90.66666666666667" as="geometry" />
+        </mxCell>
+        <mxCell id="gw-10116" value="创建测试进度" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#E2E8F0;align=center;fontSize=11;" parent="1" vertex="1">
+          <mxGeometry x="1939.3333333333333" y="392.6666666666667" width="164.66666666666666" height="90.66666666666667" as="geometry" />
+        </mxCell>
+        <mxCell id="gw-10117" value="REQ20260903" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#E2E8F0;align=center;fontSize=11;" parent="1" vertex="1">
+          <mxGeometry x="1116.0" y="483.33333333333337" width="164.66666666666666" height="90.66666666666667" as="geometry" />
+        </mxCell>
+        <mxCell id="gw-10118" value="渠道接口改造" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#E2E8F0;align=center;fontSize=11;" parent="1" vertex="1">
+          <mxGeometry x="1280.6666666666667" y="483.33333333333337" width="164.66666666666666" height="90.66666666666667" as="geometry" />
+        </mxCell>
+        <mxCell id="gw-10119" value="渠道系统" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#E2E8F0;align=center;fontSize=11;" parent="1" vertex="1">
+          <mxGeometry x="1445.3333333333333" y="483.33333333333337" width="164.66666666666666" height="90.66666666666667" as="geometry" />
+        </mxCell>
+        <mxCell id="gw-10120" value="查看ZIP" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#E2E8F0;align=center;fontSize=11;" parent="1" vertex="1">
+          <mxGeometry x="1610.0" y="483.33333333333337" width="164.66666666666666" height="90.66666666666667" as="geometry" />
+        </mxCell>
+        <mxCell id="gw-10121" value="否" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#E2E8F0;align=center;fontSize=11;" parent="1" vertex="1">
+          <mxGeometry x="1774.6666666666665" y="483.33333333333337" width="164.66666666666666" height="90.66666666666667" as="geometry" />
+        </mxCell>
+        <mxCell id="gw-10122" value="仅查看" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#E2E8F0;align=center;fontSize=11;" parent="1" vertex="1">
+          <mxGeometry x="1939.3333333333333" y="483.33333333333337" width="164.66666666666666" height="90.66666666666667" as="geometry" />
+        </mxCell>
+        <mxCell id="gw-10123" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FEFCE8;strokeColor=#E2E8F0;arcSize=6;" parent="1" vertex="1">
+          <mxGeometry x="1116" y="586" width="988" height="112" as="geometry" />
+        </mxCell>
+        <mxCell id="gw-10124" value="关键说明" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=top;fontSize=12;fontStyle=1;fontColor=#0F172A;" parent="1" vertex="1">
+          <mxGeometry x="1128" y="594" width="964" height="18" as="geometry" />
+        </mxCell>
+        <mxCell id="gw-10125" value="1）只能在公共池里创建计划数据。&lt;br&gt;2）创建后，在“项目/公共池/总需求编号-需求名称”目录下自动生成测试进度。&lt;br&gt;3）如果测试属性未维护完整，不允许创建。" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=top;fontSize=11;fontColor=#334155;whiteSpace=wrap;" parent="1" vertex="1">
+          <mxGeometry x="1128" y="614" width="964" height="78" as="geometry" />
+        </mxCell>
+        <mxCell id="gw-10126" value="汇报重点：创建入口固定在公共池，避免提前拖走后自动建计划时找不到来源位置。" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;fontSize=10;fontColor=#64748B;whiteSpace=wrap;" parent="1" vertex="1">
+          <mxGeometry x="1116" y="708" width="988" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="gw-10127" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#CBD5E1;arcSize=8;shadow=1;" parent="1" vertex="1">
+          <mxGeometry x="40" y="790" width="1020" height="720" as="geometry" />
+        </mxCell>
+        <mxCell id="gw-10128" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#F8FAFC;strokeColor=#CBD5E1;arcSize=8;" parent="1" vertex="1">
+          <mxGeometry x="40" y="790" width="1020" height="34" as="geometry" />
+        </mxCell>
+        <mxCell id="gw-10129" value="●  ●  ●" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;fontSize=13;fontColor=#94A3B8;" parent="1" vertex="1">
+          <mxGeometry x="54" y="796" width="80" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="gw-10130" value="页面C：测试进度列表" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;fontSize=15;fontStyle=1;fontColor=#0F172A;" parent="1" vertex="1">
+          <mxGeometry x="140" y="794" width="820" height="24" as="geometry" />
+        </mxCell>
+        <mxCell id="gw-10131" value="作用：领导最常看的总览页，统一外显名称“测试进度”。" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=top;fontSize=11;fontColor=#475569;whiteSpace=wrap;" parent="1" vertex="1">
+          <mxGeometry x="56" y="832" width="988" height="34" as="geometry" />
+        </mxCell>
+        <mxCell id="gw-10132" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#F8FAFC;strokeColor=#E2E8F0;arcSize=6;" parent="1" vertex="1">
+          <mxGeometry x="56" y="872" width="988" height="62" as="geometry" />
+        </mxCell>
+        <mxCell id="gw-10133" value="顶部筛选" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=top;fontSize=12;fontStyle=1;fontColor=#0F172A;" parent="1" vertex="1">
+          <mxGeometry x="68" y="880" width="964" height="18" as="geometry" />
+        </mxCell>
+        <mxCell id="gw-10134" value="需求编号 / 需求名称 / 状态 / 系统 / 负责人 / 测试组 / 计划日期 / 实际日期" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=top;fontSize=11;fontColor=#334155;whiteSpace=wrap;" parent="1" vertex="1">
+          <mxGeometry x="68" y="900" width="964" height="28" as="geometry" />
+        </mxCell>
+        <mxCell id="gw-10135" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#E2E8F0;" parent="1" vertex="1">
+          <mxGeometry x="56" y="944" width="988" height="340" as="geometry" />
+        </mxCell>
+        <mxCell id="gw-10136" value="测试进度列表" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#6366F1;strokeColor=#6366F1;fontColor=#FFFFFF;fontStyle=1;align=left;spacingLeft=10;" parent="1" vertex="1">
+          <mxGeometry x="56" y="944" width="988" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="gw-10137" value="需求编号" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#EFF6FF;strokeColor=#E2E8F0;align=center;fontStyle=1;fontSize=11;" parent="1" vertex="1">
+          <mxGeometry x="56.0" y="970" width="123.5" height="22" as="geometry" />
+        </mxCell>
+        <mxCell id="gw-10138" value="需求名称" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#EFF6FF;strokeColor=#E2E8F0;align=center;fontStyle=1;fontSize=11;" parent="1" vertex="1">
+          <mxGeometry x="179.5" y="970" width="123.5" height="22" as="geometry" />
+        </mxCell>
+        <mxCell id="gw-10139" value="系统" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#EFF6FF;strokeColor=#E2E8F0;align=center;fontStyle=1;fontSize=11;" parent="1" vertex="1">
+          <mxGeometry x="303.0" y="970" width="123.5" height="22" as="geometry" />
+        </mxCell>
+        <mxCell id="gw-10140" value="状态" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#EFF6FF;strokeColor=#E2E8F0;align=center;fontStyle=1;fontSize=11;" parent="1" vertex="1">
+          <mxGeometry x="426.5" y="970" width="123.5" height="22" as="geometry" />
+        </mxCell>
+        <mxCell id="gw-10141" value="负责人" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#EFF6FF;strokeColor=#E2E8F0;align=center;fontStyle=1;fontSize=11;" parent="1" vertex="1">
+          <mxGeometry x="550.0" y="970" width="123.5" height="22" as="geometry" />
+        </mxCell>
+        <mxCell id="gw-10142" value="计划区间" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#EFF6FF;strokeColor=#E2E8F0;align=center;fontStyle=1;fontSize=11;" parent="1" vertex="1">
+          <mxGeometry x="673.5" y="970" width="123.5" height="22" as="geometry" />
+        </mxCell>
+        <mxCell id="gw-10143" value="实际区间" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#EFF6FF;strokeColor=#E2E8F0;align=center;fontStyle=1;fontSize=11;" parent="1" vertex="1">
+          <mxGeometry x="797.0" y="970" width="123.5" height="22" as="geometry" />
+        </mxCell>
+        <mxCell id="gw-10144" value="操作" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#EFF6FF;strokeColor=#E2E8F0;align=center;fontStyle=1;fontSize=11;" parent="1" vertex="1">
+          <mxGeometry x="920.5" y="970" width="123.5" height="22" as="geometry" />
+        </mxCell>
+        <mxCell id="gw-10145" value="L001" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#E2E8F0;align=center;fontSize=11;" parent="1" vertex="1">
+          <mxGeometry x="56.0" y="992.0" width="123.5" height="97.33333333333333" as="geometry" />
+        </mxCell>
+        <mxCell id="gw-10146" value="电子保单优化" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#E2E8F0;align=center;fontSize=11;" parent="1" vertex="1">
+          <mxGeometry x="179.5" y="992.0" width="123.5" height="97.33333333333333" as="geometry" />
+        </mxCell>
+        <mxCell id="gw-10147" value="核心保单系统" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#E2E8F0;align=center;fontSize=11;" parent="1" vertex="1">
+          <mxGeometry x="303.0" y="992.0" width="123.5" height="97.33333333333333" as="geometry" />
+        </mxCell>
+        <mxCell id="gw-10148" value="待测试准备" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#E2E8F0;align=center;fontSize=11;" parent="1" vertex="1">
+          <mxGeometry x="426.5" y="992.0" width="123.5" height="97.33333333333333" as="geometry" />
+        </mxCell>
+        <mxCell id="gw-10149" value="张三" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#E2E8F0;align=center;fontSize=11;" parent="1" vertex="1">
+          <mxGeometry x="550.0" y="992.0" width="123.5" height="97.33333333333333" as="geometry" />
+        </mxCell>
+        <mxCell id="gw-10150" value="09-01 ~ 09-20" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#E2E8F0;align=center;fontSize=11;" parent="1" vertex="1">
+          <mxGeometry x="673.5" y="992.0" width="123.5" height="97.33333333333333" as="geometry" />
+        </mxCell>
+        <mxCell id="gw-10151" value="-" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#E2E8F0;align=center;fontSize=11;" parent="1" vertex="1">
+          <mxGeometry x="797.0" y="992.0" width="123.5" height="97.33333333333333" as="geometry" />
+        </mxCell>
+        <mxCell id="gw-10152" value="编辑 / 开始准备 / 缺陷" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#E2E8F0;align=center;fontSize=11;" parent="1" vertex="1">
+          <mxGeometry x="920.5" y="992.0" width="123.5" height="97.33333333333333" as="geometry" />
+        </mxCell>
+        <mxCell id="gw-10153" value="L002" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#E2E8F0;align=center;fontSize=11;" parent="1" vertex="1">
+          <mxGeometry x="56.0" y="1089.3333333333333" width="123.5" height="97.33333333333333" as="geometry" />
+        </mxCell>
+        <mxCell id="gw-10154" value="理赔规则调整" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#E2E8F0;align=center;fontSize=11;" parent="1" vertex="1">
+          <mxGeometry x="179.5" y="1089.3333333333333" width="123.5" height="97.33333333333333" as="geometry" />
+        </mxCell>
+        <mxCell id="gw-10155" value="理赔系统" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#E2E8F0;align=center;fontSize=11;" parent="1" vertex="1">
+          <mxGeometry x="303.0" y="1089.3333333333333" width="123.5" height="97.33333333333333" as="geometry" />
+        </mxCell>
+        <mxCell id="gw-10156" value="测试执行" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#E2E8F0;align=center;fontSize=11;" parent="1" vertex="1">
+          <mxGeometry x="426.5" y="1089.3333333333333" width="123.5" height="97.33333333333333" as="geometry" />
+        </mxCell>
+        <mxCell id="gw-10157" value="王五" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#E2E8F0;align=center;fontSize=11;" parent="1" vertex="1">
+          <mxGeometry x="550.0" y="1089.3333333333333" width="123.5" height="97.33333333333333" as="geometry" />
+        </mxCell>
+        <mxCell id="gw-10158" value="09-03 ~ 09-26" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#E2E8F0;align=center;fontSize=11;" parent="1" vertex="1">
+          <mxGeometry x="673.5" y="1089.3333333333333" width="123.5" height="97.33333333333333" as="geometry" />
+        </mxCell>
+        <mxCell id="gw-10159" value="09-04 ~ -" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#E2E8F0;align=center;fontSize=11;" parent="1" vertex="1">
+          <mxGeometry x="797.0" y="1089.3333333333333" width="123.5" height="97.33333333333333" as="geometry" />
+        </mxCell>
+        <mxCell id="gw-10160" value="编辑 / 结束执行 / 缺陷" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#E2E8F0;align=center;fontSize=11;" parent="1" vertex="1">
+          <mxGeometry x="920.5" y="1089.3333333333333" width="123.5" height="97.33333333333333" as="geometry" />
+        </mxCell>
+        <mxCell id="gw-10161" value="L003" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#E2E8F0;align=center;fontSize=11;" parent="1" vertex="1">
+          <mxGeometry x="56.0" y="1186.6666666666667" width="123.5" height="97.33333333333333" as="geometry" />
+        </mxCell>
+        <mxCell id="gw-10162" value="渠道接口改造" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#E2E8F0;align=center;fontSize=11;" parent="1" vertex="1">
+          <mxGeometry x="179.5" y="1186.6666666666667" width="123.5" height="97.33333333333333" as="geometry" />
+        </mxCell>
+        <mxCell id="gw-10163" value="渠道系统" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#E2E8F0;align=center;fontSize=11;" parent="1" vertex="1">
+          <mxGeometry x="303.0" y="1186.6666666666667" width="123.5" height="97.33333333333333" as="geometry" />
+        </mxCell>
+        <mxCell id="gw-10164" value="已取消" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#E2E8F0;align=center;fontSize=11;" parent="1" vertex="1">
+          <mxGeometry x="426.5" y="1186.6666666666667" width="123.5" height="97.33333333333333" as="geometry" />
+        </mxCell>
+        <mxCell id="gw-10165" value="赵六" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#E2E8F0;align=center;fontSize=11;" parent="1" vertex="1">
+          <mxGeometry x="550.0" y="1186.6666666666667" width="123.5" height="97.33333333333333" as="geometry" />
+        </mxCell>
+        <mxCell id="gw-10166" value="09-10 ~ 09-30" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#E2E8F0;align=center;fontSize=11;" parent="1" vertex="1">
+          <mxGeometry x="673.5" y="1186.6666666666667" width="123.5" height="97.33333333333333" as="geometry" />
+        </mxCell>
+        <mxCell id="gw-10167" value="保留历史" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#E2E8F0;align=center;fontSize=11;" parent="1" vertex="1">
+          <mxGeometry x="797.0" y="1186.6666666666667" width="123.5" height="97.33333333333333" as="geometry" />
+        </mxCell>
+        <mxCell id="gw-10168" value="查看" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#E2E8F0;align=center;fontSize=11;" parent="1" vertex="1">
+          <mxGeometry x="920.5" y="1186.6666666666667" width="123.5" height="97.33333333333333" as="geometry" />
+        </mxCell>
+        <mxCell id="gw-10169" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#EEF2FF;strokeColor=#E2E8F0;arcSize=6;" parent="1" vertex="1">
+          <mxGeometry x="56" y="1296" width="988" height="96" as="geometry" />
+        </mxCell>
+        <mxCell id="gw-10170" value="状态列交互" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=top;fontSize=12;fontStyle=1;fontColor=#0F172A;" parent="1" vertex="1">
+          <mxGeometry x="68" y="1304" width="964" height="18" as="geometry" />
+        </mxCell>
+        <mxCell id="gw-10171" value="状态列可下拉展示合法的下一状态。&lt;br&gt;例如：待测试执行 -&gt; 可选“测试执行”。&lt;br&gt;点击时如果需要补充信息，则打开对应弹窗。" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=top;fontSize=11;fontColor=#334155;whiteSpace=wrap;" parent="1" vertex="1">
+          <mxGeometry x="68" y="1324" width="964" height="62" as="geometry" />
+        </mxCell>
+        <mxCell id="gw-10172" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#F0FDF4;strokeColor=#E2E8F0;arcSize=6;" parent="1" vertex="1">
+          <mxGeometry x="56" y="1402" width="988" height="82" as="geometry" />
+        </mxCell>
+        <mxCell id="gw-10173" value="操作列交互" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=top;fontSize=12;fontStyle=1;fontColor=#0F172A;" parent="1" vertex="1">
+          <mxGeometry x="68" y="1410" width="964" height="18" as="geometry" />
+        </mxCell>
+        <mxCell id="gw-10174" value="新增“创建缺陷 / 关联缺陷”按钮；缺陷来源字段沿用现有字段，自动带入需求编号。" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=top;fontSize=11;fontColor=#334155;whiteSpace=wrap;" parent="1" vertex="1">
+          <mxGeometry x="68" y="1430" width="964" height="48" as="geometry" />
+        </mxCell>
+        <mxCell id="gw-10175" value="汇报重点：这页就是原“测试计划页”，对外只改名，不改底层test_plan对象。" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;fontSize=10;fontColor=#64748B;whiteSpace=wrap;" parent="1" vertex="1">
+          <mxGeometry x="56" y="1478" width="988" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="gw-10176" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#CBD5E1;arcSize=8;shadow=1;" parent="1" vertex="1">
+          <mxGeometry x="1100" y="790" width="1020" height="720" as="geometry" />
+        </mxCell>
+        <mxCell id="gw-10177" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#F8FAFC;strokeColor=#CBD5E1;arcSize=8;" parent="1" vertex="1">
+          <mxGeometry x="1100" y="790" width="1020" height="34" as="geometry" />
+        </mxCell>
+        <mxCell id="gw-10178" value="●  ●  ●" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;fontSize=13;fontColor=#94A3B8;" parent="1" vertex="1">
+          <mxGeometry x="1114" y="796" width="80" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="gw-10179" value="页面D：测试进度编辑弹窗" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;fontSize=15;fontStyle=1;fontColor=#0F172A;" parent="1" vertex="1">
+          <mxGeometry x="1200" y="794" width="820" height="24" as="geometry" />
+        </mxCell>
+        <mxCell id="gw-10180" value="作用：编制或修改测试进度。计划名称/系统/需求名称等来源字段置灰。" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=top;fontSize=11;fontColor=#475569;whiteSpace=wrap;" parent="1" vertex="1">
+          <mxGeometry x="1116" y="832" width="988" height="34" as="geometry" />
+        </mxCell>
+        <mxCell id="gw-10181" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#F8FAFC;strokeColor=#E2E8F0;arcSize=6;" parent="1" vertex="1">
+          <mxGeometry x="1116" y="872" width="988" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="gw-10182" value="基础信息区" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=top;fontSize=12;fontStyle=1;fontColor=#0F172A;" parent="1" vertex="1">
+          <mxGeometry x="1128" y="880" width="964" height="18" as="geometry" />
+        </mxCell>
+        <mxCell id="gw-10183" value="需求编号（带入） / 需求名称（置灰） / 所属系统（置灰） / 默认负责人（可改） / 冒烟测试（是/否）" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=top;fontSize=11;fontColor=#334155;whiteSpace=wrap;" parent="1" vertex="1">
+          <mxGeometry x="1128" y="900" width="964" height="36" as="geometry" />
+        </mxCell>
+        <mxCell id="gw-10184" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#E2E8F0;" parent="1" vertex="1">
+          <mxGeometry x="1116" y="952" width="988" height="180" as="geometry" />
+        </mxCell>
+        <mxCell id="gw-10185" value="测试准备安排（多人）" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#8B5CF6;strokeColor=#8B5CF6;fontColor=#FFFFFF;fontStyle=1;align=left;spacingLeft=10;" parent="1" vertex="1">
+          <mxGeometry x="1116" y="952" width="988" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="gw-10186" value="人员" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#EFF6FF;strokeColor=#E2E8F0;align=center;fontStyle=1;fontSize=11;" parent="1" vertex="1">
+          <mxGeometry x="1116.0" y="978" width="164.66666666666666" height="22" as="geometry" />
+        </mxCell>
+        <mxCell id="gw-10187" value="准备计划开始" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#EFF6FF;strokeColor=#E2E8F0;align=center;fontStyle=1;fontSize=11;" parent="1" vertex="1">
+          <mxGeometry x="1280.6666666666667" y="978" width="164.66666666666666" height="22" as="geometry" />
+        </mxCell>
+        <mxCell id="gw-10188" value="准备计划结束" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#EFF6FF;strokeColor=#E2E8F0;align=center;fontStyle=1;fontSize=11;" parent="1" vertex="1">
+          <mxGeometry x="1445.3333333333333" y="978" width="164.66666666666666" height="22" as="geometry" />
+        </mxCell>
+        <mxCell id="gw-10189" value="准备实际开始" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#EFF6FF;strokeColor=#E2E8F0;align=center;fontStyle=1;fontSize=11;" parent="1" vertex="1">
+          <mxGeometry x="1610.0" y="978" width="164.66666666666666" height="22" as="geometry" />
+        </mxCell>
+        <mxCell id="gw-10190" value="准备实际结束" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#EFF6FF;strokeColor=#E2E8F0;align=center;fontStyle=1;fontSize=11;" parent="1" vertex="1">
+          <mxGeometry x="1774.6666666666665" y="978" width="164.66666666666666" height="22" as="geometry" />
+        </mxCell>
+        <mxCell id="gw-10191" value="操作" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#EFF6FF;strokeColor=#E2E8F0;align=center;fontStyle=1;fontSize=11;" parent="1" vertex="1">
+          <mxGeometry x="1939.3333333333333" y="978" width="164.66666666666666" height="22" as="geometry" />
+        </mxCell>
+        <mxCell id="gw-10192" value="张三" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#E2E8F0;align=center;fontSize=11;" parent="1" vertex="1">
+          <mxGeometry x="1116.0" y="1000.0" width="164.66666666666666" height="66.0" as="geometry" />
+        </mxCell>
+        <mxCell id="gw-10193" value="09-01" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#E2E8F0;align=center;fontSize=11;" parent="1" vertex="1">
+          <mxGeometry x="1280.6666666666667" y="1000.0" width="164.66666666666666" height="66.0" as="geometry" />
+        </mxCell>
+        <mxCell id="gw-10194" value="09-05" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#E2E8F0;align=center;fontSize=11;" parent="1" vertex="1">
+          <mxGeometry x="1445.3333333333333" y="1000.0" width="164.66666666666666" height="66.0" as="geometry" />
+        </mxCell>
+        <mxCell id="gw-10195" value="-" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#E2E8F0;align=center;fontSize=11;" parent="1" vertex="1">
+          <mxGeometry x="1610.0" y="1000.0" width="164.66666666666666" height="66.0" as="geometry" />
+        </mxCell>
+        <mxCell id="gw-10196" value="-" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#E2E8F0;align=center;fontSize=11;" parent="1" vertex="1">
+          <mxGeometry x="1774.6666666666665" y="1000.0" width="164.66666666666666" height="66.0" as="geometry" />
+        </mxCell>
+        <mxCell id="gw-10197" value="删除" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#E2E8F0;align=center;fontSize=11;" parent="1" vertex="1">
+          <mxGeometry x="1939.3333333333333" y="1000.0" width="164.66666666666666" height="66.0" as="geometry" />
+        </mxCell>
+        <mxCell id="gw-10198" value="李四" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#E2E8F0;align=center;fontSize=11;" parent="1" vertex="1">
+          <mxGeometry x="1116.0" y="1066.0" width="164.66666666666666" height="66.0" as="geometry" />
+        </mxCell>
+        <mxCell id="gw-10199" value="09-02" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#E2E8F0;align=center;fontSize=11;" parent="1" vertex="1">
+          <mxGeometry x="1280.6666666666667" y="1066.0" width="164.66666666666666" height="66.0" as="geometry" />
+        </mxCell>
+        <mxCell id="gw-10200" value="09-06" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#E2E8F0;align=center;fontSize=11;" parent="1" vertex="1">
+          <mxGeometry x="1445.3333333333333" y="1066.0" width="164.66666666666666" height="66.0" as="geometry" />
+        </mxCell>
+        <mxCell id="gw-10201" value="-" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#E2E8F0;align=center;fontSize=11;" parent="1" vertex="1">
+          <mxGeometry x="1610.0" y="1066.0" width="164.66666666666666" height="66.0" as="geometry" />
+        </mxCell>
+        <mxCell id="gw-10202" value="-" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#E2E8F0;align=center;fontSize=11;" parent="1" vertex="1">
+          <mxGeometry x="1774.6666666666665" y="1066.0" width="164.66666666666666" height="66.0" as="geometry" />
+        </mxCell>
+        <mxCell id="gw-10203" value="删除" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#E2E8F0;align=center;fontSize=11;" parent="1" vertex="1">
+          <mxGeometry x="1939.3333333333333" y="1066.0" width="164.66666666666666" height="66.0" as="geometry" />
+        </mxCell>
+        <mxCell id="gw-10204" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#E2E8F0;" parent="1" vertex="1">
+          <mxGeometry x="1116" y="1144" width="988" height="180" as="geometry" />
+        </mxCell>
+        <mxCell id="gw-10205" value="测试执行安排（多人）" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#8B5CF6;strokeColor=#8B5CF6;fontColor=#FFFFFF;fontStyle=1;align=left;spacingLeft=10;" parent="1" vertex="1">
+          <mxGeometry x="1116" y="1144" width="988" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="gw-10206" value="人员" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#EFF6FF;strokeColor=#E2E8F0;align=center;fontStyle=1;fontSize=11;" parent="1" vertex="1">
+          <mxGeometry x="1116.0" y="1170" width="164.66666666666666" height="22" as="geometry" />
+        </mxCell>
+        <mxCell id="gw-10207" value="执行计划开始" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#EFF6FF;strokeColor=#E2E8F0;align=center;fontStyle=1;fontSize=11;" parent="1" vertex="1">
+          <mxGeometry x="1280.6666666666667" y="1170" width="164.66666666666666" height="22" as="geometry" />
+        </mxCell>
+        <mxCell id="gw-10208" value="执行计划结束" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#EFF6FF;strokeColor=#E2E8F0;align=center;fontStyle=1;fontSize=11;" parent="1" vertex="1">
+          <mxGeometry x="1445.3333333333333" y="1170" width="164.66666666666666" height="22" as="geometry" />
+        </mxCell>
+        <mxCell id="gw-10209" value="执行实际开始" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#EFF6FF;strokeColor=#E2E8F0;align=center;fontStyle=1;fontSize=11;" parent="1" vertex="1">
+          <mxGeometry x="1610.0" y="1170" width="164.66666666666666" height="22" as="geometry" />
+        </mxCell>
+        <mxCell id="gw-10210" value="执行实际结束" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#EFF6FF;strokeColor=#E2E8F0;align=center;fontStyle=1;fontSize=11;" parent="1" vertex="1">
+          <mxGeometry x="1774.6666666666665" y="1170" width="164.66666666666666" height="22" as="geometry" />
+        </mxCell>
+        <mxCell id="gw-10211" value="操作" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#EFF6FF;strokeColor=#E2E8F0;align=center;fontStyle=1;fontSize=11;" parent="1" vertex="1">
+          <mxGeometry x="1939.3333333333333" y="1170" width="164.66666666666666" height="22" as="geometry" />
+        </mxCell>
+        <mxCell id="gw-10212" value="王五" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#E2E8F0;align=center;fontSize=11;" parent="1" vertex="1">
+          <mxGeometry x="1116.0" y="1192.0" width="164.66666666666666" height="66.0" as="geometry" />
+        </mxCell>
+        <mxCell id="gw-10213" value="09-08" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#E2E8F0;align=center;fontSize=11;" parent="1" vertex="1">
+          <mxGeometry x="1280.6666666666667" y="1192.0" width="164.66666666666666" height="66.0" as="geometry" />
+        </mxCell>
+        <mxCell id="gw-10214" value="09-15" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#E2E8F0;align=center;fontSize=11;" parent="1" vertex="1">
+          <mxGeometry x="1445.3333333333333" y="1192.0" width="164.66666666666666" height="66.0" as="geometry" />
+        </mxCell>
+        <mxCell id="gw-10215" value="-" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#E2E8F0;align=center;fontSize=11;" parent="1" vertex="1">
+          <mxGeometry x="1610.0" y="1192.0" width="164.66666666666666" height="66.0" as="geometry" />
+        </mxCell>
+        <mxCell id="gw-10216" value="-" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#E2E8F0;align=center;fontSize=11;" parent="1" vertex="1">
+          <mxGeometry x="1774.6666666666665" y="1192.0" width="164.66666666666666" height="66.0" as="geometry" />
+        </mxCell>
+        <mxCell id="gw-10217" value="删除" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#E2E8F0;align=center;fontSize=11;" parent="1" vertex="1">
+          <mxGeometry x="1939.3333333333333" y="1192.0" width="164.66666666666666" height="66.0" as="geometry" />
+        </mxCell>
+        <mxCell id="gw-10218" value="赵六" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#E2E8F0;align=center;fontSize=11;" parent="1" vertex="1">
+          <mxGeometry x="1116.0" y="1258.0" width="164.66666666666666" height="66.0" as="geometry" />
+        </mxCell>
+        <mxCell id="gw-10219" value="09-10" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#E2E8F0;align=center;fontSize=11;" parent="1" vertex="1">
+          <mxGeometry x="1280.6666666666667" y="1258.0" width="164.66666666666666" height="66.0" as="geometry" />
+        </mxCell>
+        <mxCell id="gw-10220" value="09-20" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#E2E8F0;align=center;fontSize=11;" parent="1" vertex="1">
+          <mxGeometry x="1445.3333333333333" y="1258.0" width="164.66666666666666" height="66.0" as="geometry" />
+        </mxCell>
+        <mxCell id="gw-10221" value="-" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#E2E8F0;align=center;fontSize=11;" parent="1" vertex="1">
+          <mxGeometry x="1610.0" y="1258.0" width="164.66666666666666" height="66.0" as="geometry" />
+        </mxCell>
+        <mxCell id="gw-10222" value="-" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#E2E8F0;align=center;fontSize=11;" parent="1" vertex="1">
+          <mxGeometry x="1774.6666666666665" y="1258.0" width="164.66666666666666" height="66.0" as="geometry" />
+        </mxCell>
+        <mxCell id="gw-10223" value="删除" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#E2E8F0;align=center;fontSize=11;" parent="1" vertex="1">
+          <mxGeometry x="1939.3333333333333" y="1258.0" width="164.66666666666666" height="66.0" as="geometry" />
+        </mxCell>
+        <mxCell id="gw-10224" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FEFCE8;strokeColor=#E2E8F0;arcSize=6;" parent="1" vertex="1">
+          <mxGeometry x="1116" y="1336" width="988" height="78" as="geometry" />
+        </mxCell>
+        <mxCell id="gw-10225" value="弹窗底部按钮" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=top;fontSize=12;fontStyle=1;fontColor=#0F172A;" parent="1" vertex="1">
+          <mxGeometry x="1128" y="1344" width="964" height="18" as="geometry" />
+        </mxCell>
+        <mxCell id="gw-10226" value="保存 / 提交审批。&lt;br&gt;保存只保存草稿；提交审批会流转到“待审批”。" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=top;fontSize=11;fontColor=#334155;whiteSpace=wrap;" parent="1" vertex="1">
+          <mxGeometry x="1128" y="1364" width="964" height="44" as="geometry" />
+        </mxCell>
+        <mxCell id="gw-10227" value="汇报重点：这里已经体现 8 个时间字段（准备4个 + 执行4个），方便统计人员空闲时间。" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;fontSize=10;fontColor=#64748B;whiteSpace=wrap;" parent="1" vertex="1">
+          <mxGeometry x="1116" y="1478" width="988" height="20" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="gw-10228" name="页面原型-2">
+    <mxGraphModel dx="1800" dy="1000" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2200" pageHeight="1750" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="gw-10229" value="INT测试管理 - 页面原型（2/2）" style="text;html=1;strokeColor=none;fillColor=none;align=left;fontSize=26;fontStyle=1;fontColor=#0F172A;" parent="1" vertex="1">
+          <mxGeometry x="40" y="20" width="700" height="32" as="geometry" />
+        </mxCell>
+        <mxCell id="gw-10230" value="这一页重点展示：审批、准备、执行、缺陷、项目成员等操作型页面。" style="text;html=1;strokeColor=none;fillColor=none;align=left;fontSize=13;fontColor=#475569;" parent="1" vertex="1">
+          <mxGeometry x="40" y="56" width="900" height="22" as="geometry" />
+        </mxCell>
+        <mxCell id="gw-10231" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#CBD5E1;arcSize=8;shadow=1;" parent="1" vertex="1">
+          <mxGeometry x="40" y="100" width="680" height="500" as="geometry" />
+        </mxCell>
+        <mxCell id="gw-10232" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#F8FAFC;strokeColor=#CBD5E1;arcSize=8;" parent="1" vertex="1">
+          <mxGeometry x="40" y="100" width="680" height="34" as="geometry" />
+        </mxCell>
+        <mxCell id="gw-10233" value="●  ●  ●" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;fontSize=13;fontColor=#94A3B8;" parent="1" vertex="1">
+          <mxGeometry x="54" y="106" width="80" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="gw-10234" value="页面E：审批弹窗" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;fontSize=15;fontStyle=1;fontColor=#0F172A;" parent="1" vertex="1">
+          <mxGeometry x="140" y="104" width="480" height="24" as="geometry" />
+        </mxCell>
+        <mxCell id="gw-10235" value="场景：状态从“测试计划/测试进度”提交到“待审批”后，由总负责人审批。" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=top;fontSize=11;fontColor=#475569;whiteSpace=wrap;" parent="1" vertex="1">
+          <mxGeometry x="56" y="142" width="648" height="34" as="geometry" />
+        </mxCell>
+        <mxCell id="gw-10236" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#F8FAFC;strokeColor=#E2E8F0;arcSize=6;" parent="1" vertex="1">
+          <mxGeometry x="56" y="182" width="648" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="gw-10237" value="审批信息" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=top;fontSize=12;fontStyle=1;fontColor=#0F172A;" parent="1" vertex="1">
+          <mxGeometry x="68" y="190" width="624" height="18" as="geometry" />
+        </mxCell>
+        <mxCell id="gw-10238" value="需求编号：L001&lt;br&gt;需求名称：电子保单优化&lt;br&gt;测试组：寿险测试组&lt;br&gt;测试组负责人：张三&lt;br&gt;总负责人：李总" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=top;fontSize=11;fontColor=#334155;whiteSpace=wrap;" parent="1" vertex="1">
+          <mxGeometry x="68" y="210" width="624" height="76" as="geometry" />
+        </mxCell>
+        <mxCell id="gw-10239" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#E2E8F0;arcSize=6;" parent="1" vertex="1">
+          <mxGeometry x="56" y="302" width="648" height="86" as="geometry" />
+        </mxCell>
+        <mxCell id="gw-10240" value="计划摘要" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=top;fontSize=12;fontStyle=1;fontColor=#0F172A;" parent="1" vertex="1">
+          <mxGeometry x="68" y="310" width="624" height="18" as="geometry" />
+        </mxCell>
+        <mxCell id="gw-10241" value="自动展示准备安排、执行安排、冒烟测试、需求说明书链接、开发计划完成时间等关键信息。" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=top;fontSize=11;fontColor=#334155;whiteSpace=wrap;" parent="1" vertex="1">
+          <mxGeometry x="68" y="330" width="624" height="52" as="geometry" />
+        </mxCell>
+        <mxCell id="gw-10242" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FEF2F2;strokeColor=#E2E8F0;arcSize=6;" parent="1" vertex="1">
+          <mxGeometry x="56" y="398" width="648" height="96" as="geometry" />
+        </mxCell>
+        <mxCell id="gw-10243" value="审批动作" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=top;fontSize=12;fontStyle=1;fontColor=#0F172A;" parent="1" vertex="1">
+          <mxGeometry x="68" y="406" width="624" height="18" as="geometry" />
+        </mxCell>
+        <mxCell id="gw-10244" value="审批通过 / 审批驳回。&lt;br&gt;驳回后返回“测试计划/测试进度”，附修改意见后重新提交。" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=top;fontSize=11;fontColor=#334155;whiteSpace=wrap;" parent="1" vertex="1">
+          <mxGeometry x="68" y="426" width="624" height="62" as="geometry" />
+        </mxCell>
+        <mxCell id="gw-10245" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FEFCE8;strokeColor=#E2E8F0;arcSize=6;" parent="1" vertex="1">
+          <mxGeometry x="56" y="504" width="648" height="56" as="geometry" />
+        </mxCell>
+        <mxCell id="gw-10246" value="底部按钮" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=top;fontSize=12;fontStyle=1;fontColor=#0F172A;" parent="1" vertex="1">
+          <mxGeometry x="68" y="512" width="624" height="18" as="geometry" />
+        </mxCell>
+        <mxCell id="gw-10247" value="通过 / 驳回 / 取消" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=top;fontSize=11;fontColor=#334155;whiteSpace=wrap;" parent="1" vertex="1">
+          <mxGeometry x="68" y="532" width="624" height="22" as="geometry" />
+        </mxCell>
+        <mxCell id="gw-10248" value="汇报重点：总负责人偏管理视角，不做具体排期录入。" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;fontSize=10;fontColor=#64748B;whiteSpace=wrap;" parent="1" vertex="1">
+          <mxGeometry x="56" y="568" width="648" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="gw-10249" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#CBD5E1;arcSize=8;shadow=1;" parent="1" vertex="1">
+          <mxGeometry x="760" y="100" width="680" height="500" as="geometry" />
+        </mxCell>
+        <mxCell id="gw-10250" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#F8FAFC;strokeColor=#CBD5E1;arcSize=8;" parent="1" vertex="1">
+          <mxGeometry x="760" y="100" width="680" height="34" as="geometry" />
+        </mxCell>
+        <mxCell id="gw-10251" value="●  ●  ●" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;fontSize=13;fontColor=#94A3B8;" parent="1" vertex="1">
+          <mxGeometry x="774" y="106" width="80" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="gw-10252" value="页面F：测试准备完成弹窗" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;fontSize=15;fontStyle=1;fontColor=#0F172A;" parent="1" vertex="1">
+          <mxGeometry x="860" y="104" width="480" height="24" as="geometry" />
+        </mxCell>
+        <mxCell id="gw-10253" value="场景：准备阶段结束时，由测试人员/负责人完成收口并流转到“待测试执行”。" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=top;fontSize=11;fontColor=#475569;whiteSpace=wrap;" parent="1" vertex="1">
+          <mxGeometry x="776" y="142" width="648" height="34" as="geometry" />
+        </mxCell>
+        <mxCell id="gw-10254" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#F8FAFC;strokeColor=#E2E8F0;arcSize=6;" parent="1" vertex="1">
+          <mxGeometry x="776" y="182" width="648" height="92" as="geometry" />
+        </mxCell>
+        <mxCell id="gw-10255" value="人员实际时间回顾" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=top;fontSize=12;fontStyle=1;fontColor=#0F172A;" parent="1" vertex="1">
+          <mxGeometry x="788" y="190" width="624" height="18" as="geometry" />
+        </mxCell>
+        <mxCell id="gw-10256" value="自动展示每位准备人员的计划/实际时间，并校验是否都已点击“进入准备”。" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=top;fontSize=11;fontColor=#334155;whiteSpace=wrap;" parent="1" vertex="1">
+          <mxGeometry x="788" y="210" width="624" height="58" as="geometry" />
+        </mxCell>
+        <mxCell id="gw-10257" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#E2E8F0;arcSize=6;" parent="1" vertex="1">
+          <mxGeometry x="776" y="284" width="648" height="84" as="geometry" />
+        </mxCell>
+        <mxCell id="gw-10258" value="必须补充项" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=top;fontSize=12;fontStyle=1;fontColor=#0F172A;" parent="1" vertex="1">
+          <mxGeometry x="788" y="292" width="624" height="18" as="geometry" />
+        </mxCell>
+        <mxCell id="gw-10259" value="评审结果 / 评审人员 / 上传线下评审后的用例文件。" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=top;fontSize=11;fontColor=#334155;whiteSpace=wrap;" parent="1" vertex="1">
+          <mxGeometry x="788" y="312" width="624" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="gw-10260" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#EEF2FF;strokeColor=#E2E8F0;arcSize=6;" parent="1" vertex="1">
+          <mxGeometry x="776" y="378" width="648" height="92" as="geometry" />
+        </mxCell>
+        <mxCell id="gw-10261" value="流转结果" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=top;fontSize=12;fontStyle=1;fontColor=#0F172A;" parent="1" vertex="1">
+          <mxGeometry x="788" y="386" width="624" height="18" as="geometry" />
+        </mxCell>
+        <mxCell id="gw-10262" value="提交后：&lt;br&gt;1）补齐每个人的“准备实际结束时间”；&lt;br&gt;2）整体状态进入“待测试执行”。" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=top;fontSize=11;fontColor=#334155;whiteSpace=wrap;" parent="1" vertex="1">
+          <mxGeometry x="788" y="406" width="624" height="58" as="geometry" />
+        </mxCell>
+        <mxCell id="gw-10263" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FEFCE8;strokeColor=#E2E8F0;arcSize=6;" parent="1" vertex="1">
+          <mxGeometry x="776" y="480" width="648" height="56" as="geometry" />
+        </mxCell>
+        <mxCell id="gw-10264" value="底部按钮" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=top;fontSize=12;fontStyle=1;fontColor=#0F172A;" parent="1" vertex="1">
+          <mxGeometry x="788" y="488" width="624" height="18" as="geometry" />
+        </mxCell>
+        <mxCell id="gw-10265" value="完成测试准备 / 取消" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=top;fontSize=11;fontColor=#334155;whiteSpace=wrap;" parent="1" vertex="1">
+          <mxGeometry x="788" y="508" width="624" height="22" as="geometry" />
+        </mxCell>
+        <mxCell id="gw-10266" value="汇报重点：准备阶段不是只记整体时间，而是按人员逐个记实际时间。" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;fontSize=10;fontColor=#64748B;whiteSpace=wrap;" parent="1" vertex="1">
+          <mxGeometry x="776" y="568" width="648" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="gw-10267" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#CBD5E1;arcSize=8;shadow=1;" parent="1" vertex="1">
+          <mxGeometry x="1480" y="100" width="680" height="500" as="geometry" />
+        </mxCell>
+        <mxCell id="gw-10268" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#F8FAFC;strokeColor=#CBD5E1;arcSize=8;" parent="1" vertex="1">
+          <mxGeometry x="1480" y="100" width="680" height="34" as="geometry" />
+        </mxCell>
+        <mxCell id="gw-10269" value="●  ●  ●" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;fontSize=13;fontColor=#94A3B8;" parent="1" vertex="1">
+          <mxGeometry x="1494" y="106" width="80" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="gw-10270" value="页面G：通知消息卡片" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;fontSize=15;fontStyle=1;fontColor=#0F172A;" parent="1" vertex="1">
+          <mxGeometry x="1580" y="104" width="480" height="24" as="geometry" />
+        </mxCell>
+        <mxCell id="gw-10271" value="场景：到计划开始日 09:00 自动提醒；在通知里直接操作，不用先跳列表页。" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=top;fontSize=11;fontColor=#475569;whiteSpace=wrap;" parent="1" vertex="1">
+          <mxGeometry x="1496" y="142" width="648" height="34" as="geometry" />
+        </mxCell>
+        <mxCell id="gw-10272" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#F0FDF4;strokeColor=#E2E8F0;arcSize=6;" parent="1" vertex="1">
+          <mxGeometry x="1496" y="182" width="648" height="108" as="geometry" />
+        </mxCell>
+        <mxCell id="gw-10273" value="通知示例 1" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=top;fontSize=12;fontStyle=1;fontColor=#0F172A;" parent="1" vertex="1">
+          <mxGeometry x="1508" y="190" width="624" height="18" as="geometry" />
+        </mxCell>
+        <mxCell id="gw-10274" value="【测试准备计划已到开始时间】需求 L001 - 电子保单优化，请及时开始测试准备。&lt;br&gt;&lt;b&gt;按钮：&lt;/b&gt;进入测试准备" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=top;fontSize=11;fontColor=#334155;whiteSpace=wrap;" parent="1" vertex="1">
+          <mxGeometry x="1508" y="210" width="624" height="74" as="geometry" />
+        </mxCell>
+        <mxCell id="gw-10275" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#F0FDF4;strokeColor=#E2E8F0;arcSize=6;" parent="1" vertex="1">
+          <mxGeometry x="1496" y="300" width="648" height="108" as="geometry" />
+        </mxCell>
+        <mxCell id="gw-10276" value="通知示例 2" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=top;fontSize=12;fontStyle=1;fontColor=#0F172A;" parent="1" vertex="1">
+          <mxGeometry x="1508" y="308" width="624" height="18" as="geometry" />
+        </mxCell>
+        <mxCell id="gw-10277" value="【测试执行计划已到开始时间】需求 L002 - 理赔规则调整，请及时开始测试执行。&lt;br&gt;&lt;b&gt;按钮：&lt;/b&gt;进入测试执行" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=top;fontSize=11;fontColor=#334155;whiteSpace=wrap;" parent="1" vertex="1">
+          <mxGeometry x="1508" y="328" width="624" height="74" as="geometry" />
+        </mxCell>
+        <mxCell id="gw-10278" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FEFCE8;strokeColor=#E2E8F0;arcSize=6;" parent="1" vertex="1">
+          <mxGeometry x="1496" y="418" width="648" height="108" as="geometry" />
+        </mxCell>
+        <mxCell id="gw-10279" value="规则说明" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=top;fontSize=12;fontStyle=1;fontColor=#0F172A;" parent="1" vertex="1">
+          <mxGeometry x="1508" y="426" width="624" height="18" as="geometry" />
+        </mxCell>
+        <mxCell id="gw-10280" value="如果忘记流转，将每天 09:00 持续提醒。&lt;br&gt;如果需求已取消、日期调整、或已完成流转，则取消旧提醒。" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=top;fontSize=11;fontColor=#334155;whiteSpace=wrap;" parent="1" vertex="1">
+          <mxGeometry x="1508" y="446" width="624" height="74" as="geometry" />
+        </mxCell>
+        <mxCell id="gw-10281" value="汇报重点：通知不仅提示，还带“直接进入状态”的快捷按钮。" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;fontSize=10;fontColor=#64748B;whiteSpace=wrap;" parent="1" vertex="1">
+          <mxGeometry x="1496" y="568" width="648" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="gw-10282" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#CBD5E1;arcSize=8;shadow=1;" parent="1" vertex="1">
+          <mxGeometry x="40" y="640" width="680" height="620" as="geometry" />
+        </mxCell>
+        <mxCell id="gw-10283" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#F8FAFC;strokeColor=#CBD5E1;arcSize=8;" parent="1" vertex="1">
+          <mxGeometry x="40" y="640" width="680" height="34" as="geometry" />
+        </mxCell>
+        <mxCell id="gw-10284" value="●  ●  ●" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;fontSize=13;fontColor=#94A3B8;" parent="1" vertex="1">
+          <mxGeometry x="54" y="646" width="80" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="gw-10285" value="页面H：测试执行开始/结束交互" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;fontSize=15;fontStyle=1;fontColor=#0F172A;" parent="1" vertex="1">
+          <mxGeometry x="140" y="644" width="480" height="24" as="geometry" />
+        </mxCell>
+        <mxCell id="gw-10286" value="场景：进入“待测试执行”后，按人员记录执行实际时间。" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=top;fontSize=11;fontColor=#475569;whiteSpace=wrap;" parent="1" vertex="1">
+          <mxGeometry x="56" y="682" width="648" height="34" as="geometry" />
+        </mxCell>
+        <mxCell id="gw-10287" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#E2E8F0;" parent="1" vertex="1">
+          <mxGeometry x="56" y="722" width="648" height="220" as="geometry" />
+        </mxCell>
+        <mxCell id="gw-10288" value="执行人员清单" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#EF4444;strokeColor=#EF4444;fontColor=#FFFFFF;fontStyle=1;align=left;spacingLeft=10;" parent="1" vertex="1">
+          <mxGeometry x="56" y="722" width="648" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="gw-10289" value="人员" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#EFF6FF;strokeColor=#E2E8F0;align=center;fontStyle=1;fontSize=11;" parent="1" vertex="1">
+          <mxGeometry x="56.0" y="748" width="108.0" height="22" as="geometry" />
+        </mxCell>
+        <mxCell id="gw-10290" value="执行计划开始" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#EFF6FF;strokeColor=#E2E8F0;align=center;fontStyle=1;fontSize=11;" parent="1" vertex="1">
+          <mxGeometry x="164.0" y="748" width="108.0" height="22" as="geometry" />
+        </mxCell>
+        <mxCell id="gw-10291" value="执行计划结束" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#EFF6FF;strokeColor=#E2E8F0;align=center;fontStyle=1;fontSize=11;" parent="1" vertex="1">
+          <mxGeometry x="272.0" y="748" width="108.0" height="22" as="geometry" />
+        </mxCell>
+        <mxCell id="gw-10292" value="执行实际开始" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#EFF6FF;strokeColor=#E2E8F0;align=center;fontStyle=1;fontSize=11;" parent="1" vertex="1">
+          <mxGeometry x="380.0" y="748" width="108.0" height="22" as="geometry" />
+        </mxCell>
+        <mxCell id="gw-10293" value="执行实际结束" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#EFF6FF;strokeColor=#E2E8F0;align=center;fontStyle=1;fontSize=11;" parent="1" vertex="1">
+          <mxGeometry x="488.0" y="748" width="108.0" height="22" as="geometry" />
+        </mxCell>
+        <mxCell id="gw-10294" value="当前按钮" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#EFF6FF;strokeColor=#E2E8F0;align=center;fontStyle=1;fontSize=11;" parent="1" vertex="1">
+          <mxGeometry x="596.0" y="748" width="108.0" height="22" as="geometry" />
+        </mxCell>
+        <mxCell id="gw-10295" value="王五" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#E2E8F0;align=center;fontSize=11;" parent="1" vertex="1">
+          <mxGeometry x="56.0" y="770.0" width="108.0" height="86.0" as="geometry" />
+        </mxCell>
+        <mxCell id="gw-10296" value="09-08" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#E2E8F0;align=center;fontSize=11;" parent="1" vertex="1">
+          <mxGeometry x="164.0" y="770.0" width="108.0" height="86.0" as="geometry" />
+        </mxCell>
+        <mxCell id="gw-10297" value="09-15" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#E2E8F0;align=center;fontSize=11;" parent="1" vertex="1">
+          <mxGeometry x="272.0" y="770.0" width="108.0" height="86.0" as="geometry" />
+        </mxCell>
+        <mxCell id="gw-10298" value="-" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#E2E8F0;align=center;fontSize=11;" parent="1" vertex="1">
+          <mxGeometry x="380.0" y="770.0" width="108.0" height="86.0" as="geometry" />
+        </mxCell>
+        <mxCell id="gw-10299" value="-" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#E2E8F0;align=center;fontSize=11;" parent="1" vertex="1">
+          <mxGeometry x="488.0" y="770.0" width="108.0" height="86.0" as="geometry" />
+        </mxCell>
+        <mxCell id="gw-10300" value="进入测试执行" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#E2E8F0;align=center;fontSize=11;" parent="1" vertex="1">
+          <mxGeometry x="596.0" y="770.0" width="108.0" height="86.0" as="geometry" />
+        </mxCell>
+        <mxCell id="gw-10301" value="赵六" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#E2E8F0;align=center;fontSize=11;" parent="1" vertex="1">
+          <mxGeometry x="56.0" y="856.0" width="108.0" height="86.0" as="geometry" />
+        </mxCell>
+        <mxCell id="gw-10302" value="09-10" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#E2E8F0;align=center;fontSize=11;" parent="1" vertex="1">
+          <mxGeometry x="164.0" y="856.0" width="108.0" height="86.0" as="geometry" />
+        </mxCell>
+        <mxCell id="gw-10303" value="09-20" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#E2E8F0;align=center;fontSize=11;" parent="1" vertex="1">
+          <mxGeometry x="272.0" y="856.0" width="108.0" height="86.0" as="geometry" />
+        </mxCell>
+        <mxCell id="gw-10304" value="09-10 09:05" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#E2E8F0;align=center;fontSize=11;" parent="1" vertex="1">
+          <mxGeometry x="380.0" y="856.0" width="108.0" height="86.0" as="geometry" />
+        </mxCell>
+        <mxCell id="gw-10305" value="-" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#E2E8F0;align=center;fontSize=11;" parent="1" vertex="1">
+          <mxGeometry x="488.0" y="856.0" width="108.0" height="86.0" as="geometry" />
+        </mxCell>
+        <mxCell id="gw-10306" value="结束测试执行" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#E2E8F0;align=center;fontSize=11;" parent="1" vertex="1">
+          <mxGeometry x="596.0" y="856.0" width="108.0" height="86.0" as="geometry" />
+        </mxCell>
+        <mxCell id="gw-10307" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FEF2F2;strokeColor=#E2E8F0;arcSize=6;" parent="1" vertex="1">
+          <mxGeometry x="56" y="954" width="648" height="84" as="geometry" />
+        </mxCell>
+        <mxCell id="gw-10308" value="开始执行校验" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=top;fontSize=12;fontStyle=1;fontColor=#0F172A;" parent="1" vertex="1">
+          <mxGeometry x="68" y="962" width="624" height="18" as="geometry" />
+        </mxCell>
+        <mxCell id="gw-10309" value="若开发实际完成时间未提供，则弹窗提示并禁止进入测试执行。" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=top;fontSize=11;fontColor=#334155;whiteSpace=wrap;" parent="1" vertex="1">
+          <mxGeometry x="68" y="982" width="624" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="gw-10310" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#EEF2FF;strokeColor=#E2E8F0;arcSize=6;" parent="1" vertex="1">
+          <mxGeometry x="56" y="1048" width="648" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="gw-10311" value="完成后续动作" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=top;fontSize=12;fontStyle=1;fontColor=#0F172A;" parent="1" vertex="1">
+          <mxGeometry x="68" y="1056" width="624" height="18" as="geometry" />
+        </mxCell>
+        <mxCell id="gw-10312" value="所有人员都“结束测试执行”后，状态列下拉框允许进入“办结”。办结前校验：用例仅能为通过/跳过，缺陷必须已关闭或已取消。" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=top;fontSize=11;fontColor=#334155;whiteSpace=wrap;" parent="1" vertex="1">
+          <mxGeometry x="68" y="1076" width="624" height="86" as="geometry" />
+        </mxCell>
+        <mxCell id="gw-10313" value="汇报重点：测试执行同样按人员分别点击“进入 / 结束”，形成可统计的真实工时。" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;fontSize=10;fontColor=#64748B;whiteSpace=wrap;" parent="1" vertex="1">
+          <mxGeometry x="56" y="1228" width="648" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="gw-10314" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#CBD5E1;arcSize=8;shadow=1;" parent="1" vertex="1">
+          <mxGeometry x="760" y="640" width="680" height="620" as="geometry" />
+        </mxCell>
+        <mxCell id="gw-10315" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#F8FAFC;strokeColor=#CBD5E1;arcSize=8;" parent="1" vertex="1">
+          <mxGeometry x="760" y="640" width="680" height="34" as="geometry" />
+        </mxCell>
+        <mxCell id="gw-10316" value="●  ●  ●" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;fontSize=13;fontColor=#94A3B8;" parent="1" vertex="1">
+          <mxGeometry x="774" y="646" width="80" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="gw-10317" value="页面I：创建缺陷 / 关联缺陷弹窗" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;fontSize=15;fontStyle=1;fontColor=#0F172A;" parent="1" vertex="1">
+          <mxGeometry x="860" y="644" width="480" height="24" as="geometry" />
+        </mxCell>
+        <mxCell id="gw-10318" value="场景：在测试进度列表操作列中发起。" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=top;fontSize=11;fontColor=#475569;whiteSpace=wrap;" parent="1" vertex="1">
+          <mxGeometry x="776" y="682" width="648" height="34" as="geometry" />
+        </mxCell>
+        <mxCell id="gw-10319" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#F8FAFC;strokeColor=#E2E8F0;arcSize=6;" parent="1" vertex="1">
+          <mxGeometry x="776" y="722" width="648" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="gw-10320" value="创建缺陷" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=top;fontSize=12;fontStyle=1;fontColor=#0F172A;" parent="1" vertex="1">
+          <mxGeometry x="788" y="730" width="624" height="18" as="geometry" />
+        </mxCell>
+        <mxCell id="gw-10321" value="保留现有缺陷创建逻辑，但自动带出：&lt;br&gt;1）缺陷来源字段；&lt;br&gt;2）需求编号/测试进度编号。" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=top;fontSize=11;fontColor=#334155;whiteSpace=wrap;" parent="1" vertex="1">
+          <mxGeometry x="788" y="750" width="624" height="66" as="geometry" />
+        </mxCell>
+        <mxCell id="gw-10322" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#E2E8F0;arcSize=6;" parent="1" vertex="1">
+          <mxGeometry x="776" y="832" width="648" height="96" as="geometry" />
+        </mxCell>
+        <mxCell id="gw-10323" value="关联缺陷" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=top;fontSize=12;fontStyle=1;fontColor=#0F172A;" parent="1" vertex="1">
+          <mxGeometry x="788" y="840" width="624" height="18" as="geometry" />
+        </mxCell>
+        <mxCell id="gw-10324" value="支持从已有缺陷中搜索并关联；由于缺陷来源字段本来就存在，因此只需默认值策略，不需要新造概念。" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=top;fontSize=11;fontColor=#334155;whiteSpace=wrap;" parent="1" vertex="1">
+          <mxGeometry x="788" y="860" width="624" height="62" as="geometry" />
+        </mxCell>
+        <mxCell id="gw-10325" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FEFCE8;strokeColor=#E2E8F0;arcSize=6;" parent="1" vertex="1">
+          <mxGeometry x="776" y="938" width="648" height="88" as="geometry" />
+        </mxCell>
+        <mxCell id="gw-10326" value="关联后影响" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=top;fontSize=12;fontStyle=1;fontColor=#0F172A;" parent="1" vertex="1">
+          <mxGeometry x="788" y="946" width="624" height="18" as="geometry" />
+        </mxCell>
+        <mxCell id="gw-10327" value="办结校验会读取该需求/测试进度下的关联缺陷，未关闭/未取消时不能办结。" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=top;fontSize=11;fontColor=#334155;whiteSpace=wrap;" parent="1" vertex="1">
+          <mxGeometry x="788" y="966" width="624" height="54" as="geometry" />
+        </mxCell>
+        <mxCell id="gw-10328" value="汇报重点：缺陷归属依赖“缺陷来源”字段，保持和现有缺陷体系兼容。" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;fontSize=10;fontColor=#64748B;whiteSpace=wrap;" parent="1" vertex="1">
+          <mxGeometry x="776" y="1228" width="648" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="gw-10329" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#CBD5E1;arcSize=8;shadow=1;" parent="1" vertex="1">
+          <mxGeometry x="1480" y="640" width="680" height="620" as="geometry" />
+        </mxCell>
+        <mxCell id="gw-10330" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#F8FAFC;strokeColor=#CBD5E1;arcSize=8;" parent="1" vertex="1">
+          <mxGeometry x="1480" y="640" width="680" height="34" as="geometry" />
+        </mxCell>
+        <mxCell id="gw-10331" value="●  ●  ●" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;fontSize=13;fontColor=#94A3B8;" parent="1" vertex="1">
+          <mxGeometry x="1494" y="646" width="80" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="gw-10332" value="页面J：项目成员管理" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;fontSize=15;fontStyle=1;fontColor=#0F172A;" parent="1" vertex="1">
+          <mxGeometry x="1580" y="644" width="480" height="24" as="geometry" />
+        </mxCell>
+        <mxCell id="gw-10333" value="场景：项目设置中标识“测试组负责人”，用于派活和默认负责人映射。" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=top;fontSize=11;fontColor=#475569;whiteSpace=wrap;" parent="1" vertex="1">
+          <mxGeometry x="1496" y="682" width="648" height="34" as="geometry" />
+        </mxCell>
+        <mxCell id="gw-10334" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#E2E8F0;" parent="1" vertex="1">
+          <mxGeometry x="1496" y="722" width="648" height="250" as="geometry" />
+        </mxCell>
+        <mxCell id="gw-10335" value="项目成员列表示意" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#14B8A6;strokeColor=#14B8A6;fontColor=#FFFFFF;fontStyle=1;align=left;spacingLeft=10;" parent="1" vertex="1">
+          <mxGeometry x="1496" y="722" width="648" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="gw-10336" value="成员" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#EFF6FF;strokeColor=#E2E8F0;align=center;fontStyle=1;fontSize=11;" parent="1" vertex="1">
+          <mxGeometry x="1496.0" y="748" width="162.0" height="22" as="geometry" />
+        </mxCell>
+        <mxCell id="gw-10337" value="角色类型" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#EFF6FF;strokeColor=#E2E8F0;align=center;fontStyle=1;fontSize=11;" parent="1" vertex="1">
+          <mxGeometry x="1658.0" y="748" width="162.0" height="22" as="geometry" />
+        </mxCell>
+        <mxCell id="gw-10338" value="是否测试组负责人" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#EFF6FF;strokeColor=#E2E8F0;align=center;fontStyle=1;fontSize=11;" parent="1" vertex="1">
+          <mxGeometry x="1820.0" y="748" width="162.0" height="22" as="geometry" />
+        </mxCell>
+        <mxCell id="gw-10339" value="备注" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#EFF6FF;strokeColor=#E2E8F0;align=center;fontStyle=1;fontSize=11;" parent="1" vertex="1">
+          <mxGeometry x="1982.0" y="748" width="162.0" height="22" as="geometry" />
+        </mxCell>
+        <mxCell id="gw-10340" value="张三" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#E2E8F0;align=center;fontSize=11;" parent="1" vertex="1">
+          <mxGeometry x="1496.0" y="770.0" width="162.0" height="67.33333333333333" as="geometry" />
+        </mxCell>
+        <mxCell id="gw-10341" value="测试人员" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#E2E8F0;align=center;fontSize=11;" parent="1" vertex="1">
+          <mxGeometry x="1658.0" y="770.0" width="162.0" height="67.33333333333333" as="geometry" />
+        </mxCell>
+        <mxCell id="gw-10342" value="是" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#E2E8F0;align=center;fontSize=11;" parent="1" vertex="1">
+          <mxGeometry x="1820.0" y="770.0" width="162.0" height="67.33333333333333" as="geometry" />
+        </mxCell>
+        <mxCell id="gw-10343" value="寿险测试组负责人" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#E2E8F0;align=center;fontSize=11;" parent="1" vertex="1">
+          <mxGeometry x="1982.0" y="770.0" width="162.0" height="67.33333333333333" as="geometry" />
+        </mxCell>
+        <mxCell id="gw-10344" value="李四" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#E2E8F0;align=center;fontSize=11;" parent="1" vertex="1">
+          <mxGeometry x="1496.0" y="837.3333333333334" width="162.0" height="67.33333333333333" as="geometry" />
+        </mxCell>
+        <mxCell id="gw-10345" value="测试人员" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#E2E8F0;align=center;fontSize=11;" parent="1" vertex="1">
+          <mxGeometry x="1658.0" y="837.3333333333334" width="162.0" height="67.33333333333333" as="geometry" />
+        </mxCell>
+        <mxCell id="gw-10346" value="否" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#E2E8F0;align=center;fontSize=11;" parent="1" vertex="1">
+          <mxGeometry x="1820.0" y="837.3333333333334" width="162.0" height="67.33333333333333" as="geometry" />
+        </mxCell>
+        <mxCell id="gw-10347" value="普通成员" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#E2E8F0;align=center;fontSize=11;" parent="1" vertex="1">
+          <mxGeometry x="1982.0" y="837.3333333333334" width="162.0" height="67.33333333333333" as="geometry" />
+        </mxCell>
+        <mxCell id="gw-10348" value="李总" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#E2E8F0;align=center;fontSize=11;" parent="1" vertex="1">
+          <mxGeometry x="1496.0" y="904.6666666666666" width="162.0" height="67.33333333333333" as="geometry" />
+        </mxCell>
+        <mxCell id="gw-10349" value="领导" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#E2E8F0;align=center;fontSize=11;" parent="1" vertex="1">
+          <mxGeometry x="1658.0" y="904.6666666666666" width="162.0" height="67.33333333333333" as="geometry" />
+        </mxCell>
+        <mxCell id="gw-10350" value="否" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#E2E8F0;align=center;fontSize=11;" parent="1" vertex="1">
+          <mxGeometry x="1820.0" y="904.6666666666666" width="162.0" height="67.33333333333333" as="geometry" />
+        </mxCell>
+        <mxCell id="gw-10351" value="总负责人不在此干活" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#E2E8F0;align=center;fontSize=11;" parent="1" vertex="1">
+          <mxGeometry x="1982.0" y="904.6666666666666" width="162.0" height="67.33333333333333" as="geometry" />
+        </mxCell>
+        <mxCell id="gw-10352" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#F0FDF4;strokeColor=#E2E8F0;arcSize=6;" parent="1" vertex="1">
+          <mxGeometry x="1496" y="984" width="648" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="gw-10353" value="设计建议" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=top;fontSize=12;fontStyle=1;fontColor=#0F172A;" parent="1" vertex="1">
+          <mxGeometry x="1508" y="992" width="624" height="18" as="geometry" />
+        </mxCell>
+        <mxCell id="gw-10354" value="总负责人和测试组负责人不要混成一个字段。&lt;br&gt;项目成员页只维护“测试组负责人”标识；系统维护页维护“总负责人”。" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=top;fontSize=11;fontColor=#334155;whiteSpace=wrap;" parent="1" vertex="1">
+          <mxGeometry x="1508" y="1012" width="624" height="76" as="geometry" />
+        </mxCell>
+        <mxCell id="gw-10355" value="汇报重点：谁干活、谁审批、谁做管理，要在页面上分开。" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;fontSize=10;fontColor=#64748B;whiteSpace=wrap;" parent="1" vertex="1">
+          <mxGeometry x="1496" y="1228" width="648" height="20" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
