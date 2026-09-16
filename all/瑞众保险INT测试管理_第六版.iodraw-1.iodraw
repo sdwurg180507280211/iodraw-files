@@ -124,7 +124,7 @@
         <mxCell id="a3" value="陆续补充字段" style="text;html=1;strokeColor=none;fillColor=none;whiteSpace=wrap;align=center;verticalAlign=middle;fontSize=12;fontColor=#1F2329;" parent="1" vertex="1">
           <mxGeometry x="5" y="423.5" width="180" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="a3d" value="需求规格说明书链接&lt;div&gt;开发计划完成时间&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;whiteSpace=wrap;align=left;verticalAlign=middle;fontSize=12;fontColor=#1F2329;" parent="1" vertex="1">
+        <mxCell id="a3d" value="&lt;div&gt;需求已拖动到指定位置&lt;/div&gt;需求规格说明书链接&lt;div&gt;开发计划完成时间&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;whiteSpace=wrap;align=left;verticalAlign=middle;fontSize=12;fontColor=#1F2329;" parent="1" vertex="1">
           <mxGeometry x="230" y="392.7" width="235" height="55" as="geometry" />
         </mxCell>
         <mxCell id="a3x" value="" style="endArrow=block;endFill=1;html=1;rounded=0;strokeWidth=1.2;strokeColor=#666666;" parent="1" edge="1">
