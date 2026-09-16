@@ -400,7 +400,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="gw-10044" name="页面原型-1">
-    <mxGraphModel dx="1800" dy="1000" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2200" pageHeight="1700" math="0" shadow="0">
+    <mxGraphModel dx="1306" dy="667" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2200" pageHeight="1700" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -441,7 +441,7 @@
           <mxGeometry x="56" y="254" width="988" height="26" as="geometry" />
         </mxCell>
         <mxCell id="gw-10057" value="系统名称" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#EFF6FF;strokeColor=#E2E8F0;align=center;fontStyle=1;fontSize=11;" parent="1" vertex="1">
-          <mxGeometry x="56.0" y="280" width="141.14285714285714" height="22" as="geometry" />
+          <mxGeometry x="56" y="280" width="141.14285714285714" height="22" as="geometry" />
         </mxCell>
         <mxCell id="gw-10058" value="简称" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#EFF6FF;strokeColor=#E2E8F0;align=center;fontStyle=1;fontSize=11;" parent="1" vertex="1">
           <mxGeometry x="197.14285714285714" y="280" width="141.14285714285714" height="22" as="geometry" />
@@ -462,28 +462,28 @@
           <mxGeometry x="902.8571428571429" y="280" width="141.14285714285714" height="22" as="geometry" />
         </mxCell>
         <mxCell id="gw-10064" value="核心保单系统" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#E2E8F0;align=center;fontSize=11;" parent="1" vertex="1">
-          <mxGeometry x="56.0" y="302.0" width="141.14285714285714" height="90.66666666666667" as="geometry" />
+          <mxGeometry x="56" y="302" width="141.14285714285714" height="90.66666666666667" as="geometry" />
         </mxCell>
         <mxCell id="gw-10065" value="POLS" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#E2E8F0;align=center;fontSize=11;" parent="1" vertex="1">
-          <mxGeometry x="197.14285714285714" y="302.0" width="141.14285714285714" height="90.66666666666667" as="geometry" />
+          <mxGeometry x="197.14285714285714" y="302" width="141.14285714285714" height="90.66666666666667" as="geometry" />
         </mxCell>
         <mxCell id="gw-10066" value="是" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#E2E8F0;align=center;fontSize=11;" parent="1" vertex="1">
-          <mxGeometry x="338.2857142857143" y="302.0" width="141.14285714285714" height="90.66666666666667" as="geometry" />
+          <mxGeometry x="338.2857142857143" y="302" width="141.14285714285714" height="90.66666666666667" as="geometry" />
         </mxCell>
         <mxCell id="gw-10067" value="寿险测试组" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#E2E8F0;align=center;fontSize=11;" parent="1" vertex="1">
-          <mxGeometry x="479.42857142857144" y="302.0" width="141.14285714285714" height="90.66666666666667" as="geometry" />
+          <mxGeometry x="479.42857142857144" y="302" width="141.14285714285714" height="90.66666666666667" as="geometry" />
         </mxCell>
         <mxCell id="gw-10068" value="张三" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#E2E8F0;align=center;fontSize=11;" parent="1" vertex="1">
-          <mxGeometry x="620.5714285714286" y="302.0" width="141.14285714285714" height="90.66666666666667" as="geometry" />
+          <mxGeometry x="620.5714285714286" y="302" width="141.14285714285714" height="90.66666666666667" as="geometry" />
         </mxCell>
         <mxCell id="gw-10069" value="李总" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#E2E8F0;align=center;fontSize=11;" parent="1" vertex="1">
-          <mxGeometry x="761.7142857142857" y="302.0" width="141.14285714285714" height="90.66666666666667" as="geometry" />
+          <mxGeometry x="761.7142857142857" y="302" width="141.14285714285714" height="90.66666666666667" as="geometry" />
         </mxCell>
         <mxCell id="gw-10070" value="编辑" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#E2E8F0;align=center;fontSize=11;" parent="1" vertex="1">
-          <mxGeometry x="902.8571428571429" y="302.0" width="141.14285714285714" height="90.66666666666667" as="geometry" />
+          <mxGeometry x="902.8571428571429" y="302" width="141.14285714285714" height="90.66666666666667" as="geometry" />
         </mxCell>
         <mxCell id="gw-10071" value="理赔系统" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#E2E8F0;align=center;fontSize=11;" parent="1" vertex="1">
-          <mxGeometry x="56.0" y="392.6666666666667" width="141.14285714285714" height="90.66666666666667" as="geometry" />
+          <mxGeometry x="56" y="392.6666666666667" width="141.14285714285714" height="90.66666666666667" as="geometry" />
         </mxCell>
         <mxCell id="gw-10072" value="CLMS" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#E2E8F0;align=center;fontSize=11;" parent="1" vertex="1">
           <mxGeometry x="197.14285714285714" y="392.6666666666667" width="141.14285714285714" height="90.66666666666667" as="geometry" />
@@ -504,7 +504,7 @@
           <mxGeometry x="902.8571428571429" y="392.6666666666667" width="141.14285714285714" height="90.66666666666667" as="geometry" />
         </mxCell>
         <mxCell id="gw-10078" value="渠道系统" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#E2E8F0;align=center;fontSize=11;" parent="1" vertex="1">
-          <mxGeometry x="56.0" y="483.33333333333337" width="141.14285714285714" height="90.66666666666667" as="geometry" />
+          <mxGeometry x="56" y="483.33333333333337" width="141.14285714285714" height="90.66666666666667" as="geometry" />
         </mxCell>
         <mxCell id="gw-10079" value="CHNL" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#E2E8F0;align=center;fontSize=11;" parent="1" vertex="1">
           <mxGeometry x="197.14285714285714" y="483.33333333333337" width="141.14285714285714" height="90.66666666666667" as="geometry" />
@@ -567,7 +567,7 @@
           <mxGeometry x="1116" y="254" width="988" height="26" as="geometry" />
         </mxCell>
         <mxCell id="gw-10099" value="总需求编号" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#EFF6FF;strokeColor=#E2E8F0;align=center;fontStyle=1;fontSize=11;" parent="1" vertex="1">
-          <mxGeometry x="1116.0" y="280" width="164.66666666666666" height="22" as="geometry" />
+          <mxGeometry x="1116" y="280" width="164.66666666666666" height="22" as="geometry" />
         </mxCell>
         <mxCell id="gw-10100" value="需求名称" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#EFF6FF;strokeColor=#E2E8F0;align=center;fontStyle=1;fontSize=11;" parent="1" vertex="1">
           <mxGeometry x="1280.6666666666667" y="280" width="164.66666666666666" height="22" as="geometry" />
@@ -576,7 +576,7 @@
           <mxGeometry x="1445.3333333333333" y="280" width="164.66666666666666" height="22" as="geometry" />
         </mxCell>
         <mxCell id="gw-10102" value="ZIP链接" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#EFF6FF;strokeColor=#E2E8F0;align=center;fontStyle=1;fontSize=11;" parent="1" vertex="1">
-          <mxGeometry x="1610.0" y="280" width="164.66666666666666" height="22" as="geometry" />
+          <mxGeometry x="1610" y="280" width="164.66666666666666" height="22" as="geometry" />
         </mxCell>
         <mxCell id="gw-10103" value="测试属性是否已齐全" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#EFF6FF;strokeColor=#E2E8F0;align=center;fontStyle=1;fontSize=11;" parent="1" vertex="1">
           <mxGeometry x="1774.6666666666665" y="280" width="164.66666666666666" height="22" as="geometry" />
@@ -585,25 +585,25 @@
           <mxGeometry x="1939.3333333333333" y="280" width="164.66666666666666" height="22" as="geometry" />
         </mxCell>
         <mxCell id="gw-10105" value="REQ20260901" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#E2E8F0;align=center;fontSize=11;" parent="1" vertex="1">
-          <mxGeometry x="1116.0" y="302.0" width="164.66666666666666" height="90.66666666666667" as="geometry" />
+          <mxGeometry x="1116" y="302" width="164.66666666666666" height="90.66666666666667" as="geometry" />
         </mxCell>
         <mxCell id="gw-10106" value="电子保单优化" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#E2E8F0;align=center;fontSize=11;" parent="1" vertex="1">
-          <mxGeometry x="1280.6666666666667" y="302.0" width="164.66666666666666" height="90.66666666666667" as="geometry" />
+          <mxGeometry x="1280.6666666666667" y="302" width="164.66666666666666" height="90.66666666666667" as="geometry" />
         </mxCell>
         <mxCell id="gw-10107" value="核心保单系统" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#E2E8F0;align=center;fontSize=11;" parent="1" vertex="1">
-          <mxGeometry x="1445.3333333333333" y="302.0" width="164.66666666666666" height="90.66666666666667" as="geometry" />
+          <mxGeometry x="1445.3333333333333" y="302" width="164.66666666666666" height="90.66666666666667" as="geometry" />
         </mxCell>
         <mxCell id="gw-10108" value="查看ZIP" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#E2E8F0;align=center;fontSize=11;" parent="1" vertex="1">
-          <mxGeometry x="1610.0" y="302.0" width="164.66666666666666" height="90.66666666666667" as="geometry" />
+          <mxGeometry x="1610" y="302" width="164.66666666666666" height="90.66666666666667" as="geometry" />
         </mxCell>
         <mxCell id="gw-10109" value="是" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#E2E8F0;align=center;fontSize=11;" parent="1" vertex="1">
-          <mxGeometry x="1774.6666666666665" y="302.0" width="164.66666666666666" height="90.66666666666667" as="geometry" />
+          <mxGeometry x="1774.6666666666665" y="302" width="164.66666666666666" height="90.66666666666667" as="geometry" />
         </mxCell>
         <mxCell id="gw-10110" value="创建测试进度" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#E2E8F0;align=center;fontSize=11;" parent="1" vertex="1">
-          <mxGeometry x="1939.3333333333333" y="302.0" width="164.66666666666666" height="90.66666666666667" as="geometry" />
+          <mxGeometry x="1939.3333333333333" y="302" width="164.66666666666666" height="90.66666666666667" as="geometry" />
         </mxCell>
         <mxCell id="gw-10111" value="REQ20260902" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#E2E8F0;align=center;fontSize=11;" parent="1" vertex="1">
-          <mxGeometry x="1116.0" y="392.6666666666667" width="164.66666666666666" height="90.66666666666667" as="geometry" />
+          <mxGeometry x="1116" y="392.6666666666667" width="164.66666666666666" height="90.66666666666667" as="geometry" />
         </mxCell>
         <mxCell id="gw-10112" value="理赔规则调整" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#E2E8F0;align=center;fontSize=11;" parent="1" vertex="1">
           <mxGeometry x="1280.6666666666667" y="392.6666666666667" width="164.66666666666666" height="90.66666666666667" as="geometry" />
@@ -612,7 +612,7 @@
           <mxGeometry x="1445.3333333333333" y="392.6666666666667" width="164.66666666666666" height="90.66666666666667" as="geometry" />
         </mxCell>
         <mxCell id="gw-10114" value="查看ZIP" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#E2E8F0;align=center;fontSize=11;" parent="1" vertex="1">
-          <mxGeometry x="1610.0" y="392.6666666666667" width="164.66666666666666" height="90.66666666666667" as="geometry" />
+          <mxGeometry x="1610" y="392.6666666666667" width="164.66666666666666" height="90.66666666666667" as="geometry" />
         </mxCell>
         <mxCell id="gw-10115" value="是" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#E2E8F0;align=center;fontSize=11;" parent="1" vertex="1">
           <mxGeometry x="1774.6666666666665" y="392.6666666666667" width="164.66666666666666" height="90.66666666666667" as="geometry" />
@@ -621,7 +621,7 @@
           <mxGeometry x="1939.3333333333333" y="392.6666666666667" width="164.66666666666666" height="90.66666666666667" as="geometry" />
         </mxCell>
         <mxCell id="gw-10117" value="REQ20260903" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#E2E8F0;align=center;fontSize=11;" parent="1" vertex="1">
-          <mxGeometry x="1116.0" y="483.33333333333337" width="164.66666666666666" height="90.66666666666667" as="geometry" />
+          <mxGeometry x="1116" y="483.33333333333337" width="164.66666666666666" height="90.66666666666667" as="geometry" />
         </mxCell>
         <mxCell id="gw-10118" value="渠道接口改造" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#E2E8F0;align=center;fontSize=11;" parent="1" vertex="1">
           <mxGeometry x="1280.6666666666667" y="483.33333333333337" width="164.66666666666666" height="90.66666666666667" as="geometry" />
@@ -630,7 +630,7 @@
           <mxGeometry x="1445.3333333333333" y="483.33333333333337" width="164.66666666666666" height="90.66666666666667" as="geometry" />
         </mxCell>
         <mxCell id="gw-10120" value="查看ZIP" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#E2E8F0;align=center;fontSize=11;" parent="1" vertex="1">
-          <mxGeometry x="1610.0" y="483.33333333333337" width="164.66666666666666" height="90.66666666666667" as="geometry" />
+          <mxGeometry x="1610" y="483.33333333333337" width="164.66666666666666" height="90.66666666666667" as="geometry" />
         </mxCell>
         <mxCell id="gw-10121" value="否" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#E2E8F0;align=center;fontSize=11;" parent="1" vertex="1">
           <mxGeometry x="1774.6666666666665" y="483.33333333333337" width="164.66666666666666" height="90.66666666666667" as="geometry" />
@@ -681,97 +681,97 @@
           <mxGeometry x="56" y="944" width="988" height="26" as="geometry" />
         </mxCell>
         <mxCell id="gw-10137" value="需求编号" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#EFF6FF;strokeColor=#E2E8F0;align=center;fontStyle=1;fontSize=11;" parent="1" vertex="1">
-          <mxGeometry x="56.0" y="970" width="123.5" height="22" as="geometry" />
+          <mxGeometry x="56" y="970" width="123.5" height="22" as="geometry" />
         </mxCell>
         <mxCell id="gw-10138" value="需求名称" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#EFF6FF;strokeColor=#E2E8F0;align=center;fontStyle=1;fontSize=11;" parent="1" vertex="1">
           <mxGeometry x="179.5" y="970" width="123.5" height="22" as="geometry" />
         </mxCell>
         <mxCell id="gw-10139" value="系统" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#EFF6FF;strokeColor=#E2E8F0;align=center;fontStyle=1;fontSize=11;" parent="1" vertex="1">
-          <mxGeometry x="303.0" y="970" width="123.5" height="22" as="geometry" />
+          <mxGeometry x="303" y="970" width="123.5" height="22" as="geometry" />
         </mxCell>
         <mxCell id="gw-10140" value="状态" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#EFF6FF;strokeColor=#E2E8F0;align=center;fontStyle=1;fontSize=11;" parent="1" vertex="1">
           <mxGeometry x="426.5" y="970" width="123.5" height="22" as="geometry" />
         </mxCell>
         <mxCell id="gw-10141" value="负责人" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#EFF6FF;strokeColor=#E2E8F0;align=center;fontStyle=1;fontSize=11;" parent="1" vertex="1">
-          <mxGeometry x="550.0" y="970" width="123.5" height="22" as="geometry" />
+          <mxGeometry x="550" y="970" width="123.5" height="22" as="geometry" />
         </mxCell>
         <mxCell id="gw-10142" value="计划区间" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#EFF6FF;strokeColor=#E2E8F0;align=center;fontStyle=1;fontSize=11;" parent="1" vertex="1">
           <mxGeometry x="673.5" y="970" width="123.5" height="22" as="geometry" />
         </mxCell>
         <mxCell id="gw-10143" value="实际区间" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#EFF6FF;strokeColor=#E2E8F0;align=center;fontStyle=1;fontSize=11;" parent="1" vertex="1">
-          <mxGeometry x="797.0" y="970" width="123.5" height="22" as="geometry" />
+          <mxGeometry x="797" y="970" width="123.5" height="22" as="geometry" />
         </mxCell>
         <mxCell id="gw-10144" value="操作" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#EFF6FF;strokeColor=#E2E8F0;align=center;fontStyle=1;fontSize=11;" parent="1" vertex="1">
           <mxGeometry x="920.5" y="970" width="123.5" height="22" as="geometry" />
         </mxCell>
         <mxCell id="gw-10145" value="L001" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#E2E8F0;align=center;fontSize=11;" parent="1" vertex="1">
-          <mxGeometry x="56.0" y="992.0" width="123.5" height="97.33333333333333" as="geometry" />
+          <mxGeometry x="56" y="992" width="123.5" height="97.33333333333333" as="geometry" />
         </mxCell>
         <mxCell id="gw-10146" value="电子保单优化" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#E2E8F0;align=center;fontSize=11;" parent="1" vertex="1">
-          <mxGeometry x="179.5" y="992.0" width="123.5" height="97.33333333333333" as="geometry" />
+          <mxGeometry x="179.5" y="992" width="123.5" height="97.33333333333333" as="geometry" />
         </mxCell>
         <mxCell id="gw-10147" value="核心保单系统" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#E2E8F0;align=center;fontSize=11;" parent="1" vertex="1">
-          <mxGeometry x="303.0" y="992.0" width="123.5" height="97.33333333333333" as="geometry" />
+          <mxGeometry x="303" y="992" width="123.5" height="97.33333333333333" as="geometry" />
         </mxCell>
         <mxCell id="gw-10148" value="待测试准备" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#E2E8F0;align=center;fontSize=11;" parent="1" vertex="1">
-          <mxGeometry x="426.5" y="992.0" width="123.5" height="97.33333333333333" as="geometry" />
+          <mxGeometry x="426.5" y="992" width="123.5" height="97.33333333333333" as="geometry" />
         </mxCell>
         <mxCell id="gw-10149" value="张三" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#E2E8F0;align=center;fontSize=11;" parent="1" vertex="1">
-          <mxGeometry x="550.0" y="992.0" width="123.5" height="97.33333333333333" as="geometry" />
+          <mxGeometry x="550" y="992" width="123.5" height="97.33333333333333" as="geometry" />
         </mxCell>
         <mxCell id="gw-10150" value="09-01 ~ 09-20" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#E2E8F0;align=center;fontSize=11;" parent="1" vertex="1">
-          <mxGeometry x="673.5" y="992.0" width="123.5" height="97.33333333333333" as="geometry" />
+          <mxGeometry x="673.5" y="992" width="123.5" height="97.33333333333333" as="geometry" />
         </mxCell>
         <mxCell id="gw-10151" value="-" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#E2E8F0;align=center;fontSize=11;" parent="1" vertex="1">
-          <mxGeometry x="797.0" y="992.0" width="123.5" height="97.33333333333333" as="geometry" />
+          <mxGeometry x="797" y="992" width="123.5" height="97.33333333333333" as="geometry" />
         </mxCell>
         <mxCell id="gw-10152" value="编辑 / 开始准备 / 缺陷" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#E2E8F0;align=center;fontSize=11;" parent="1" vertex="1">
-          <mxGeometry x="920.5" y="992.0" width="123.5" height="97.33333333333333" as="geometry" />
+          <mxGeometry x="920.5" y="992" width="123.5" height="97.33333333333333" as="geometry" />
         </mxCell>
         <mxCell id="gw-10153" value="L002" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#E2E8F0;align=center;fontSize=11;" parent="1" vertex="1">
-          <mxGeometry x="56.0" y="1089.3333333333333" width="123.5" height="97.33333333333333" as="geometry" />
+          <mxGeometry x="56" y="1089.3333333333333" width="123.5" height="97.33333333333333" as="geometry" />
         </mxCell>
         <mxCell id="gw-10154" value="理赔规则调整" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#E2E8F0;align=center;fontSize=11;" parent="1" vertex="1">
           <mxGeometry x="179.5" y="1089.3333333333333" width="123.5" height="97.33333333333333" as="geometry" />
         </mxCell>
         <mxCell id="gw-10155" value="理赔系统" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#E2E8F0;align=center;fontSize=11;" parent="1" vertex="1">
-          <mxGeometry x="303.0" y="1089.3333333333333" width="123.5" height="97.33333333333333" as="geometry" />
+          <mxGeometry x="303" y="1089.3333333333333" width="123.5" height="97.33333333333333" as="geometry" />
         </mxCell>
         <mxCell id="gw-10156" value="测试执行" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#E2E8F0;align=center;fontSize=11;" parent="1" vertex="1">
           <mxGeometry x="426.5" y="1089.3333333333333" width="123.5" height="97.33333333333333" as="geometry" />
         </mxCell>
         <mxCell id="gw-10157" value="王五" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#E2E8F0;align=center;fontSize=11;" parent="1" vertex="1">
-          <mxGeometry x="550.0" y="1089.3333333333333" width="123.5" height="97.33333333333333" as="geometry" />
+          <mxGeometry x="550" y="1089.3333333333333" width="123.5" height="97.33333333333333" as="geometry" />
         </mxCell>
         <mxCell id="gw-10158" value="09-03 ~ 09-26" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#E2E8F0;align=center;fontSize=11;" parent="1" vertex="1">
           <mxGeometry x="673.5" y="1089.3333333333333" width="123.5" height="97.33333333333333" as="geometry" />
         </mxCell>
         <mxCell id="gw-10159" value="09-04 ~ -" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#E2E8F0;align=center;fontSize=11;" parent="1" vertex="1">
-          <mxGeometry x="797.0" y="1089.3333333333333" width="123.5" height="97.33333333333333" as="geometry" />
+          <mxGeometry x="797" y="1089.3333333333333" width="123.5" height="97.33333333333333" as="geometry" />
         </mxCell>
         <mxCell id="gw-10160" value="编辑 / 结束执行 / 缺陷" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#E2E8F0;align=center;fontSize=11;" parent="1" vertex="1">
           <mxGeometry x="920.5" y="1089.3333333333333" width="123.5" height="97.33333333333333" as="geometry" />
         </mxCell>
         <mxCell id="gw-10161" value="L003" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#E2E8F0;align=center;fontSize=11;" parent="1" vertex="1">
-          <mxGeometry x="56.0" y="1186.6666666666667" width="123.5" height="97.33333333333333" as="geometry" />
+          <mxGeometry x="56" y="1186.6666666666667" width="123.5" height="97.33333333333333" as="geometry" />
         </mxCell>
         <mxCell id="gw-10162" value="渠道接口改造" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#E2E8F0;align=center;fontSize=11;" parent="1" vertex="1">
           <mxGeometry x="179.5" y="1186.6666666666667" width="123.5" height="97.33333333333333" as="geometry" />
         </mxCell>
         <mxCell id="gw-10163" value="渠道系统" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#E2E8F0;align=center;fontSize=11;" parent="1" vertex="1">
-          <mxGeometry x="303.0" y="1186.6666666666667" width="123.5" height="97.33333333333333" as="geometry" />
+          <mxGeometry x="303" y="1186.6666666666667" width="123.5" height="97.33333333333333" as="geometry" />
         </mxCell>
         <mxCell id="gw-10164" value="已取消" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#E2E8F0;align=center;fontSize=11;" parent="1" vertex="1">
           <mxGeometry x="426.5" y="1186.6666666666667" width="123.5" height="97.33333333333333" as="geometry" />
         </mxCell>
         <mxCell id="gw-10165" value="赵六" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#E2E8F0;align=center;fontSize=11;" parent="1" vertex="1">
-          <mxGeometry x="550.0" y="1186.6666666666667" width="123.5" height="97.33333333333333" as="geometry" />
+          <mxGeometry x="550" y="1186.6666666666667" width="123.5" height="97.33333333333333" as="geometry" />
         </mxCell>
         <mxCell id="gw-10166" value="09-10 ~ 09-30" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#E2E8F0;align=center;fontSize=11;" parent="1" vertex="1">
           <mxGeometry x="673.5" y="1186.6666666666667" width="123.5" height="97.33333333333333" as="geometry" />
         </mxCell>
         <mxCell id="gw-10167" value="保留历史" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#E2E8F0;align=center;fontSize=11;" parent="1" vertex="1">
-          <mxGeometry x="797.0" y="1186.6666666666667" width="123.5" height="97.33333333333333" as="geometry" />
+          <mxGeometry x="797" y="1186.6666666666667" width="123.5" height="97.33333333333333" as="geometry" />
         </mxCell>
         <mxCell id="gw-10168" value="查看" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#E2E8F0;align=center;fontSize=11;" parent="1" vertex="1">
           <mxGeometry x="920.5" y="1186.6666666666667" width="123.5" height="97.33333333333333" as="geometry" />
@@ -828,7 +828,7 @@
           <mxGeometry x="1116" y="952" width="988" height="26" as="geometry" />
         </mxCell>
         <mxCell id="gw-10186" value="人员" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#EFF6FF;strokeColor=#E2E8F0;align=center;fontStyle=1;fontSize=11;" parent="1" vertex="1">
-          <mxGeometry x="1116.0" y="978" width="164.66666666666666" height="22" as="geometry" />
+          <mxGeometry x="1116" y="978" width="164.66666666666666" height="22" as="geometry" />
         </mxCell>
         <mxCell id="gw-10187" value="准备计划开始" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#EFF6FF;strokeColor=#E2E8F0;align=center;fontStyle=1;fontSize=11;" parent="1" vertex="1">
           <mxGeometry x="1280.6666666666667" y="978" width="164.66666666666666" height="22" as="geometry" />
@@ -837,7 +837,7 @@
           <mxGeometry x="1445.3333333333333" y="978" width="164.66666666666666" height="22" as="geometry" />
         </mxCell>
         <mxCell id="gw-10189" value="准备实际开始" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#EFF6FF;strokeColor=#E2E8F0;align=center;fontStyle=1;fontSize=11;" parent="1" vertex="1">
-          <mxGeometry x="1610.0" y="978" width="164.66666666666666" height="22" as="geometry" />
+          <mxGeometry x="1610" y="978" width="164.66666666666666" height="22" as="geometry" />
         </mxCell>
         <mxCell id="gw-10190" value="准备实际结束" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#EFF6FF;strokeColor=#E2E8F0;align=center;fontStyle=1;fontSize=11;" parent="1" vertex="1">
           <mxGeometry x="1774.6666666666665" y="978" width="164.66666666666666" height="22" as="geometry" />
@@ -846,40 +846,40 @@
           <mxGeometry x="1939.3333333333333" y="978" width="164.66666666666666" height="22" as="geometry" />
         </mxCell>
         <mxCell id="gw-10192" value="张三" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#E2E8F0;align=center;fontSize=11;" parent="1" vertex="1">
-          <mxGeometry x="1116.0" y="1000.0" width="164.66666666666666" height="66.0" as="geometry" />
+          <mxGeometry x="1116" y="1000" width="164.66666666666666" height="66" as="geometry" />
         </mxCell>
         <mxCell id="gw-10193" value="09-01" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#E2E8F0;align=center;fontSize=11;" parent="1" vertex="1">
-          <mxGeometry x="1280.6666666666667" y="1000.0" width="164.66666666666666" height="66.0" as="geometry" />
+          <mxGeometry x="1280.6666666666667" y="1000" width="164.66666666666666" height="66" as="geometry" />
         </mxCell>
         <mxCell id="gw-10194" value="09-05" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#E2E8F0;align=center;fontSize=11;" parent="1" vertex="1">
-          <mxGeometry x="1445.3333333333333" y="1000.0" width="164.66666666666666" height="66.0" as="geometry" />
+          <mxGeometry x="1445.3333333333333" y="1000" width="164.66666666666666" height="66" as="geometry" />
         </mxCell>
         <mxCell id="gw-10195" value="-" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#E2E8F0;align=center;fontSize=11;" parent="1" vertex="1">
-          <mxGeometry x="1610.0" y="1000.0" width="164.66666666666666" height="66.0" as="geometry" />
+          <mxGeometry x="1610" y="1000" width="164.66666666666666" height="66" as="geometry" />
         </mxCell>
         <mxCell id="gw-10196" value="-" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#E2E8F0;align=center;fontSize=11;" parent="1" vertex="1">
-          <mxGeometry x="1774.6666666666665" y="1000.0" width="164.66666666666666" height="66.0" as="geometry" />
+          <mxGeometry x="1774.6666666666665" y="1000" width="164.66666666666666" height="66" as="geometry" />
         </mxCell>
         <mxCell id="gw-10197" value="删除" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#E2E8F0;align=center;fontSize=11;" parent="1" vertex="1">
-          <mxGeometry x="1939.3333333333333" y="1000.0" width="164.66666666666666" height="66.0" as="geometry" />
+          <mxGeometry x="1939.3333333333333" y="1000" width="164.66666666666666" height="66" as="geometry" />
         </mxCell>
         <mxCell id="gw-10198" value="李四" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#E2E8F0;align=center;fontSize=11;" parent="1" vertex="1">
-          <mxGeometry x="1116.0" y="1066.0" width="164.66666666666666" height="66.0" as="geometry" />
+          <mxGeometry x="1116" y="1066" width="164.66666666666666" height="66" as="geometry" />
         </mxCell>
         <mxCell id="gw-10199" value="09-02" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#E2E8F0;align=center;fontSize=11;" parent="1" vertex="1">
-          <mxGeometry x="1280.6666666666667" y="1066.0" width="164.66666666666666" height="66.0" as="geometry" />
+          <mxGeometry x="1280.6666666666667" y="1066" width="164.66666666666666" height="66" as="geometry" />
         </mxCell>
         <mxCell id="gw-10200" value="09-06" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#E2E8F0;align=center;fontSize=11;" parent="1" vertex="1">
-          <mxGeometry x="1445.3333333333333" y="1066.0" width="164.66666666666666" height="66.0" as="geometry" />
+          <mxGeometry x="1445.3333333333333" y="1066" width="164.66666666666666" height="66" as="geometry" />
         </mxCell>
         <mxCell id="gw-10201" value="-" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#E2E8F0;align=center;fontSize=11;" parent="1" vertex="1">
-          <mxGeometry x="1610.0" y="1066.0" width="164.66666666666666" height="66.0" as="geometry" />
+          <mxGeometry x="1610" y="1066" width="164.66666666666666" height="66" as="geometry" />
         </mxCell>
         <mxCell id="gw-10202" value="-" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#E2E8F0;align=center;fontSize=11;" parent="1" vertex="1">
-          <mxGeometry x="1774.6666666666665" y="1066.0" width="164.66666666666666" height="66.0" as="geometry" />
+          <mxGeometry x="1774.6666666666665" y="1066" width="164.66666666666666" height="66" as="geometry" />
         </mxCell>
         <mxCell id="gw-10203" value="删除" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#E2E8F0;align=center;fontSize=11;" parent="1" vertex="1">
-          <mxGeometry x="1939.3333333333333" y="1066.0" width="164.66666666666666" height="66.0" as="geometry" />
+          <mxGeometry x="1939.3333333333333" y="1066" width="164.66666666666666" height="66" as="geometry" />
         </mxCell>
         <mxCell id="gw-10204" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#E2E8F0;" parent="1" vertex="1">
           <mxGeometry x="1116" y="1144" width="988" height="180" as="geometry" />
@@ -888,7 +888,7 @@
           <mxGeometry x="1116" y="1144" width="988" height="26" as="geometry" />
         </mxCell>
         <mxCell id="gw-10206" value="人员" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#EFF6FF;strokeColor=#E2E8F0;align=center;fontStyle=1;fontSize=11;" parent="1" vertex="1">
-          <mxGeometry x="1116.0" y="1170" width="164.66666666666666" height="22" as="geometry" />
+          <mxGeometry x="1116" y="1170" width="164.66666666666666" height="22" as="geometry" />
         </mxCell>
         <mxCell id="gw-10207" value="执行计划开始" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#EFF6FF;strokeColor=#E2E8F0;align=center;fontStyle=1;fontSize=11;" parent="1" vertex="1">
           <mxGeometry x="1280.6666666666667" y="1170" width="164.66666666666666" height="22" as="geometry" />
@@ -897,7 +897,7 @@
           <mxGeometry x="1445.3333333333333" y="1170" width="164.66666666666666" height="22" as="geometry" />
         </mxCell>
         <mxCell id="gw-10209" value="执行实际开始" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#EFF6FF;strokeColor=#E2E8F0;align=center;fontStyle=1;fontSize=11;" parent="1" vertex="1">
-          <mxGeometry x="1610.0" y="1170" width="164.66666666666666" height="22" as="geometry" />
+          <mxGeometry x="1610" y="1170" width="164.66666666666666" height="22" as="geometry" />
         </mxCell>
         <mxCell id="gw-10210" value="执行实际结束" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#EFF6FF;strokeColor=#E2E8F0;align=center;fontStyle=1;fontSize=11;" parent="1" vertex="1">
           <mxGeometry x="1774.6666666666665" y="1170" width="164.66666666666666" height="22" as="geometry" />
@@ -906,40 +906,40 @@
           <mxGeometry x="1939.3333333333333" y="1170" width="164.66666666666666" height="22" as="geometry" />
         </mxCell>
         <mxCell id="gw-10212" value="王五" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#E2E8F0;align=center;fontSize=11;" parent="1" vertex="1">
-          <mxGeometry x="1116.0" y="1192.0" width="164.66666666666666" height="66.0" as="geometry" />
+          <mxGeometry x="1116" y="1192" width="164.66666666666666" height="66" as="geometry" />
         </mxCell>
         <mxCell id="gw-10213" value="09-08" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#E2E8F0;align=center;fontSize=11;" parent="1" vertex="1">
-          <mxGeometry x="1280.6666666666667" y="1192.0" width="164.66666666666666" height="66.0" as="geometry" />
+          <mxGeometry x="1280.6666666666667" y="1192" width="164.66666666666666" height="66" as="geometry" />
         </mxCell>
         <mxCell id="gw-10214" value="09-15" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#E2E8F0;align=center;fontSize=11;" parent="1" vertex="1">
-          <mxGeometry x="1445.3333333333333" y="1192.0" width="164.66666666666666" height="66.0" as="geometry" />
+          <mxGeometry x="1445.3333333333333" y="1192" width="164.66666666666666" height="66" as="geometry" />
         </mxCell>
         <mxCell id="gw-10215" value="-" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#E2E8F0;align=center;fontSize=11;" parent="1" vertex="1">
-          <mxGeometry x="1610.0" y="1192.0" width="164.66666666666666" height="66.0" as="geometry" />
+          <mxGeometry x="1610" y="1192" width="164.66666666666666" height="66" as="geometry" />
         </mxCell>
         <mxCell id="gw-10216" value="-" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#E2E8F0;align=center;fontSize=11;" parent="1" vertex="1">
-          <mxGeometry x="1774.6666666666665" y="1192.0" width="164.66666666666666" height="66.0" as="geometry" />
+          <mxGeometry x="1774.6666666666665" y="1192" width="164.66666666666666" height="66" as="geometry" />
         </mxCell>
         <mxCell id="gw-10217" value="删除" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#E2E8F0;align=center;fontSize=11;" parent="1" vertex="1">
-          <mxGeometry x="1939.3333333333333" y="1192.0" width="164.66666666666666" height="66.0" as="geometry" />
+          <mxGeometry x="1939.3333333333333" y="1192" width="164.66666666666666" height="66" as="geometry" />
         </mxCell>
         <mxCell id="gw-10218" value="赵六" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#E2E8F0;align=center;fontSize=11;" parent="1" vertex="1">
-          <mxGeometry x="1116.0" y="1258.0" width="164.66666666666666" height="66.0" as="geometry" />
+          <mxGeometry x="1116" y="1258" width="164.66666666666666" height="66" as="geometry" />
         </mxCell>
         <mxCell id="gw-10219" value="09-10" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#E2E8F0;align=center;fontSize=11;" parent="1" vertex="1">
-          <mxGeometry x="1280.6666666666667" y="1258.0" width="164.66666666666666" height="66.0" as="geometry" />
+          <mxGeometry x="1280.6666666666667" y="1258" width="164.66666666666666" height="66" as="geometry" />
         </mxCell>
         <mxCell id="gw-10220" value="09-20" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#E2E8F0;align=center;fontSize=11;" parent="1" vertex="1">
-          <mxGeometry x="1445.3333333333333" y="1258.0" width="164.66666666666666" height="66.0" as="geometry" />
+          <mxGeometry x="1445.3333333333333" y="1258" width="164.66666666666666" height="66" as="geometry" />
         </mxCell>
         <mxCell id="gw-10221" value="-" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#E2E8F0;align=center;fontSize=11;" parent="1" vertex="1">
-          <mxGeometry x="1610.0" y="1258.0" width="164.66666666666666" height="66.0" as="geometry" />
+          <mxGeometry x="1610" y="1258" width="164.66666666666666" height="66" as="geometry" />
         </mxCell>
         <mxCell id="gw-10222" value="-" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#E2E8F0;align=center;fontSize=11;" parent="1" vertex="1">
-          <mxGeometry x="1774.6666666666665" y="1258.0" width="164.66666666666666" height="66.0" as="geometry" />
+          <mxGeometry x="1774.6666666666665" y="1258" width="164.66666666666666" height="66" as="geometry" />
         </mxCell>
         <mxCell id="gw-10223" value="删除" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#E2E8F0;align=center;fontSize=11;" parent="1" vertex="1">
-          <mxGeometry x="1939.3333333333333" y="1258.0" width="164.66666666666666" height="66.0" as="geometry" />
+          <mxGeometry x="1939.3333333333333" y="1258" width="164.66666666666666" height="66" as="geometry" />
         </mxCell>
         <mxCell id="gw-10224" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FEFCE8;strokeColor=#E2E8F0;arcSize=6;" parent="1" vertex="1">
           <mxGeometry x="1116" y="1336" width="988" height="78" as="geometry" />
